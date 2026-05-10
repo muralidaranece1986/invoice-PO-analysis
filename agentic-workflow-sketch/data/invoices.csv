@@ -1,0 +1,1501 @@
+invoice_id,invoice_date,vendor_id,vendor_name,currency,line_item_number,item_code,description,quantity,unit_price,line_total
+INV0001,23-11-2024,V004,Vendor_4,USD,1,ITM0048,Component gadget widget device assembly,19,213.85,4063.15
+INV0001,23-11-2024,V004,Vendor_4,USD,2,ITM0002,Gadget assembly widget,7,359.43,2516.01
+INV0001,23-11-2024,V004,Vendor_4,USD,3,ITM0045,Module assembly component part device gadget module,9,81.96,737.64
+INV0001,23-11-2024,V004,Vendor_4,USD,4,ITM0049,Widget module module module component,2,366.22,732.44
+INV0001,23-11-2024,V004,Vendor_4,USD,5,ITM0035,Accessory module assembly,20,443.3,8866
+INV0002,04-07-2024,V019,Vendor_19,EUR,1,ITM0046,Widget component component,3,428.38,1285.14
+INV0002,04-07-2024,V019,Vendor_19,EUR,2,ITM0007,Component unit module module gadget component,3,306.52,919.56
+INV0002,04-07-2024,V019,Vendor_19,EUR,3,ITM0011,Device gadget module accessory unit unit device,2,118.38,236.76
+INV0002,04-07-2024,V019,Vendor_19,EUR,4,ITM0003,Module widget accessory unit device,7,329.44,2306.08
+INV0002,04-07-2024,V019,Vendor_19,EUR,5,ITM0026,Gadget gadget device assembly device module,19,202.7,3851.3
+INV0003,22-04-2024,V005,Vendor_5,INR,1,ITM0006,Part gadget gadget,14,300.22,4203.08
+INV0003,22-04-2024,V005,Vendor_5,INR,2,ITM0025,Unit assembly component assembly accessory device,4,342.45,1369.8
+INV0003,22-04-2024,V005,Vendor_5,INR,3,ITM0035,Device module component gadget widget,9,486.08,4374.72
+INV0003,22-04-2024,V005,Vendor_5,INR,4,ITM0049,Assembly widget unit part,17,306.44,5209.48
+INV0003,22-04-2024,V005,Vendor_5,INR,5,ITM0010,Device assembly part assembly widget,11,246.86,2715.46
+INV0004,27-02-2024,V012,Vendor_12,GBP,1,ITM0016,Component unit widget,16,408.93,6542.88
+INV0004,27-02-2024,V012,Vendor_12,GBP,2,ITM0049,Device gadget assembly assembly component part module,7,464.81,3253.67
+INV0004,27-02-2024,V012,Vendor_12,GBP,3,ITM0049,Device module device module,17,228.49,3884.33
+INV0004,27-02-2024,V012,Vendor_12,GBP,4,ITM0016,Widget widget assembly unit,1,40.14,40.14
+INV0004,27-02-2024,V012,Vendor_12,GBP,5,ITM0041,Component accessory part,3,259.51,778.53
+INV0005,22-05-2024,V016,Vendor_16,EUR,1,ITM0035,Device part unit component,16,404.71,6475.36
+INV0005,22-05-2024,V016,Vendor_16,EUR,2,ITM0013,Widget module module,15,432.6,6489
+INV0005,22-05-2024,V016,Vendor_16,EUR,3,ITM0004,Widget device part,4,128.08,512.32
+INV0005,22-05-2024,V016,Vendor_16,EUR,4,ITM0013,Assembly module component component accessory module part,18,53.46,962.28
+INV0005,22-05-2024,V016,Vendor_16,EUR,5,ITM0042,Part accessory accessory part gadget assembly gadget,13,451.71,5872.23
+INV0006,25-03-2024,V013,Vendor_13,USD,1,ITM0025,Accessory part component device device,18,332.63,5987.34
+INV0006,25-03-2024,V013,Vendor_13,USD,2,ITM0032,Gadget gadget widget device,2,375.25,750.5
+INV0006,25-03-2024,V013,Vendor_13,USD,3,ITM0004,Unit assembly part,6,33.16,198.96
+INV0006,25-03-2024,V013,Vendor_13,USD,4,ITM0033,Part widget widget,8,204.87,1638.96
+INV0006,25-03-2024,V013,Vendor_13,USD,5,ITM0037,Unit widget widget unit,19,263.78,5011.82
+INV0007,13-05-2024,V007,Vendor_7,GBP,1,ITM0016,Module device component component device,3,9.61,28.83
+INV0007,13-05-2024,V007,Vendor_7,GBP,2,ITM0040,Accessory widget gadget component accessory part part,12,146.07,1752.84
+INV0007,13-05-2024,V007,Vendor_7,GBP,3,ITM0029,Device unit accessory unit widget part component,4,469.77,1879.08
+INV0007,13-05-2024,V007,Vendor_7,GBP,4,ITM0009,Gadget widget assembly component unit,11,105.78,1163.58
+INV0007,13-05-2024,V007,Vendor_7,GBP,5,ITM0041,Assembly component accessory widget unit,9,26.82,241.38
+INV0008,19-06-2024,V005,Vendor_5,GBP,1,ITM0011,Assembly module widget widget part accessory,18,22.83,410.94
+INV0008,19-06-2024,V005,Vendor_5,GBP,2,ITM0024,Assembly module widget module accessory accessory widget,12,108.99,1307.88
+INV0008,19-06-2024,V005,Vendor_5,GBP,3,ITM0016,Module unit part,20,375.99,7519.8
+INV0008,19-06-2024,V005,Vendor_5,GBP,4,ITM0016,Accessory part part widget,11,392.28,4315.08
+INV0008,19-06-2024,V005,Vendor_5,GBP,5,ITM0027,Component part widget part,16,115.1,1841.6
+INV0009,23-08-2024,V012,Vendor_12,GBP,1,ITM0015,Widget gadget component part,9,178.82,1609.38
+INV0009,23-08-2024,V012,Vendor_12,GBP,2,ITM0033,Device part component widget part component,19,481.45,9147.55
+INV0009,23-08-2024,V012,Vendor_12,GBP,3,ITM0017,Widget module device,11,221.01,2431.11
+INV0009,23-08-2024,V012,Vendor_12,GBP,4,ITM0033,Module unit component,14,5.84,81.76
+INV0009,23-08-2024,V012,Vendor_12,GBP,5,ITM0035,Module widget unit component,11,333.38,3667.18
+INV0010,04-03-2024,V010,Vendor_10,GBP,1,ITM0043,Component device assembly gadget unit module,6,309.68,1858.08
+INV0010,04-03-2024,V010,Vendor_10,GBP,2,ITM0020,Assembly widget component module unit unit,15,223.68,3355.2
+INV0010,04-03-2024,V010,Vendor_10,GBP,3,ITM0044,Assembly part accessory device,3,145.47,436.41
+INV0010,04-03-2024,V010,Vendor_10,GBP,4,ITM0043,Module part device device component gadget widget,8,492.05,3936.4
+INV0010,04-03-2024,V010,Vendor_10,GBP,5,ITM0040,Assembly part unit,13,249.72,3246.36
+INV0011,04-05-2024,V005,Vendor_5,USD,1,ITM0049,Part gadget part,17,234.95,3994.15
+INV0011,04-05-2024,V005,Vendor_5,USD,2,ITM0036,Accessory gadget gadget assembly,17,494.01,8398.17
+INV0011,04-05-2024,V005,Vendor_5,USD,3,ITM0039,Accessory accessory unit device assembly,18,225.73,4063.14
+INV0011,04-05-2024,V005,Vendor_5,USD,4,ITM0011,Assembly device part component device assembly,8,140.93,1127.44
+INV0011,04-05-2024,V005,Vendor_5,USD,5,ITM0005,Component module accessory widget gadget,13,348.51,4530.63
+INV0012,27-12-2024,V007,Vendor_7,USD,1,ITM0027,Component assembly widget part module device,1,429.08,429.08
+INV0012,27-12-2024,V007,Vendor_7,USD,2,ITM0049,Module widget module device part accessory module,18,400.93,7216.74
+INV0012,27-12-2024,V007,Vendor_7,USD,3,ITM0015,Gadget module widget module device module,6,421.05,2526.3
+INV0012,27-12-2024,V007,Vendor_7,USD,4,ITM0009,Assembly accessory unit unit widget module part,6,29.89,179.34
+INV0012,27-12-2024,V007,Vendor_7,USD,5,ITM0025,Gadget component device module device,14,129.87,1818.18
+INV0013,11-02-2024,V016,Vendor_16,USD,1,ITM0048,Widget accessory component widget accessory widget widget,8,103.68,829.44
+INV0013,11-02-2024,V016,Vendor_16,USD,2,ITM0002,Gadget gadget device unit gadget device device,6,304.92,1829.52
+INV0013,11-02-2024,V016,Vendor_16,USD,3,ITM0048,Part gadget component,19,17.71,336.49
+INV0013,11-02-2024,V016,Vendor_16,USD,4,ITM0020,Device accessory module device widget device unit,4,350.11,1400.44
+INV0013,11-02-2024,V016,Vendor_16,USD,5,ITM0020,Part part unit widget assembly unit widget,11,11.26,123.86
+INV0014,03-08-2024,V016,Vendor_16,USD,1,ITM0028,Unit part device module device,9,309.88,2788.92
+INV0014,03-08-2024,V016,Vendor_16,USD,2,ITM0035,Assembly part unit component component accessory,9,441.41,3972.69
+INV0014,03-08-2024,V016,Vendor_16,USD,3,ITM0016,Unit device module assembly component assembly,12,399.93,4799.16
+INV0014,03-08-2024,V016,Vendor_16,USD,4,ITM0022,Part device component widget accessory,3,124.47,373.41
+INV0014,03-08-2024,V016,Vendor_16,USD,5,ITM0027,Assembly component assembly device assembly widget,10,114.69,1146.9
+INV0015,20-12-2024,V008,Vendor_8,GBP,1,ITM0043,Module assembly module accessory assembly module assembly,10,129.44,1294.4
+INV0015,20-12-2024,V008,Vendor_8,GBP,2,ITM0008,Component device accessory device,7,112.11,784.77
+INV0015,20-12-2024,V008,Vendor_8,GBP,3,ITM0031,Device accessory assembly component widget,7,151.64,1061.48
+INV0015,20-12-2024,V008,Vendor_8,GBP,4,ITM0024,Component device gadget widget,2,278.91,557.82
+INV0015,20-12-2024,V008,Vendor_8,GBP,5,ITM0045,Unit device widget widget,10,237.35,2373.5
+INV0016,13-08-2024,V011,Vendor_11,EUR,1,ITM0004,Accessory assembly part module widget,2,80.1,160.2
+INV0016,13-08-2024,V011,Vendor_11,EUR,2,ITM0037,Widget component unit module unit,20,116.72,2334.4
+INV0016,13-08-2024,V011,Vendor_11,EUR,3,ITM0034,Assembly module part accessory component unit,20,480.25,9605
+INV0016,13-08-2024,V011,Vendor_11,EUR,4,ITM0007,Unit component widget component,18,42.16,758.88
+INV0016,13-08-2024,V011,Vendor_11,EUR,5,ITM0001,Assembly unit component component device device,15,40.23,603.45
+INV0017,29-04-2024,V009,Vendor_9,EUR,1,ITM0028,Assembly unit accessory,5,40.35,201.75
+INV0017,29-04-2024,V009,Vendor_9,EUR,2,ITM0011,Unit part accessory module assembly,10,351.37,3513.7
+INV0017,29-04-2024,V009,Vendor_9,EUR,3,ITM0018,Assembly module unit accessory device unit widget,8,481.15,3849.2
+INV0017,29-04-2024,V009,Vendor_9,EUR,4,ITM0037,Accessory accessory device component widget device assembly,15,458.46,6876.9
+INV0017,29-04-2024,V009,Vendor_9,EUR,5,ITM0012,Module part accessory assembly module component widget,6,168.25,1009.5
+INV0018,21-12-2024,V016,Vendor_16,GBP,1,ITM0043,Part assembly assembly component component accessory,13,433.13,5630.69
+INV0018,21-12-2024,V016,Vendor_16,GBP,2,ITM0001,Assembly widget assembly unit assembly module widget,9,276.86,2491.74
+INV0018,21-12-2024,V016,Vendor_16,GBP,3,ITM0019,Part assembly widget unit part device,10,277.67,2776.7
+INV0018,21-12-2024,V016,Vendor_16,GBP,4,ITM0036,Widget accessory accessory assembly gadget part,16,466.66,7466.56
+INV0018,21-12-2024,V016,Vendor_16,GBP,5,ITM0019,Device module assembly assembly assembly gadget gadget,20,256.58,5131.6
+INV0019,10-03-2024,V003,Vendor_3,GBP,1,ITM0050,Module part component widget device part,19,499.46,9489.74
+INV0019,10-03-2024,V003,Vendor_3,GBP,2,ITM0032,Assembly assembly component device,13,230.4,2995.2
+INV0019,10-03-2024,V003,Vendor_3,GBP,3,ITM0021,Accessory component module part,14,26.61,372.54
+INV0019,10-03-2024,V003,Vendor_3,GBP,4,ITM0048,Device part module unit part accessory,16,482.59,7721.44
+INV0019,10-03-2024,V003,Vendor_3,GBP,5,ITM0009,Accessory component widget part widget accessory widget,5,207.94,1039.7
+INV0020,01-12-2024,V005,Vendor_5,USD,1,ITM0031,Module device unit part part,18,193.1,3475.8
+INV0020,01-12-2024,V005,Vendor_5,USD,2,ITM0021,Part widget widget unit accessory accessory,3,219.82,659.46
+INV0020,01-12-2024,V005,Vendor_5,USD,3,ITM0007,Module device accessory,2,165.57,331.14
+INV0020,01-12-2024,V005,Vendor_5,USD,4,ITM0004,Module module component module device,6,89.14,534.84
+INV0020,01-12-2024,V005,Vendor_5,USD,5,ITM0006,Part unit component accessory gadget assembly component,9,335.09,3015.81
+INV0021,26-08-2024,V010,Vendor_10,EUR,1,ITM0005,Accessory accessory component accessory device assembly,10,103.61,1036.1
+INV0021,26-08-2024,V010,Vendor_10,EUR,2,ITM0025,Widget module module component device widget,13,140.87,1831.31
+INV0021,26-08-2024,V010,Vendor_10,EUR,3,ITM0037,Accessory device part,10,388.99,3889.9
+INV0021,26-08-2024,V010,Vendor_10,EUR,4,ITM0015,Part gadget gadget component device device device,5,315.98,1579.9
+INV0021,26-08-2024,V010,Vendor_10,EUR,5,ITM0041,Component module unit,5,49.62,248.1
+INV0022,31-05-2024,V011,Vendor_11,INR,1,ITM0012,Gadget assembly accessory assembly,9,416.08,3744.72
+INV0022,31-05-2024,V011,Vendor_11,INR,2,ITM0017,Accessory component part part assembly widget,8,430.77,3446.16
+INV0022,31-05-2024,V011,Vendor_11,INR,3,ITM0047,Accessory part module part widget assembly,15,187.45,2811.75
+INV0022,31-05-2024,V011,Vendor_11,INR,4,ITM0048,Unit part accessory widget component,1,311.68,311.68
+INV0022,31-05-2024,V011,Vendor_11,INR,5,ITM0036,Accessory gadget widget part accessory,10,326.37,3263.7
+INV0023,29-02-2024,V005,Vendor_5,USD,1,ITM0003,Accessory gadget component assembly module,12,336.89,4042.68
+INV0023,29-02-2024,V005,Vendor_5,USD,2,ITM0048,Module device gadget module widget assembly module,9,21.19,190.71
+INV0023,29-02-2024,V005,Vendor_5,USD,3,ITM0024,Module accessory part widget,12,274.51,3294.12
+INV0023,29-02-2024,V005,Vendor_5,USD,4,ITM0042,Widget component accessory accessory part,3,333.07,999.21
+INV0023,29-02-2024,V005,Vendor_5,USD,5,ITM0042,Accessory widget module accessory part gadget part,18,107.54,1935.72
+INV0024,20-04-2024,V008,Vendor_8,GBP,1,ITM0050,Part unit component accessory,5,272.41,1362.05
+INV0024,20-04-2024,V008,Vendor_8,GBP,2,ITM0012,Unit widget widget,8,296.48,2371.84
+INV0024,20-04-2024,V008,Vendor_8,GBP,3,ITM0002,Component gadget module gadget,3,240.74,722.22
+INV0024,20-04-2024,V008,Vendor_8,GBP,4,ITM0050,Assembly widget assembly accessory widget,17,154.31,2623.27
+INV0024,20-04-2024,V008,Vendor_8,GBP,5,ITM0042,Widget assembly module,4,247.68,990.72
+INV0025,15-08-2024,V003,Vendor_3,USD,1,ITM0021,Gadget gadget unit unit device module unit,10,229.59,2295.9
+INV0025,15-08-2024,V003,Vendor_3,USD,2,ITM0039,Widget device part unit device device,7,217.88,1525.16
+INV0025,15-08-2024,V003,Vendor_3,USD,3,ITM0015,Module assembly module widget module unit,12,477.03,5724.36
+INV0025,15-08-2024,V003,Vendor_3,USD,4,ITM0044,Widget part widget widget device part,18,34.69,624.42
+INV0025,15-08-2024,V003,Vendor_3,USD,5,ITM0036,Component gadget module unit device part device,10,302.2,3022
+INV0026,29-06-2024,V004,Vendor_4,EUR,1,ITM0010,Component widget part module device unit,14,423.35,5926.9
+INV0026,29-06-2024,V004,Vendor_4,EUR,2,ITM0050,Unit unit widget accessory part component gadget,10,461.16,4611.6
+INV0026,29-06-2024,V004,Vendor_4,EUR,3,ITM0023,Gadget gadget unit,3,75.23,225.69
+INV0026,29-06-2024,V004,Vendor_4,EUR,4,ITM0041,Widget assembly module,15,173.74,2606.1
+INV0026,29-06-2024,V004,Vendor_4,EUR,5,ITM0024,Device device unit widget widget,6,378.45,2270.7
+INV0027,26-01-2024,V003,Vendor_3,GBP,1,ITM0029,Assembly module component device gadget module,10,340.72,3407.2
+INV0027,26-01-2024,V003,Vendor_3,GBP,2,ITM0038,Assembly component gadget accessory widget gadget,7,384.84,2693.88
+INV0027,26-01-2024,V003,Vendor_3,GBP,3,ITM0049,Component gadget assembly module gadget,18,353.32,6359.76
+INV0027,26-01-2024,V003,Vendor_3,GBP,4,ITM0033,Part part widget part widget widget accessory,11,290,3190
+INV0027,26-01-2024,V003,Vendor_3,GBP,5,ITM0037,Device module gadget widget component part,20,232.75,4655
+INV0028,19-12-2024,V012,Vendor_12,USD,1,ITM0028,Component unit assembly,13,435.91,5666.83
+INV0028,19-12-2024,V012,Vendor_12,USD,2,ITM0048,Gadget part widget unit assembly,7,453.43,3174.01
+INV0028,19-12-2024,V012,Vendor_12,USD,3,ITM0023,Device part part component gadget,7,90.88,636.16
+INV0028,19-12-2024,V012,Vendor_12,USD,4,ITM0010,Gadget device assembly,19,381.14,7241.66
+INV0028,19-12-2024,V012,Vendor_12,USD,5,ITM0029,Unit accessory component accessory component module assembly,10,399.18,3991.8
+INV0029,29-10-2024,V002,Vendor_2,GBP,1,ITM0033,Component assembly widget,10,42.98,429.8
+INV0029,29-10-2024,V002,Vendor_2,GBP,2,ITM0006,Unit module unit accessory device widget accessory,19,327.66,6225.54
+INV0029,29-10-2024,V002,Vendor_2,GBP,3,ITM0021,Assembly gadget widget widget accessory module device,17,324.83,5522.11
+INV0029,29-10-2024,V002,Vendor_2,GBP,4,ITM0003,Device accessory assembly unit,12,189.56,2274.72
+INV0029,29-10-2024,V002,Vendor_2,GBP,5,ITM0019,Module module unit part unit widget,4,281.19,1124.76
+INV0030,16-07-2024,V010,Vendor_10,GBP,1,ITM0047,Part module unit gadget module accessory device,13,68.83,894.79
+INV0030,16-07-2024,V010,Vendor_10,GBP,2,ITM0046,Component module part,5,336.71,1683.55
+INV0030,16-07-2024,V010,Vendor_10,GBP,3,ITM0048,Widget device assembly widget component accessory module,16,100.04,1600.64
+INV0030,16-07-2024,V010,Vendor_10,GBP,4,ITM0009,Widget part widget device,17,23.69,402.73
+INV0030,16-07-2024,V010,Vendor_10,GBP,5,ITM0022,Gadget module gadget part device part gadget,15,26.63,399.45
+INV0031,05-07-2024,V008,Vendor_8,INR,1,ITM0040,Device part component component accessory,16,452.47,7239.52
+INV0031,05-07-2024,V008,Vendor_8,INR,2,ITM0013,Device unit module device part,17,266.09,4523.53
+INV0031,05-07-2024,V008,Vendor_8,INR,3,ITM0011,Part gadget component unit,12,279.5,3354
+INV0031,05-07-2024,V008,Vendor_8,INR,4,ITM0007,Part component device component accessory gadget module,8,409.27,3274.16
+INV0031,05-07-2024,V008,Vendor_8,INR,5,ITM0023,Module module module,13,497.29,6464.77
+INV0032,10-07-2024,V008,Vendor_8,USD,1,ITM0021,Part unit part,5,23.96,119.8
+INV0032,10-07-2024,V008,Vendor_8,USD,2,ITM0031,Device assembly unit accessory,1,131.68,131.68
+INV0032,10-07-2024,V008,Vendor_8,USD,3,ITM0010,Accessory unit module device component gadget component,20,231.27,4625.4
+INV0032,10-07-2024,V008,Vendor_8,USD,4,ITM0008,Unit widget assembly component gadget module,20,179.64,3592.8
+INV0032,10-07-2024,V008,Vendor_8,USD,5,ITM0037,Gadget device assembly module accessory assembly,17,279.31,4748.27
+INV0033,18-07-2024,V016,Vendor_16,USD,1,ITM0041,Accessory component widget part module device,4,386.89,1547.56
+INV0033,18-07-2024,V016,Vendor_16,USD,2,ITM0048,Gadget module module unit part,15,490.51,7357.65
+INV0033,18-07-2024,V016,Vendor_16,USD,3,ITM0031,Part widget device assembly,10,104.79,1047.9
+INV0033,18-07-2024,V016,Vendor_16,USD,4,ITM0013,Component component module,18,239.33,4307.94
+INV0033,18-07-2024,V016,Vendor_16,USD,5,ITM0003,Component part widget unit,9,66.62,599.58
+INV0034,07-07-2024,V014,Vendor_14,INR,1,ITM0048,Accessory module accessory assembly assembly accessory,17,137.03,2329.51
+INV0034,07-07-2024,V014,Vendor_14,INR,2,ITM0006,Widget unit part assembly component widget,10,156.72,1567.2
+INV0034,07-07-2024,V014,Vendor_14,INR,3,ITM0039,Gadget module assembly device accessory unit,14,140.9,1972.6
+INV0034,07-07-2024,V014,Vendor_14,INR,4,ITM0004,Device module assembly,6,476.63,2859.78
+INV0034,07-07-2024,V014,Vendor_14,INR,5,ITM0010,Device module gadget component unit module accessory,2,304.52,609.04
+INV0035,13-12-2024,V015,Vendor_15,GBP,1,ITM0024,Device unit assembly module unit component,4,17.83,71.32
+INV0035,13-12-2024,V015,Vendor_15,GBP,2,ITM0012,Assembly accessory gadget device device gadget,20,146.36,2927.2
+INV0035,13-12-2024,V015,Vendor_15,GBP,3,ITM0032,Gadget part assembly accessory,15,498.64,7479.6
+INV0035,13-12-2024,V015,Vendor_15,GBP,4,ITM0044,Device device assembly component component,6,357.35,2144.1
+INV0035,13-12-2024,V015,Vendor_15,GBP,5,ITM0045,Part assembly gadget gadget,5,122.18,610.9
+INV0036,09-09-2024,V001,Vendor_1,GBP,1,ITM0036,Module part assembly unit widget component accessory,16,265.22,4243.52
+INV0036,09-09-2024,V001,Vendor_1,GBP,2,ITM0050,Part widget accessory unit assembly device,12,68.53,822.36
+INV0036,09-09-2024,V001,Vendor_1,GBP,3,ITM0050,Unit gadget accessory module accessory widget gadget,5,155.54,777.7
+INV0036,09-09-2024,V001,Vendor_1,GBP,4,ITM0011,Accessory component accessory assembly component,3,129.05,387.15
+INV0036,09-09-2024,V001,Vendor_1,GBP,5,ITM0041,Component unit unit widget unit unit unit,6,331.07,1986.42
+INV0037,05-11-2024,V011,Vendor_11,USD,1,ITM0002,Widget unit unit,7,384.64,2692.48
+INV0037,05-11-2024,V011,Vendor_11,USD,2,ITM0027,Unit assembly unit component accessory assembly part,13,152.23,1978.99
+INV0037,05-11-2024,V011,Vendor_11,USD,3,ITM0005,Gadget module assembly,11,305.3,3358.3
+INV0037,05-11-2024,V011,Vendor_11,USD,4,ITM0021,Device part accessory gadget module,18,57.56,1036.08
+INV0037,05-11-2024,V011,Vendor_11,USD,5,ITM0016,Gadget assembly gadget widget accessory part,14,127.89,1790.46
+INV0038,22-03-2024,V011,Vendor_11,GBP,1,ITM0013,Assembly assembly assembly component,1,49.57,49.57
+INV0038,22-03-2024,V011,Vendor_11,GBP,2,ITM0026,Assembly component unit widget component unit part,16,146.45,2343.2
+INV0038,22-03-2024,V011,Vendor_11,GBP,3,ITM0001,Module part device,13,186.14,2419.82
+INV0038,22-03-2024,V011,Vendor_11,GBP,4,ITM0026,Unit gadget assembly,3,196.24,588.72
+INV0038,22-03-2024,V011,Vendor_11,GBP,5,ITM0029,Component accessory device gadget accessory module part,11,281.13,3092.43
+INV0039,06-07-2024,V005,Vendor_5,EUR,1,ITM0039,Module widget widget device part assembly gadget,17,74.19,1261.23
+INV0039,06-07-2024,V005,Vendor_5,EUR,2,ITM0040,Gadget accessory device component module,17,268.51,4564.67
+INV0039,06-07-2024,V005,Vendor_5,EUR,3,ITM0046,Component part module device accessory unit part,1,300.47,300.47
+INV0039,06-07-2024,V005,Vendor_5,EUR,4,ITM0017,Unit device unit gadget unit unit part,5,411.72,2058.6
+INV0039,06-07-2024,V005,Vendor_5,EUR,5,ITM0016,Unit device gadget,15,160.28,2404.2
+INV0040,18-03-2024,V014,Vendor_14,EUR,1,ITM0027,Device accessory part device widget gadget gadget,11,499.07,5489.77
+INV0040,18-03-2024,V014,Vendor_14,EUR,2,ITM0031,Module accessory assembly assembly assembly device part,9,306.99,2762.91
+INV0040,18-03-2024,V014,Vendor_14,EUR,3,ITM0013,Component component accessory accessory,10,353.93,3539.3
+INV0040,18-03-2024,V014,Vendor_14,EUR,4,ITM0045,Component module accessory part component gadget,18,192.95,3473.1
+INV0040,18-03-2024,V014,Vendor_14,EUR,5,ITM0026,Accessory part component component device,12,462.38,5548.56
+INV0041,01-12-2024,V009,Vendor_9,INR,1,ITM0014,Part component unit component,4,309.76,1239.04
+INV0041,01-12-2024,V009,Vendor_9,INR,2,ITM0038,Component device assembly unit,2,54.6,109.2
+INV0041,01-12-2024,V009,Vendor_9,INR,3,ITM0022,Widget device widget assembly accessory module,16,241.34,3861.44
+INV0041,01-12-2024,V009,Vendor_9,INR,4,ITM0013,Component unit accessory widget unit,18,370.65,6671.7
+INV0041,01-12-2024,V009,Vendor_9,INR,5,ITM0003,Module part accessory widget,13,395.04,5135.52
+INV0042,05-04-2024,V010,Vendor_10,USD,1,ITM0001,Unit widget accessory component accessory,18,264.54,4761.72
+INV0042,05-04-2024,V010,Vendor_10,USD,2,ITM0009,Assembly gadget gadget gadget assembly component gadget,11,396.43,4360.73
+INV0042,05-04-2024,V010,Vendor_10,USD,3,ITM0037,Gadget part accessory part,17,167.32,2844.44
+INV0042,05-04-2024,V010,Vendor_10,USD,4,ITM0026,Gadget gadget component,8,8.38,67.04
+INV0042,05-04-2024,V010,Vendor_10,USD,5,ITM0025,Assembly component component unit,19,10.66,202.54
+INV0043,30-11-2024,V012,Vendor_12,EUR,1,ITM0004,Assembly gadget device,10,346.69,3466.9
+INV0043,30-11-2024,V012,Vendor_12,EUR,2,ITM0041,Module gadget accessory assembly assembly,20,189.94,3798.8
+INV0043,30-11-2024,V012,Vendor_12,EUR,3,ITM0045,Accessory device part part device device unit,3,265.13,795.39
+INV0043,30-11-2024,V012,Vendor_12,EUR,4,ITM0034,Widget unit widget assembly assembly,19,270.65,5142.35
+INV0043,30-11-2024,V012,Vendor_12,EUR,5,ITM0011,Part module device device assembly,17,225.51,3833.67
+INV0044,29-01-2024,V015,Vendor_15,EUR,1,ITM0033,Assembly widget assembly part device module,1,374.17,374.17
+INV0044,29-01-2024,V015,Vendor_15,EUR,2,ITM0038,Widget module widget,2,467.62,935.24
+INV0044,29-01-2024,V015,Vendor_15,EUR,3,ITM0005,Widget module device device accessory unit,14,190.36,2665.04
+INV0044,29-01-2024,V015,Vendor_15,EUR,4,ITM0025,Part accessory module device unit assembly,12,63.72,764.64
+INV0044,29-01-2024,V015,Vendor_15,EUR,5,ITM0035,Assembly device component widget widget component,18,214.94,3868.92
+INV0045,13-07-2024,V008,Vendor_8,EUR,1,ITM0030,Gadget gadget part device widget,14,309.39,4331.46
+INV0045,13-07-2024,V008,Vendor_8,EUR,2,ITM0002,Gadget widget widget unit,2,126.14,252.28
+INV0045,13-07-2024,V008,Vendor_8,EUR,3,ITM0003,Module assembly device device gadget accessory,8,408.81,3270.48
+INV0045,13-07-2024,V008,Vendor_8,EUR,4,ITM0047,Component unit device component component gadget unit,8,209.71,1677.68
+INV0045,13-07-2024,V008,Vendor_8,EUR,5,ITM0018,Unit unit device,6,314.87,1889.22
+INV0046,06-08-2024,V018,Vendor_18,INR,1,ITM0004,Accessory device part component module,5,153.44,767.2
+INV0046,06-08-2024,V018,Vendor_18,INR,2,ITM0012,Assembly part component device part accessory unit,14,280.86,3932.04
+INV0046,06-08-2024,V018,Vendor_18,INR,3,ITM0009,Component gadget unit accessory part widget,7,30.51,213.57
+INV0046,06-08-2024,V018,Vendor_18,INR,4,ITM0025,Unit part gadget device device unit assembly,11,155.08,1705.88
+INV0046,06-08-2024,V018,Vendor_18,INR,5,ITM0001,Accessory accessory gadget accessory,16,457.65,7322.4
+INV0047,22-12-2024,V020,Vendor_20,EUR,1,ITM0026,Assembly device module assembly,12,157.67,1892.04
+INV0047,22-12-2024,V020,Vendor_20,EUR,2,ITM0024,Part assembly part device device component gadget,11,209.9,2308.9
+INV0047,22-12-2024,V020,Vendor_20,EUR,3,ITM0037,Device widget assembly unit,14,151.12,2115.68
+INV0047,22-12-2024,V020,Vendor_20,EUR,4,ITM0013,Component unit component assembly accessory,11,132.38,1456.18
+INV0047,22-12-2024,V020,Vendor_20,EUR,5,ITM0032,Assembly device module gadget assembly gadget,18,495.21,8913.78
+INV0048,31-01-2024,V017,Vendor_17,USD,1,ITM0005,Device module part,8,38.64,309.12
+INV0048,31-01-2024,V017,Vendor_17,USD,2,ITM0010,Gadget assembly widget,20,456.81,9136.2
+INV0048,31-01-2024,V017,Vendor_17,USD,3,ITM0043,Widget assembly module widget device assembly,10,13.49,134.9
+INV0048,31-01-2024,V017,Vendor_17,USD,4,ITM0045,Part accessory widget widget gadget gadget,17,129.95,2209.15
+INV0048,31-01-2024,V017,Vendor_17,USD,5,ITM0023,Part widget accessory assembly component,8,153.49,1227.92
+INV0049,11-02-2024,V002,Vendor_2,USD,1,ITM0026,Module assembly unit device widget part,11,285.1,3136.1
+INV0049,11-02-2024,V002,Vendor_2,USD,2,ITM0007,Accessory component accessory device unit component accessory,9,450.16,4051.44
+INV0049,11-02-2024,V002,Vendor_2,USD,3,ITM0037,Gadget part widget,7,295.58,2069.06
+INV0049,11-02-2024,V002,Vendor_2,USD,4,ITM0049,Accessory component unit unit part device,18,169.21,3045.78
+INV0049,11-02-2024,V002,Vendor_2,USD,5,ITM0049,Part device widget device,12,31.58,378.96
+INV0050,11-08-2024,V008,Vendor_8,USD,1,ITM0022,Device accessory module device widget component accessory,16,117.93,1886.88
+INV0050,11-08-2024,V008,Vendor_8,USD,2,ITM0036,Module device unit widget unit part,3,45.61,136.83
+INV0050,11-08-2024,V008,Vendor_8,USD,3,ITM0010,Device unit device component widget widget,10,225.14,2251.4
+INV0050,11-08-2024,V008,Vendor_8,USD,4,ITM0049,Widget widget module unit assembly,4,18,72
+INV0050,11-08-2024,V008,Vendor_8,USD,5,ITM0023,Widget unit component module component module widget,18,453.08,8155.44
+INV0051,04-05-2024,V019,Vendor_19,EUR,1,ITM0044,Gadget component component gadget gadget component,10,244.69,2446.9
+INV0051,04-05-2024,V019,Vendor_19,EUR,2,ITM0005,Component component unit unit gadget,4,72.07,288.28
+INV0051,04-05-2024,V019,Vendor_19,EUR,3,ITM0001,Component unit part component module part,20,72.38,1447.6
+INV0051,04-05-2024,V019,Vendor_19,EUR,4,ITM0021,Accessory gadget component accessory accessory component device,16,484.04,7744.64
+INV0051,04-05-2024,V019,Vendor_19,EUR,5,ITM0016,Module part module gadget unit,19,498.65,9474.35
+INV0052,02-04-2024,V018,Vendor_18,USD,1,ITM0047,Accessory gadget part part widget part,14,338.12,4733.68
+INV0052,02-04-2024,V018,Vendor_18,USD,2,ITM0009,Component unit device part widget,20,242.22,4844.4
+INV0052,02-04-2024,V018,Vendor_18,USD,3,ITM0026,Assembly accessory device assembly part module accessory,18,298.94,5380.92
+INV0052,02-04-2024,V018,Vendor_18,USD,4,ITM0006,Device unit module,20,26.93,538.6
+INV0052,02-04-2024,V018,Vendor_18,USD,5,ITM0042,Accessory component part widget widget gadget,17,281.21,4780.57
+INV0053,18-12-2024,V019,Vendor_19,EUR,1,ITM0029,Module device unit assembly module,1,243.97,243.97
+INV0053,18-12-2024,V019,Vendor_19,EUR,2,ITM0019,Accessory widget part device module module,7,262.95,1840.65
+INV0053,18-12-2024,V019,Vendor_19,EUR,3,ITM0023,Widget device assembly widget widget device,1,425.34,425.34
+INV0053,18-12-2024,V019,Vendor_19,EUR,4,ITM0042,Device gadget accessory,8,260.42,2083.36
+INV0053,18-12-2024,V019,Vendor_19,EUR,5,ITM0036,Component module assembly part,6,97.26,583.56
+INV0054,02-12-2024,V014,Vendor_14,INR,1,ITM0002,Part assembly module widget gadget component device,3,290.79,872.37
+INV0054,02-12-2024,V014,Vendor_14,INR,2,ITM0035,Module gadget gadget device,16,266.22,4259.52
+INV0054,02-12-2024,V014,Vendor_14,INR,3,ITM0041,Unit unit unit module part,20,90.4,1808
+INV0054,02-12-2024,V014,Vendor_14,INR,4,ITM0044,Accessory unit device component component,4,95.61,382.44
+INV0054,02-12-2024,V014,Vendor_14,INR,5,ITM0045,Assembly module gadget module,6,245.9,1475.4
+INV0055,02-10-2024,V006,Vendor_6,EUR,1,ITM0032,Gadget component assembly widget module,1,244.88,244.88
+INV0055,02-10-2024,V006,Vendor_6,EUR,2,ITM0013,Accessory assembly assembly device module part,16,87.79,1404.64
+INV0055,02-10-2024,V006,Vendor_6,EUR,3,ITM0037,Part gadget widget,8,271.12,2168.96
+INV0055,02-10-2024,V006,Vendor_6,EUR,4,ITM0011,Unit device assembly assembly unit component,18,412.52,7425.36
+INV0055,02-10-2024,V006,Vendor_6,EUR,5,ITM0024,Part widget device assembly accessory widget part,8,152.37,1218.96
+INV0056,17-01-2024,V015,Vendor_15,GBP,1,ITM0023,Module accessory device,8,108.89,871.12
+INV0056,17-01-2024,V015,Vendor_15,GBP,2,ITM0048,Device part unit module unit part part,2,287.19,574.38
+INV0056,17-01-2024,V015,Vendor_15,GBP,3,ITM0035,Unit gadget accessory component unit,17,492.82,8377.94
+INV0056,17-01-2024,V015,Vendor_15,GBP,4,ITM0044,Gadget device module,2,496.28,992.56
+INV0056,17-01-2024,V015,Vendor_15,GBP,5,ITM0042,Device gadget gadget component,8,381.93,3055.44
+INV0057,12-12-2024,V013,Vendor_13,INR,1,ITM0010,Unit unit module widget part device module,9,348.88,3139.92
+INV0057,12-12-2024,V013,Vendor_13,INR,2,ITM0024,Accessory component widget device device device,15,319.25,4788.75
+INV0057,12-12-2024,V013,Vendor_13,INR,3,ITM0045,Part part module accessory part,16,137.93,2206.88
+INV0057,12-12-2024,V013,Vendor_13,INR,4,ITM0019,Assembly gadget part part accessory,2,27.74,55.48
+INV0057,12-12-2024,V013,Vendor_13,INR,5,ITM0041,Widget accessory gadget assembly accessory module,5,441.66,2208.3
+INV0058,03-06-2024,V006,Vendor_6,GBP,1,ITM0006,Component module accessory gadget module,10,364.36,3643.6
+INV0058,03-06-2024,V006,Vendor_6,GBP,2,ITM0049,Module widget widget gadget,3,70.69,212.07
+INV0058,03-06-2024,V006,Vendor_6,GBP,3,ITM0015,Device widget device part accessory module gadget,3,118.33,354.99
+INV0058,03-06-2024,V006,Vendor_6,GBP,4,ITM0006,Widget module component,13,387.86,5042.18
+INV0058,03-06-2024,V006,Vendor_6,GBP,5,ITM0049,Unit device widget unit,20,326.76,6535.2
+INV0059,13-08-2024,V012,Vendor_12,EUR,1,ITM0041,Accessory unit module gadget,4,74.31,297.24
+INV0059,13-08-2024,V012,Vendor_12,EUR,2,ITM0008,Device module module part component unit component,20,302,6040
+INV0059,13-08-2024,V012,Vendor_12,EUR,3,ITM0039,Part device part unit component,17,305.43,5192.31
+INV0059,13-08-2024,V012,Vendor_12,EUR,4,ITM0013,Component widget accessory accessory assembly gadget,16,320.85,5133.6
+INV0059,13-08-2024,V012,Vendor_12,EUR,5,ITM0005,Part widget module component module part module,18,343.06,6175.08
+INV0060,29-08-2024,V003,Vendor_3,USD,1,ITM0038,Widget gadget accessory,13,255.77,3325.01
+INV0060,29-08-2024,V003,Vendor_3,USD,2,ITM0041,Device module module unit assembly gadget widget,3,258.1,774.3
+INV0060,29-08-2024,V003,Vendor_3,USD,3,ITM0014,Assembly module unit part,3,158.53,475.59
+INV0060,29-08-2024,V003,Vendor_3,USD,4,ITM0028,Widget widget module assembly,20,32.24,644.8
+INV0060,29-08-2024,V003,Vendor_3,USD,5,ITM0043,Gadget device device gadget,12,263.89,3166.68
+INV0061,12-05-2024,V006,Vendor_6,GBP,1,ITM0009,Device gadget accessory module module,17,36.62,622.54
+INV0061,12-05-2024,V006,Vendor_6,GBP,2,ITM0046,Unit assembly assembly widget part gadget gadget,4,447.66,1790.64
+INV0061,12-05-2024,V006,Vendor_6,GBP,3,ITM0044,Component assembly widget,1,126.05,126.05
+INV0061,12-05-2024,V006,Vendor_6,GBP,4,ITM0031,Module gadget accessory part assembly,14,116.14,1625.96
+INV0061,12-05-2024,V006,Vendor_6,GBP,5,ITM0016,Accessory component part unit gadget device,2,93.78,187.56
+INV0062,21-09-2024,V002,Vendor_2,INR,1,ITM0005,Part device component widget assembly module,10,284.08,2840.8
+INV0062,21-09-2024,V002,Vendor_2,INR,2,ITM0020,Component module accessory accessory device device assembly,8,79.53,636.24
+INV0062,21-09-2024,V002,Vendor_2,INR,3,ITM0027,Component module part,1,475.74,475.74
+INV0062,21-09-2024,V002,Vendor_2,INR,4,ITM0001,Part device widget assembly component assembly,2,486.42,972.84
+INV0062,21-09-2024,V002,Vendor_2,INR,5,ITM0010,Widget accessory accessory assembly device,12,231.94,2783.28
+INV0063,13-02-2024,V019,Vendor_19,USD,1,ITM0033,Unit module unit widget,5,122.2,611
+INV0063,13-02-2024,V019,Vendor_19,USD,2,ITM0017,Accessory module part component assembly,8,41.97,335.76
+INV0063,13-02-2024,V019,Vendor_19,USD,3,ITM0013,Part unit gadget gadget,15,160.45,2406.75
+INV0063,13-02-2024,V019,Vendor_19,USD,4,ITM0008,Module device assembly assembly part widget part,10,414.06,4140.6
+INV0063,13-02-2024,V019,Vendor_19,USD,5,ITM0045,Widget part component widget component module assembly,10,133.78,1337.8
+INV0064,30-03-2024,V001,Vendor_1,INR,1,ITM0029,Device component assembly part gadget widget part,8,69.7,557.6
+INV0064,30-03-2024,V001,Vendor_1,INR,2,ITM0026,Device accessory widget unit accessory,3,15.79,47.37
+INV0064,30-03-2024,V001,Vendor_1,INR,3,ITM0005,Accessory module gadget accessory,11,65.65,722.15
+INV0064,30-03-2024,V001,Vendor_1,INR,4,ITM0030,Gadget unit part,13,250.58,3257.54
+INV0064,30-03-2024,V001,Vendor_1,INR,5,ITM0025,Gadget gadget gadget component part widget,20,310.4,6208
+INV0065,27-11-2024,V010,Vendor_10,INR,1,ITM0027,Assembly widget module module unit part component,18,398.45,7172.1
+INV0065,27-11-2024,V010,Vendor_10,INR,2,ITM0025,Assembly part module unit component,9,94.01,846.09
+INV0065,27-11-2024,V010,Vendor_10,INR,3,ITM0021,Gadget accessory part widget accessory assembly device,8,487.12,3896.96
+INV0065,27-11-2024,V010,Vendor_10,INR,4,ITM0007,Unit component part accessory,2,383.2,766.4
+INV0065,27-11-2024,V010,Vendor_10,INR,5,ITM0015,Part part module part part gadget unit,12,457.42,5489.04
+INV0066,15-01-2024,V012,Vendor_12,EUR,1,ITM0037,Part part accessory assembly,6,247.77,1486.62
+INV0066,15-01-2024,V012,Vendor_12,EUR,2,ITM0006,Component gadget assembly,1,169.21,169.21
+INV0066,15-01-2024,V012,Vendor_12,EUR,3,ITM0040,Part module gadget part,11,34.48,379.28
+INV0066,15-01-2024,V012,Vendor_12,EUR,4,ITM0010,Device gadget widget assembly module widget device,13,295.08,3836.04
+INV0066,15-01-2024,V012,Vendor_12,EUR,5,ITM0022,Component accessory device module unit,16,326.34,5221.44
+INV0067,30-03-2024,V018,Vendor_18,GBP,1,ITM0015,Part module device component gadget widget device,19,198.84,3777.96
+INV0067,30-03-2024,V018,Vendor_18,GBP,2,ITM0050,Widget unit accessory accessory gadget unit accessory,5,168.93,844.65
+INV0067,30-03-2024,V018,Vendor_18,GBP,3,ITM0005,Module component unit accessory,11,226.08,2486.88
+INV0067,30-03-2024,V018,Vendor_18,GBP,4,ITM0017,Component widget component widget,1,28.83,28.83
+INV0067,30-03-2024,V018,Vendor_18,GBP,5,ITM0029,Accessory part assembly module assembly widget,16,395.42,6326.72
+INV0068,22-10-2024,V008,Vendor_8,EUR,1,ITM0029,Part widget widget,9,476.07,4284.63
+INV0068,22-10-2024,V008,Vendor_8,EUR,2,ITM0005,Gadget module device assembly accessory,3,172.29,516.87
+INV0068,22-10-2024,V008,Vendor_8,EUR,3,ITM0040,Device module unit unit module widget,11,106.75,1174.25
+INV0068,22-10-2024,V008,Vendor_8,EUR,4,ITM0013,Device device device component component component,2,199.49,398.98
+INV0068,22-10-2024,V008,Vendor_8,EUR,5,ITM0036,Gadget module module component unit unit,7,53.01,371.07
+INV0069,15-04-2024,V006,Vendor_6,GBP,1,ITM0006,Part component module assembly unit widget,18,196.83,3542.94
+INV0069,15-04-2024,V006,Vendor_6,GBP,2,ITM0024,Module assembly component assembly component component,2,79.81,159.62
+INV0069,15-04-2024,V006,Vendor_6,GBP,3,ITM0045,Widget module assembly,19,117.62,2234.78
+INV0069,15-04-2024,V006,Vendor_6,GBP,4,ITM0004,Part module assembly part assembly part,16,152.93,2446.88
+INV0069,15-04-2024,V006,Vendor_6,GBP,5,ITM0026,Assembly accessory part,20,77.99,1559.8
+INV0070,17-08-2024,V006,Vendor_6,EUR,1,ITM0014,Gadget module accessory module,5,417.88,2089.4
+INV0070,17-08-2024,V006,Vendor_6,EUR,2,ITM0017,Accessory accessory widget module module,11,429.03,4719.33
+INV0070,17-08-2024,V006,Vendor_6,EUR,3,ITM0034,Accessory widget device unit part gadget,5,78.36,391.8
+INV0070,17-08-2024,V006,Vendor_6,EUR,4,ITM0038,Device accessory accessory unit widget component assembly,12,439.56,5274.72
+INV0070,17-08-2024,V006,Vendor_6,EUR,5,ITM0017,Unit unit assembly gadget module unit,13,24.2,314.6
+INV0071,18-06-2024,V008,Vendor_8,USD,1,ITM0048,Accessory accessory widget part component component,16,429.83,6877.28
+INV0071,18-06-2024,V008,Vendor_8,USD,2,ITM0044,Accessory component component,15,388.15,5822.25
+INV0071,18-06-2024,V008,Vendor_8,USD,3,ITM0021,Device unit widget module accessory,14,371.77,5204.78
+INV0071,18-06-2024,V008,Vendor_8,USD,4,ITM0049,Part part assembly gadget component assembly gadget,17,440.27,7484.59
+INV0071,18-06-2024,V008,Vendor_8,USD,5,ITM0002,Gadget part part component,15,30.03,450.45
+INV0072,03-07-2024,V007,Vendor_7,GBP,1,ITM0024,Assembly unit gadget widget module unit,6,480.46,2882.76
+INV0072,03-07-2024,V007,Vendor_7,GBP,2,ITM0031,Assembly module part component part widget widget,2,85.64,171.28
+INV0072,03-07-2024,V007,Vendor_7,GBP,3,ITM0037,Part unit device component,14,259.07,3626.98
+INV0072,03-07-2024,V007,Vendor_7,GBP,4,ITM0050,Assembly gadget gadget,1,115.77,115.77
+INV0072,03-07-2024,V007,Vendor_7,GBP,5,ITM0039,Device device component accessory part,15,129.74,1946.1
+INV0073,26-08-2024,V010,Vendor_10,INR,1,ITM0038,Widget accessory accessory,12,282.92,3395.04
+INV0073,26-08-2024,V010,Vendor_10,INR,2,ITM0039,Component device assembly module component component component,10,98.24,982.4
+INV0073,26-08-2024,V010,Vendor_10,INR,3,ITM0034,Accessory part part unit,11,341.97,3761.67
+INV0073,26-08-2024,V010,Vendor_10,INR,4,ITM0047,Unit accessory component,14,205.28,2873.92
+INV0073,26-08-2024,V010,Vendor_10,INR,5,ITM0048,Unit accessory part,11,364.64,4011.04
+INV0074,23-04-2024,V018,Vendor_18,INR,1,ITM0043,Assembly part part part gadget,4,238.04,952.16
+INV0074,23-04-2024,V018,Vendor_18,INR,2,ITM0048,Device unit accessory accessory accessory,3,115.02,345.06
+INV0074,23-04-2024,V018,Vendor_18,INR,3,ITM0015,Module part module unit assembly,4,237.92,951.68
+INV0074,23-04-2024,V018,Vendor_18,INR,4,ITM0041,Unit unit assembly gadget gadget device assembly,14,31.76,444.64
+INV0074,23-04-2024,V018,Vendor_18,INR,5,ITM0010,Accessory module accessory accessory,15,75.9,1138.5
+INV0075,02-04-2024,V003,Vendor_3,INR,1,ITM0022,Component widget assembly gadget,6,290.26,1741.56
+INV0075,02-04-2024,V003,Vendor_3,INR,2,ITM0011,Part part gadget module module module,16,194.74,3115.84
+INV0075,02-04-2024,V003,Vendor_3,INR,3,ITM0003,Gadget module widget component part gadget device,8,117,936
+INV0075,02-04-2024,V003,Vendor_3,INR,4,ITM0023,Gadget module unit gadget part,10,474.49,4744.9
+INV0075,02-04-2024,V003,Vendor_3,INR,5,ITM0030,Unit module part accessory module accessory module,7,86.62,606.34
+INV0076,25-07-2024,V001,Vendor_1,EUR,1,ITM0015,Gadget widget assembly gadget,2,190.72,381.44
+INV0076,25-07-2024,V001,Vendor_1,EUR,2,ITM0041,Device unit unit widget widget,1,28.88,28.88
+INV0076,25-07-2024,V001,Vendor_1,EUR,3,ITM0008,Module gadget component device gadget device,1,154.05,154.05
+INV0076,25-07-2024,V001,Vendor_1,EUR,4,ITM0043,Unit component unit,5,212.32,1061.6
+INV0076,25-07-2024,V001,Vendor_1,EUR,5,ITM0007,Device gadget gadget widget gadget gadget component,17,486.69,8273.73
+INV0077,02-07-2024,V014,Vendor_14,GBP,1,ITM0011,Assembly accessory device,16,168.65,2698.4
+INV0077,02-07-2024,V014,Vendor_14,GBP,2,ITM0001,Device accessory part,16,78.83,1261.28
+INV0077,02-07-2024,V014,Vendor_14,GBP,3,ITM0006,Widget device accessory unit assembly accessory component,2,54.41,108.82
+INV0077,02-07-2024,V014,Vendor_14,GBP,4,ITM0012,Part module device,14,370.58,5188.12
+INV0077,02-07-2024,V014,Vendor_14,GBP,5,ITM0007,Widget gadget unit,11,181.98,2001.78
+INV0078,12-08-2024,V020,Vendor_20,GBP,1,ITM0047,Module module gadget,13,481.34,6257.42
+INV0078,12-08-2024,V020,Vendor_20,GBP,2,ITM0018,Device assembly module part gadget gadget,2,490.88,981.76
+INV0078,12-08-2024,V020,Vendor_20,GBP,3,ITM0011,Module unit part,15,94.72,1420.8
+INV0078,12-08-2024,V020,Vendor_20,GBP,4,ITM0025,Unit part part device accessory,16,460.6,7369.6
+INV0078,12-08-2024,V020,Vendor_20,GBP,5,ITM0008,Module widget unit widget part assembly,19,363.27,6902.13
+INV0079,24-04-2024,V011,Vendor_11,USD,1,ITM0028,Assembly unit unit gadget,18,446.57,8038.26
+INV0079,24-04-2024,V011,Vendor_11,USD,2,ITM0040,Widget accessory assembly,16,426.68,6826.88
+INV0079,24-04-2024,V011,Vendor_11,USD,3,ITM0011,Device component component,9,29.92,269.28
+INV0079,24-04-2024,V011,Vendor_11,USD,4,ITM0015,Unit module component assembly part assembly part,15,161.45,2421.75
+INV0079,24-04-2024,V011,Vendor_11,USD,5,ITM0032,Widget module unit,1,413.82,413.82
+INV0080,05-11-2024,V020,Vendor_20,GBP,1,ITM0033,Gadget device accessory module widget component assembly,18,384.87,6927.66
+INV0080,05-11-2024,V020,Vendor_20,GBP,2,ITM0039,Device module assembly widget unit widget,12,415.79,4989.48
+INV0080,05-11-2024,V020,Vendor_20,GBP,3,ITM0019,Assembly device widget gadget gadget device device,4,130.87,523.48
+INV0080,05-11-2024,V020,Vendor_20,GBP,4,ITM0013,Gadget part gadget part,7,359.81,2518.67
+INV0080,05-11-2024,V020,Vendor_20,GBP,5,ITM0007,Widget unit device gadget accessory assembly,19,478.31,9087.89
+INV0081,09-03-2024,V016,Vendor_16,USD,1,ITM0034,Assembly module unit,17,391.64,6657.88
+INV0081,09-03-2024,V016,Vendor_16,USD,2,ITM0012,Gadget part widget unit unit component part,14,489.85,6857.9
+INV0081,09-03-2024,V016,Vendor_16,USD,3,ITM0045,Component accessory accessory assembly,5,73.4,367
+INV0081,09-03-2024,V016,Vendor_16,USD,4,ITM0039,Component device part device accessory unit gadget,20,358.62,7172.4
+INV0081,09-03-2024,V016,Vendor_16,USD,5,ITM0044,Accessory gadget device accessory gadget,18,348.68,6276.24
+INV0082,14-06-2024,V004,Vendor_4,GBP,1,ITM0036,Unit accessory device device accessory assembly,14,405.11,5671.54
+INV0082,14-06-2024,V004,Vendor_4,GBP,2,ITM0034,Widget gadget device,7,137.15,960.05
+INV0082,14-06-2024,V004,Vendor_4,GBP,3,ITM0011,Device gadget widget part gadget,18,20.99,377.82
+INV0082,14-06-2024,V004,Vendor_4,GBP,4,ITM0029,Unit device unit,8,372.49,2979.92
+INV0082,14-06-2024,V004,Vendor_4,GBP,5,ITM0036,Component part part component unit accessory,13,211.2,2745.6
+INV0083,16-12-2024,V011,Vendor_11,USD,1,ITM0001,Gadget part part module component,12,378.78,4545.36
+INV0083,16-12-2024,V011,Vendor_11,USD,2,ITM0035,Gadget device gadget assembly accessory widget accessory,17,64.08,1089.36
+INV0083,16-12-2024,V011,Vendor_11,USD,3,ITM0003,Component component gadget part widget assembly,5,24.77,123.85
+INV0083,16-12-2024,V011,Vendor_11,USD,4,ITM0021,Widget accessory unit unit assembly unit module,11,265.07,2915.77
+INV0083,16-12-2024,V011,Vendor_11,USD,5,ITM0012,Widget assembly module assembly widget gadget gadget,11,168.88,1857.68
+INV0084,30-05-2024,V007,Vendor_7,INR,1,ITM0036,Gadget module component,20,459.71,9194.2
+INV0084,30-05-2024,V007,Vendor_7,INR,2,ITM0016,Device component accessory,4,196.01,784.04
+INV0084,30-05-2024,V007,Vendor_7,INR,3,ITM0035,Widget assembly device assembly assembly,16,26.71,427.36
+INV0084,30-05-2024,V007,Vendor_7,INR,4,ITM0042,Component widget widget accessory,18,268.94,4840.92
+INV0084,30-05-2024,V007,Vendor_7,INR,5,ITM0041,Gadget unit gadget,14,418.65,5861.1
+INV0085,15-04-2024,V018,Vendor_18,INR,1,ITM0042,Device gadget assembly,11,23.75,261.25
+INV0085,15-04-2024,V018,Vendor_18,INR,2,ITM0005,Gadget component widget,8,455.94,3647.52
+INV0085,15-04-2024,V018,Vendor_18,INR,3,ITM0027,Assembly module component module gadget widget,20,36.3,726
+INV0085,15-04-2024,V018,Vendor_18,INR,4,ITM0048,Widget part module assembly component device unit,10,383.81,3838.1
+INV0085,15-04-2024,V018,Vendor_18,INR,5,ITM0029,Module unit assembly assembly gadget module,18,151.01,2718.18
+INV0086,20-11-2024,V005,Vendor_5,GBP,1,ITM0044,Accessory widget part gadget widget,19,300.34,5706.46
+INV0086,20-11-2024,V005,Vendor_5,GBP,2,ITM0035,Accessory component device accessory module module unit,17,75.52,1283.84
+INV0086,20-11-2024,V005,Vendor_5,GBP,3,ITM0012,Unit component gadget device,19,426.86,8110.34
+INV0086,20-11-2024,V005,Vendor_5,GBP,4,ITM0049,Assembly assembly component widget widget device assembly,11,181.78,1999.58
+INV0086,20-11-2024,V005,Vendor_5,GBP,5,ITM0043,Widget unit accessory component,15,167.53,2512.95
+INV0087,03-12-2024,V010,Vendor_10,EUR,1,ITM0037,Module component module widget component gadget device,14,141.96,1987.44
+INV0087,03-12-2024,V010,Vendor_10,EUR,2,ITM0024,Device component assembly assembly,10,246.05,2460.5
+INV0087,03-12-2024,V010,Vendor_10,EUR,3,ITM0007,Unit widget component part,18,102.23,1840.14
+INV0087,03-12-2024,V010,Vendor_10,EUR,4,ITM0047,Device accessory part,1,407.26,407.26
+INV0087,03-12-2024,V010,Vendor_10,EUR,5,ITM0038,Device gadget widget component accessory assembly,5,186.08,930.4
+INV0088,24-04-2024,V019,Vendor_19,GBP,1,ITM0009,Assembly widget module widget component accessory,20,343.66,6873.2
+INV0088,24-04-2024,V019,Vendor_19,GBP,2,ITM0049,Gadget gadget unit unit part gadget device,12,25.01,300.12
+INV0088,24-04-2024,V019,Vendor_19,GBP,3,ITM0049,Component component component device assembly part,13,237.49,3087.37
+INV0088,24-04-2024,V019,Vendor_19,GBP,4,ITM0030,Widget unit widget,17,318.62,5416.54
+INV0088,24-04-2024,V019,Vendor_19,GBP,5,ITM0018,Unit unit module module unit,3,260.75,782.25
+INV0089,11-07-2024,V008,Vendor_8,INR,1,ITM0023,Assembly assembly unit assembly gadget,6,118.85,713.1
+INV0089,11-07-2024,V008,Vendor_8,INR,2,ITM0033,Gadget gadget module device gadget,8,210.23,1681.84
+INV0089,11-07-2024,V008,Vendor_8,INR,3,ITM0022,Assembly assembly gadget,6,325.39,1952.34
+INV0089,11-07-2024,V008,Vendor_8,INR,4,ITM0027,Component gadget unit,5,316.62,1583.1
+INV0089,11-07-2024,V008,Vendor_8,INR,5,ITM0003,Gadget gadget accessory assembly module accessory unit,10,473.89,4738.9
+INV0090,20-04-2024,V015,Vendor_15,INR,1,ITM0031,Gadget module gadget unit,6,313.49,1880.94
+INV0090,20-04-2024,V015,Vendor_15,INR,2,ITM0033,Gadget device accessory unit widget,13,195.8,2545.4
+INV0090,20-04-2024,V015,Vendor_15,INR,3,ITM0007,Gadget part assembly,14,414.12,5797.68
+INV0090,20-04-2024,V015,Vendor_15,INR,4,ITM0039,Gadget accessory unit,18,254.15,4574.7
+INV0090,20-04-2024,V015,Vendor_15,INR,5,ITM0008,Assembly gadget unit,1,449,449
+INV0091,13-12-2024,V014,Vendor_14,INR,1,ITM0024,Device module accessory,16,395.83,6333.28
+INV0091,13-12-2024,V014,Vendor_14,INR,2,ITM0025,Unit device device device widget,5,130.99,654.95
+INV0091,13-12-2024,V014,Vendor_14,INR,3,ITM0050,Accessory widget unit assembly,9,98.57,887.13
+INV0091,13-12-2024,V014,Vendor_14,INR,4,ITM0046,Unit gadget widget,7,345.44,2418.08
+INV0091,13-12-2024,V014,Vendor_14,INR,5,ITM0021,Module gadget unit component part module,12,307.88,3694.56
+INV0092,14-12-2024,V013,Vendor_13,EUR,1,ITM0027,Part assembly module assembly component component module,13,369.21,4799.73
+INV0092,14-12-2024,V013,Vendor_13,EUR,2,ITM0043,Device assembly device,6,54.64,327.84
+INV0092,14-12-2024,V013,Vendor_13,EUR,3,ITM0033,Part part unit device widget module,1,403.16,403.16
+INV0092,14-12-2024,V013,Vendor_13,EUR,4,ITM0010,Accessory module widget gadget widget widget,13,465.69,6053.97
+INV0092,14-12-2024,V013,Vendor_13,EUR,5,ITM0026,Unit component accessory widget device gadget assembly,1,104.85,104.85
+INV0093,02-12-2024,V017,Vendor_17,GBP,1,ITM0013,Part assembly device,20,88.89,1777.8
+INV0093,02-12-2024,V017,Vendor_17,GBP,2,ITM0003,Component widget gadget accessory part,12,336.48,4037.76
+INV0093,02-12-2024,V017,Vendor_17,GBP,3,ITM0026,Gadget widget device accessory assembly device unit,19,177.31,3368.89
+INV0093,02-12-2024,V017,Vendor_17,GBP,4,ITM0018,Unit gadget accessory unit,9,91.64,824.76
+INV0093,02-12-2024,V017,Vendor_17,GBP,5,ITM0033,Unit assembly module,4,402.46,1609.84
+INV0094,11-05-2024,V018,Vendor_18,GBP,1,ITM0045,Accessory unit device device accessory assembly,15,448.78,6731.7
+INV0094,11-05-2024,V018,Vendor_18,GBP,2,ITM0002,Gadget widget unit accessory device component,11,209.15,2300.65
+INV0094,11-05-2024,V018,Vendor_18,GBP,3,ITM0023,Assembly device component component module device module,18,466.04,8388.72
+INV0094,11-05-2024,V018,Vendor_18,GBP,4,ITM0031,Module accessory component accessory device,7,252,1764
+INV0094,11-05-2024,V018,Vendor_18,GBP,5,ITM0013,Device part gadget gadget,8,418.99,3351.92
+INV0095,01-07-2024,V005,Vendor_5,USD,1,ITM0008,Device unit unit,18,479.21,8625.78
+INV0095,01-07-2024,V005,Vendor_5,USD,2,ITM0031,Unit assembly accessory accessory part,16,95.52,1528.32
+INV0095,01-07-2024,V005,Vendor_5,USD,3,ITM0049,Component gadget unit widget part assembly assembly,17,176.91,3007.47
+INV0095,01-07-2024,V005,Vendor_5,USD,4,ITM0044,Assembly gadget assembly component,1,10.85,10.85
+INV0095,01-07-2024,V005,Vendor_5,USD,5,ITM0014,Unit component unit component assembly component,16,479.47,7671.52
+INV0096,24-06-2024,V012,Vendor_12,EUR,1,ITM0032,Gadget device module part component gadget,5,489.74,2448.7
+INV0096,24-06-2024,V012,Vendor_12,EUR,2,ITM0044,Part device part assembly,13,102.05,1326.65
+INV0096,24-06-2024,V012,Vendor_12,EUR,3,ITM0048,Assembly widget module gadget,17,269.32,4578.44
+INV0096,24-06-2024,V012,Vendor_12,EUR,4,ITM0021,Component unit unit module device widget,9,240.89,2168.01
+INV0096,24-06-2024,V012,Vendor_12,EUR,5,ITM0041,Assembly module module,18,280.96,5057.28
+INV0097,11-05-2024,V012,Vendor_12,USD,1,ITM0027,Module device unit,19,290.07,5511.33
+INV0097,11-05-2024,V012,Vendor_12,USD,2,ITM0042,Gadget part module device assembly device accessory,13,308.76,4013.88
+INV0097,11-05-2024,V012,Vendor_12,USD,3,ITM0030,Part unit accessory module,20,287.96,5759.2
+INV0097,11-05-2024,V012,Vendor_12,USD,4,ITM0005,Gadget component component,10,356.66,3566.6
+INV0097,11-05-2024,V012,Vendor_12,USD,5,ITM0039,Component assembly part module unit accessory,14,87.82,1229.48
+INV0098,12-01-2024,V005,Vendor_5,EUR,1,ITM0043,Accessory device widget gadget widget,3,468.71,1406.13
+INV0098,12-01-2024,V005,Vendor_5,EUR,2,ITM0031,Widget device assembly accessory widget unit widget,13,158.14,2055.82
+INV0098,12-01-2024,V005,Vendor_5,EUR,3,ITM0016,Module gadget assembly gadget widget,12,430.88,5170.56
+INV0098,12-01-2024,V005,Vendor_5,EUR,4,ITM0021,Assembly part accessory assembly gadget accessory,18,92.63,1667.34
+INV0098,12-01-2024,V005,Vendor_5,EUR,5,ITM0039,Unit unit unit assembly unit component,12,243.42,2921.04
+INV0099,26-04-2024,V003,Vendor_3,INR,1,ITM0020,Module gadget widget assembly device,5,175.22,876.1
+INV0099,26-04-2024,V003,Vendor_3,INR,2,ITM0031,Widget accessory accessory assembly widget module component,8,399.4,3195.2
+INV0099,26-04-2024,V003,Vendor_3,INR,3,ITM0036,Gadget part module component device,13,415.07,5395.91
+INV0099,26-04-2024,V003,Vendor_3,INR,4,ITM0015,Widget unit assembly part unit,9,145.92,1313.28
+INV0099,26-04-2024,V003,Vendor_3,INR,5,ITM0048,Part module part gadget component unit unit,9,351.73,3165.57
+INV0100,08-09-2024,V007,Vendor_7,GBP,1,ITM0002,Widget assembly gadget widget,9,66.89,602.01
+INV0100,08-09-2024,V007,Vendor_7,GBP,2,ITM0029,Component gadget assembly,11,213.02,2343.22
+INV0100,08-09-2024,V007,Vendor_7,GBP,3,ITM0032,Assembly part component part accessory,2,136.92,273.84
+INV0100,08-09-2024,V007,Vendor_7,GBP,4,ITM0026,Assembly gadget accessory,9,409.54,3685.86
+INV0100,08-09-2024,V007,Vendor_7,GBP,5,ITM0001,Accessory device module,15,127.35,1910.25
+INV0101,18-01-2024,V007,Vendor_7,INR,1,ITM0048,Assembly accessory assembly,10,468.43,4684.3
+INV0101,18-01-2024,V007,Vendor_7,INR,2,ITM0011,Device assembly gadget,16,321.07,5137.12
+INV0101,18-01-2024,V007,Vendor_7,INR,3,ITM0013,Part part gadget gadget unit,11,12.46,137.06
+INV0101,18-01-2024,V007,Vendor_7,INR,4,ITM0018,Gadget part widget widget part assembly unit,12,386.54,4638.48
+INV0101,18-01-2024,V007,Vendor_7,INR,5,ITM0016,Assembly device module accessory,2,34.59,69.18
+INV0102,26-11-2024,V005,Vendor_5,USD,1,ITM0009,Component accessory part device part module,7,15.57,108.99
+INV0102,26-11-2024,V005,Vendor_5,USD,2,ITM0025,Device component widget device unit,18,350.03,6300.54
+INV0102,26-11-2024,V005,Vendor_5,USD,3,ITM0013,Gadget module device component part accessory assembly,3,267.91,803.73
+INV0102,26-11-2024,V005,Vendor_5,USD,4,ITM0029,Part assembly assembly device assembly,6,442.05,2652.3
+INV0102,26-11-2024,V005,Vendor_5,USD,5,ITM0040,Device component device unit assembly,13,98.99,1286.87
+INV0103,15-12-2024,V016,Vendor_16,EUR,1,ITM0040,Component unit widget assembly widget,5,93.43,467.15
+INV0103,15-12-2024,V016,Vendor_16,EUR,2,ITM0003,Widget gadget widget unit,13,330.67,4298.71
+INV0103,15-12-2024,V016,Vendor_16,EUR,3,ITM0034,Device component module unit widget accessory gadget,16,464.56,7432.96
+INV0103,15-12-2024,V016,Vendor_16,EUR,4,ITM0006,Part widget unit accessory module module,2,412.7,825.4
+INV0103,15-12-2024,V016,Vendor_16,EUR,5,ITM0018,Widget widget component accessory accessory widget device,18,195.74,3523.32
+INV0104,08-04-2024,V017,Vendor_17,EUR,1,ITM0037,Unit unit device device,19,182.19,3461.61
+INV0104,08-04-2024,V017,Vendor_17,EUR,2,ITM0030,Part gadget gadget module module gadget,20,224.29,4485.8
+INV0104,08-04-2024,V017,Vendor_17,EUR,3,ITM0023,Assembly accessory part module unit,11,306.16,3367.76
+INV0104,08-04-2024,V017,Vendor_17,EUR,4,ITM0037,Gadget device accessory component accessory assembly module,2,491.56,983.12
+INV0104,08-04-2024,V017,Vendor_17,EUR,5,ITM0039,Assembly accessory component,10,492.28,4922.8
+INV0105,19-04-2024,V011,Vendor_11,USD,1,ITM0050,Accessory assembly unit unit widget,15,181.05,2715.75
+INV0105,19-04-2024,V011,Vendor_11,USD,2,ITM0009,Module unit component part widget,13,286.69,3726.97
+INV0105,19-04-2024,V011,Vendor_11,USD,3,ITM0014,Device part gadget,19,410.66,7802.54
+INV0105,19-04-2024,V011,Vendor_11,USD,4,ITM0007,Unit widget part module part accessory module,14,211.18,2956.52
+INV0105,19-04-2024,V011,Vendor_11,USD,5,ITM0008,Device part accessory unit,13,31.79,413.27
+INV0106,25-09-2024,V002,Vendor_2,GBP,1,ITM0035,Gadget assembly gadget widget device module assembly,20,289.75,5795
+INV0106,25-09-2024,V002,Vendor_2,GBP,2,ITM0006,Module part gadget module,16,287.86,4605.76
+INV0106,25-09-2024,V002,Vendor_2,GBP,3,ITM0004,Module widget assembly device gadget gadget unit,16,200.68,3210.88
+INV0106,25-09-2024,V002,Vendor_2,GBP,4,ITM0037,Unit accessory assembly component,9,389.5,3505.5
+INV0106,25-09-2024,V002,Vendor_2,GBP,5,ITM0021,Widget device module module component unit widget,10,88.78,887.8
+INV0107,28-06-2024,V020,Vendor_20,INR,1,ITM0040,Module accessory component device,5,380.08,1900.4
+INV0107,28-06-2024,V020,Vendor_20,INR,2,ITM0006,Device component unit,5,435.03,2175.15
+INV0107,28-06-2024,V020,Vendor_20,INR,3,ITM0019,Module part component,16,16.26,260.16
+INV0107,28-06-2024,V020,Vendor_20,INR,4,ITM0014,Gadget assembly device assembly unit accessory device,1,191.42,191.42
+INV0107,28-06-2024,V020,Vendor_20,INR,5,ITM0043,Widget gadget component part unit widget unit,1,37.97,37.97
+INV0108,04-12-2024,V009,Vendor_9,GBP,1,ITM0007,Component part module,13,256.73,3337.49
+INV0108,04-12-2024,V009,Vendor_9,GBP,2,ITM0046,Accessory assembly unit,3,97.28,291.84
+INV0108,04-12-2024,V009,Vendor_9,GBP,3,ITM0033,Unit device widget accessory component assembly,6,14.09,84.54
+INV0108,04-12-2024,V009,Vendor_9,GBP,4,ITM0044,Module component accessory accessory component,2,314.77,629.54
+INV0108,04-12-2024,V009,Vendor_9,GBP,5,ITM0025,Accessory accessory component,11,449.1,4940.1
+INV0109,02-12-2024,V005,Vendor_5,USD,1,ITM0047,Assembly device part device module unit,14,485.42,6795.88
+INV0109,02-12-2024,V005,Vendor_5,USD,2,ITM0039,Assembly gadget unit unit device,7,431.98,3023.86
+INV0109,02-12-2024,V005,Vendor_5,USD,3,ITM0020,Accessory module accessory device unit unit gadget,3,280.88,842.64
+INV0109,02-12-2024,V005,Vendor_5,USD,4,ITM0047,Gadget part gadget,1,383.89,383.89
+INV0109,02-12-2024,V005,Vendor_5,USD,5,ITM0027,Component device part unit device gadget,7,57.85,404.95
+INV0110,04-04-2024,V001,Vendor_1,GBP,1,ITM0039,Unit unit component widget widget part gadget,20,237.04,4740.8
+INV0110,04-04-2024,V001,Vendor_1,GBP,2,ITM0042,Gadget module assembly gadget component,14,383.45,5368.3
+INV0110,04-04-2024,V001,Vendor_1,GBP,3,ITM0001,Accessory component device gadget gadget,6,463.92,2783.52
+INV0110,04-04-2024,V001,Vendor_1,GBP,4,ITM0029,Assembly component assembly component module widget device,13,361.5,4699.5
+INV0110,04-04-2024,V001,Vendor_1,GBP,5,ITM0026,Accessory unit assembly unit device widget widget,15,414.37,6215.55
+INV0111,22-01-2024,V008,Vendor_8,INR,1,ITM0048,Unit assembly unit,2,98.98,197.96
+INV0111,22-01-2024,V008,Vendor_8,INR,2,ITM0029,Part device component gadget component accessory,17,452.32,7689.44
+INV0111,22-01-2024,V008,Vendor_8,INR,3,ITM0030,Widget assembly gadget unit accessory assembly,13,209.71,2726.23
+INV0111,22-01-2024,V008,Vendor_8,INR,4,ITM0029,Gadget unit device,7,441.86,3093.02
+INV0111,22-01-2024,V008,Vendor_8,INR,5,ITM0006,Component unit device gadget device,3,61.51,184.53
+INV0112,18-08-2024,V012,Vendor_12,USD,1,ITM0034,Device accessory unit gadget assembly widget,6,456.57,2739.42
+INV0112,18-08-2024,V012,Vendor_12,USD,2,ITM0037,Gadget gadget device widget,10,158.21,1582.1
+INV0112,18-08-2024,V012,Vendor_12,USD,3,ITM0050,Component gadget accessory accessory widget device,1,232.03,232.03
+INV0112,18-08-2024,V012,Vendor_12,USD,4,ITM0032,Part unit assembly gadget unit assembly module,20,302.05,6041
+INV0112,18-08-2024,V012,Vendor_12,USD,5,ITM0016,Component unit part gadget gadget widget module,5,427.65,2138.25
+INV0113,07-12-2024,V019,Vendor_19,GBP,1,ITM0022,Widget module gadget,10,307.49,3074.9
+INV0113,07-12-2024,V019,Vendor_19,GBP,2,ITM0045,Unit unit accessory device module widget device,11,187.44,2061.84
+INV0113,07-12-2024,V019,Vendor_19,GBP,3,ITM0025,Device part widget,16,71.6,1145.6
+INV0113,07-12-2024,V019,Vendor_19,GBP,4,ITM0045,Component module gadget gadget widget,19,366.22,6958.18
+INV0113,07-12-2024,V019,Vendor_19,GBP,5,ITM0041,Accessory assembly device accessory accessory component unit,11,133.53,1468.83
+INV0114,21-10-2024,V020,Vendor_20,GBP,1,ITM0009,Unit assembly unit assembly gadget unit device,7,5.78,40.46
+INV0114,21-10-2024,V020,Vendor_20,GBP,2,ITM0002,Unit gadget part part accessory module,11,178.08,1958.88
+INV0114,21-10-2024,V020,Vendor_20,GBP,3,ITM0041,Widget gadget component part,10,153.64,1536.4
+INV0114,21-10-2024,V020,Vendor_20,GBP,4,ITM0036,Device gadget component module unit,1,416.86,416.86
+INV0114,21-10-2024,V020,Vendor_20,GBP,5,ITM0013,Part accessory assembly assembly widget,5,243.34,1216.7
+INV0115,17-11-2024,V015,Vendor_15,GBP,1,ITM0030,Accessory widget assembly unit device assembly,1,108.09,108.09
+INV0115,17-11-2024,V015,Vendor_15,GBP,2,ITM0044,Part part module accessory component,1,172.88,172.88
+INV0115,17-11-2024,V015,Vendor_15,GBP,3,ITM0025,Part unit module unit part device device,11,356.37,3920.07
+INV0115,17-11-2024,V015,Vendor_15,GBP,4,ITM0018,Widget part module part component assembly,6,60.55,363.3
+INV0115,17-11-2024,V015,Vendor_15,GBP,5,ITM0003,Accessory module widget assembly,17,81.27,1381.59
+INV0116,23-06-2024,V016,Vendor_16,GBP,1,ITM0050,Gadget part part accessory device,5,106.57,532.85
+INV0116,23-06-2024,V016,Vendor_16,GBP,2,ITM0003,Module part gadget component widget part,3,169.98,509.94
+INV0116,23-06-2024,V016,Vendor_16,GBP,3,ITM0003,Assembly unit component,19,380.45,7228.55
+INV0116,23-06-2024,V016,Vendor_16,GBP,4,ITM0041,Component gadget component component,15,337.21,5058.15
+INV0116,23-06-2024,V016,Vendor_16,GBP,5,ITM0018,Gadget gadget accessory unit,4,107.26,429.04
+INV0117,28-06-2024,V018,Vendor_18,GBP,1,ITM0018,Accessory part unit gadget,10,308.57,3085.7
+INV0117,28-06-2024,V018,Vendor_18,GBP,2,ITM0022,Module gadget assembly device widget widget module,6,353.82,2122.92
+INV0117,28-06-2024,V018,Vendor_18,GBP,3,ITM0038,Unit component part device device assembly,15,286.06,4290.9
+INV0117,28-06-2024,V018,Vendor_18,GBP,4,ITM0006,Widget component unit device assembly accessory,5,431.24,2156.2
+INV0117,28-06-2024,V018,Vendor_18,GBP,5,ITM0040,Accessory module device unit part,11,229.38,2523.18
+INV0118,16-01-2024,V003,Vendor_3,INR,1,ITM0008,Assembly part component module unit,17,55.95,951.15
+INV0118,16-01-2024,V003,Vendor_3,INR,2,ITM0046,Component unit part,18,233.18,4197.24
+INV0118,16-01-2024,V003,Vendor_3,INR,3,ITM0038,Component component gadget assembly widget gadget,19,218.42,4149.98
+INV0118,16-01-2024,V003,Vendor_3,INR,4,ITM0028,Part assembly component unit widget accessory unit,16,61.59,985.44
+INV0118,16-01-2024,V003,Vendor_3,INR,5,ITM0039,Component widget assembly component module unit,20,386.81,7736.2
+INV0119,13-07-2024,V011,Vendor_11,INR,1,ITM0042,Widget part part,1,379.75,379.75
+INV0119,13-07-2024,V011,Vendor_11,INR,2,ITM0043,Assembly component unit assembly,7,342.35,2396.45
+INV0119,13-07-2024,V011,Vendor_11,INR,3,ITM0021,Unit accessory component accessory module,12,495.19,5942.28
+INV0119,13-07-2024,V011,Vendor_11,INR,4,ITM0038,Unit assembly part,10,35.89,358.9
+INV0119,13-07-2024,V011,Vendor_11,INR,5,ITM0036,Widget unit accessory,4,431.32,1725.28
+INV0120,16-01-2024,V008,Vendor_8,INR,1,ITM0045,Module component module module assembly unit assembly,7,279.93,1959.51
+INV0120,16-01-2024,V008,Vendor_8,INR,2,ITM0024,Gadget accessory device gadget widget widget,16,330.67,5290.72
+INV0120,16-01-2024,V008,Vendor_8,INR,3,ITM0009,Gadget part part,20,465.5,9310
+INV0120,16-01-2024,V008,Vendor_8,INR,4,ITM0040,Assembly module part module,8,96.97,775.76
+INV0120,16-01-2024,V008,Vendor_8,INR,5,ITM0039,Unit part component,17,138.28,2350.76
+INV0121,06-10-2024,V019,Vendor_19,GBP,1,ITM0003,Unit device gadget,16,481.06,7696.96
+INV0121,06-10-2024,V019,Vendor_19,GBP,2,ITM0006,Device assembly part device,9,235.14,2116.26
+INV0121,06-10-2024,V019,Vendor_19,GBP,3,ITM0006,Accessory widget assembly device accessory widget unit,19,159.69,3034.11
+INV0121,06-10-2024,V019,Vendor_19,GBP,4,ITM0004,Assembly widget assembly accessory unit,11,213.4,2347.4
+INV0121,06-10-2024,V019,Vendor_19,GBP,5,ITM0019,Gadget device unit component part,9,35.4,318.6
+INV0122,30-08-2024,V019,Vendor_19,EUR,1,ITM0037,Unit component device,1,146.97,146.97
+INV0122,30-08-2024,V019,Vendor_19,EUR,2,ITM0006,Assembly part component gadget,9,141.23,1271.07
+INV0122,30-08-2024,V019,Vendor_19,EUR,3,ITM0017,Device unit accessory,5,331.28,1656.4
+INV0122,30-08-2024,V019,Vendor_19,EUR,4,ITM0024,Component device assembly part,2,174.71,349.42
+INV0122,30-08-2024,V019,Vendor_19,EUR,5,ITM0006,Unit part part device,14,386.33,5408.62
+INV0123,01-05-2024,V015,Vendor_15,EUR,1,ITM0014,Device module unit device gadget gadget module,10,240.75,2407.5
+INV0123,01-05-2024,V015,Vendor_15,EUR,2,ITM0049,Component device module component assembly module component,15,194.09,2911.35
+INV0123,01-05-2024,V015,Vendor_15,EUR,3,ITM0021,Device widget accessory unit accessory module accessory,9,170.81,1537.29
+INV0123,01-05-2024,V015,Vendor_15,EUR,4,ITM0018,Component unit assembly,8,368.49,2947.92
+INV0123,01-05-2024,V015,Vendor_15,EUR,5,ITM0038,Assembly device accessory component,1,338.04,338.04
+INV0124,04-02-2024,V001,Vendor_1,INR,1,ITM0007,Widget assembly gadget component gadget widget widget,20,330.02,6600.4
+INV0124,04-02-2024,V001,Vendor_1,INR,2,ITM0014,Unit device gadget part gadget unit accessory,19,402.58,7649.02
+INV0124,04-02-2024,V001,Vendor_1,INR,3,ITM0012,Device component assembly,3,321.2,963.6
+INV0124,04-02-2024,V001,Vendor_1,INR,4,ITM0018,Device device device component part component,2,194.49,388.98
+INV0124,04-02-2024,V001,Vendor_1,INR,5,ITM0022,Component part gadget,3,248.4,745.2
+INV0125,12-04-2024,V020,Vendor_20,INR,1,ITM0012,Widget assembly module unit widget module,9,56.13,505.17
+INV0125,12-04-2024,V020,Vendor_20,INR,2,ITM0005,Unit component assembly,16,78.68,1258.88
+INV0125,12-04-2024,V020,Vendor_20,INR,3,ITM0041,Accessory unit component,11,452.79,4980.69
+INV0125,12-04-2024,V020,Vendor_20,INR,4,ITM0037,Assembly accessory assembly,14,204.94,2869.16
+INV0125,12-04-2024,V020,Vendor_20,INR,5,ITM0047,Assembly widget accessory,16,65,1040
+INV0126,01-10-2024,V012,Vendor_12,GBP,1,ITM0044,Module unit accessory widget assembly,11,44.83,493.13
+INV0126,01-10-2024,V012,Vendor_12,GBP,2,ITM0030,Unit gadget widget module gadget,13,448.75,5833.75
+INV0126,01-10-2024,V012,Vendor_12,GBP,3,ITM0041,Assembly part module gadget widget,1,361.27,361.27
+INV0126,01-10-2024,V012,Vendor_12,GBP,4,ITM0038,Assembly widget assembly component,18,482.65,8687.7
+INV0126,01-10-2024,V012,Vendor_12,GBP,5,ITM0029,Widget widget part,2,205.73,411.46
+INV0127,18-04-2024,V017,Vendor_17,INR,1,ITM0044,Gadget unit accessory widget gadget unit assembly,20,27.67,553.4
+INV0127,18-04-2024,V017,Vendor_17,INR,2,ITM0045,Widget unit accessory part,4,230.81,923.24
+INV0127,18-04-2024,V017,Vendor_17,INR,3,ITM0011,Widget part gadget unit unit widget gadget,11,406.7,4473.7
+INV0127,18-04-2024,V017,Vendor_17,INR,4,ITM0048,Component accessory unit gadget part part,2,298.58,597.16
+INV0127,18-04-2024,V017,Vendor_17,INR,5,ITM0022,Gadget gadget module,12,278.94,3347.28
+INV0128,12-08-2024,V008,Vendor_8,USD,1,ITM0009,Part unit module,6,12.74,76.44
+INV0128,12-08-2024,V008,Vendor_8,USD,2,ITM0032,Widget gadget widget,19,444.02,8436.38
+INV0128,12-08-2024,V008,Vendor_8,USD,3,ITM0027,Device gadget unit assembly module accessory,20,347.38,6947.6
+INV0128,12-08-2024,V008,Vendor_8,USD,4,ITM0039,Device unit widget part,10,177.19,1771.9
+INV0128,12-08-2024,V008,Vendor_8,USD,5,ITM0001,Component gadget assembly widget module device assembly,8,234.79,1878.32
+INV0129,16-11-2024,V007,Vendor_7,GBP,1,ITM0004,Gadget gadget part accessory,16,92.28,1476.48
+INV0129,16-11-2024,V007,Vendor_7,GBP,2,ITM0043,Widget module gadget,9,170.48,1534.32
+INV0129,16-11-2024,V007,Vendor_7,GBP,3,ITM0049,Widget device accessory gadget part assembly,4,40.08,160.32
+INV0129,16-11-2024,V007,Vendor_7,GBP,4,ITM0016,Unit component gadget device component part,11,117.75,1295.25
+INV0129,16-11-2024,V007,Vendor_7,GBP,5,ITM0016,Part module gadget assembly assembly accessory,5,112,560
+INV0130,08-11-2024,V015,Vendor_15,EUR,1,ITM0025,Gadget device unit accessory gadget,5,20.89,104.45
+INV0130,08-11-2024,V015,Vendor_15,EUR,2,ITM0037,Component widget assembly,14,89.74,1256.36
+INV0130,08-11-2024,V015,Vendor_15,EUR,3,ITM0022,Part unit part unit,20,453.26,9065.2
+INV0130,08-11-2024,V015,Vendor_15,EUR,4,ITM0037,Part widget part assembly accessory unit part,9,12.18,109.62
+INV0130,08-11-2024,V015,Vendor_15,EUR,5,ITM0028,Component module component accessory,5,457.31,2286.55
+INV0131,03-01-2024,V014,Vendor_14,USD,1,ITM0003,Device assembly module module part device,4,228.96,915.84
+INV0131,03-01-2024,V014,Vendor_14,USD,2,ITM0016,Unit widget device,7,70.69,494.83
+INV0131,03-01-2024,V014,Vendor_14,USD,3,ITM0019,Unit widget assembly component,15,429.67,6445.05
+INV0131,03-01-2024,V014,Vendor_14,USD,4,ITM0048,Widget assembly device part module part module,15,353.43,5301.45
+INV0131,03-01-2024,V014,Vendor_14,USD,5,ITM0001,Module device assembly,10,215.82,2158.2
+INV0132,18-05-2024,V020,Vendor_20,EUR,1,ITM0044,Unit module accessory,17,472.93,8039.81
+INV0132,18-05-2024,V020,Vendor_20,EUR,2,ITM0044,Part widget module unit module,6,325.85,1955.1
+INV0132,18-05-2024,V020,Vendor_20,EUR,3,ITM0046,Unit device gadget,11,123.12,1354.32
+INV0132,18-05-2024,V020,Vendor_20,EUR,4,ITM0008,Device device part device device device,11,179.59,1975.49
+INV0132,18-05-2024,V020,Vendor_20,EUR,5,ITM0018,Device component widget module assembly assembly gadget,18,340.76,6133.68
+INV0133,29-09-2024,V010,Vendor_10,INR,1,ITM0040,Part accessory part accessory widget,15,48.22,723.3
+INV0133,29-09-2024,V010,Vendor_10,INR,2,ITM0026,Component accessory widget component,5,250.68,1253.4
+INV0133,29-09-2024,V010,Vendor_10,INR,3,ITM0014,Accessory widget module device accessory assembly module,1,149.3,149.3
+INV0133,29-09-2024,V010,Vendor_10,INR,4,ITM0005,Part component accessory,11,208.79,2296.69
+INV0133,29-09-2024,V010,Vendor_10,INR,5,ITM0022,Assembly unit assembly assembly assembly,19,70.32,1336.08
+INV0134,05-06-2024,V006,Vendor_6,GBP,1,ITM0015,Module component part gadget component accessory,20,462.45,9249
+INV0134,05-06-2024,V006,Vendor_6,GBP,2,ITM0046,Component accessory part device unit gadget component,2,496.92,993.84
+INV0134,05-06-2024,V006,Vendor_6,GBP,3,ITM0037,Module module gadget device,11,489.12,5380.32
+INV0134,05-06-2024,V006,Vendor_6,GBP,4,ITM0010,Assembly accessory assembly gadget widget,16,385.42,6166.72
+INV0134,05-06-2024,V006,Vendor_6,GBP,5,ITM0030,Gadget accessory assembly assembly unit,10,239.59,2395.9
+INV0135,28-05-2024,V019,Vendor_19,EUR,1,ITM0037,Module gadget assembly widget device gadget,1,203.81,203.81
+INV0135,28-05-2024,V019,Vendor_19,EUR,2,ITM0015,Module component unit gadget assembly part,9,101.88,916.92
+INV0135,28-05-2024,V019,Vendor_19,EUR,3,ITM0006,Part device accessory accessory module assembly unit,17,471.98,8023.66
+INV0135,28-05-2024,V019,Vendor_19,EUR,4,ITM0043,Module device module module widget,12,178.92,2147.04
+INV0135,28-05-2024,V019,Vendor_19,EUR,5,ITM0029,Widget device module accessory part component part,14,365.66,5119.24
+INV0136,31-07-2024,V005,Vendor_5,USD,1,ITM0010,Component accessory assembly module,19,379.28,7206.32
+INV0136,31-07-2024,V005,Vendor_5,USD,2,ITM0006,Module accessory module,18,233.75,4207.5
+INV0136,31-07-2024,V005,Vendor_5,USD,3,ITM0037,Gadget part component assembly,10,418.12,4181.2
+INV0136,31-07-2024,V005,Vendor_5,USD,4,ITM0020,Unit assembly widget widget component accessory,16,66.47,1063.52
+INV0136,31-07-2024,V005,Vendor_5,USD,5,ITM0043,Module assembly device component gadget,9,249.06,2241.54
+INV0137,04-02-2024,V020,Vendor_20,GBP,1,ITM0038,Unit part unit assembly device gadget,17,367.81,6252.77
+INV0137,04-02-2024,V020,Vendor_20,GBP,2,ITM0002,Gadget widget component part gadget,6,31.18,187.08
+INV0137,04-02-2024,V020,Vendor_20,GBP,3,ITM0024,Unit accessory widget component unit widget,7,384.39,2690.73
+INV0137,04-02-2024,V020,Vendor_20,GBP,4,ITM0012,Unit gadget component,11,414.28,4557.08
+INV0137,04-02-2024,V020,Vendor_20,GBP,5,ITM0044,Component device module assembly module,5,11.38,56.9
+INV0138,22-09-2024,V010,Vendor_10,GBP,1,ITM0050,Module accessory gadget gadget assembly part,18,308.65,5555.7
+INV0138,22-09-2024,V010,Vendor_10,GBP,2,ITM0034,Device device part module accessory gadget gadget,1,242.36,242.36
+INV0138,22-09-2024,V010,Vendor_10,GBP,3,ITM0020,Gadget module accessory assembly accessory,6,356.4,2138.4
+INV0138,22-09-2024,V010,Vendor_10,GBP,4,ITM0002,Component part gadget,8,157.18,1257.44
+INV0138,22-09-2024,V010,Vendor_10,GBP,5,ITM0014,Accessory module device gadget,1,388.47,388.47
+INV0139,08-08-2024,V002,Vendor_2,EUR,1,ITM0007,Part assembly widget,4,454.72,1818.88
+INV0139,08-08-2024,V002,Vendor_2,EUR,2,ITM0003,Component widget widget,4,460.45,1841.8
+INV0139,08-08-2024,V002,Vendor_2,EUR,3,ITM0014,Accessory gadget module widget part accessory accessory,12,179.34,2152.08
+INV0139,08-08-2024,V002,Vendor_2,EUR,4,ITM0033,Component unit widget unit widget gadget gadget,10,90.03,900.3
+INV0139,08-08-2024,V002,Vendor_2,EUR,5,ITM0049,Widget device accessory accessory part assembly device,6,222.63,1335.78
+INV0140,24-02-2024,V006,Vendor_6,GBP,1,ITM0025,Gadget component gadget accessory gadget widget,5,250.43,1252.15
+INV0140,24-02-2024,V006,Vendor_6,GBP,2,ITM0024,Unit widget component gadget component,20,369.41,7388.2
+INV0140,24-02-2024,V006,Vendor_6,GBP,3,ITM0044,Component module accessory module part accessory,16,469.85,7517.6
+INV0140,24-02-2024,V006,Vendor_6,GBP,4,ITM0024,Widget device device module,17,330.98,5626.66
+INV0140,24-02-2024,V006,Vendor_6,GBP,5,ITM0006,Gadget module unit,4,372.01,1488.04
+INV0141,27-03-2024,V003,Vendor_3,GBP,1,ITM0013,Gadget part module component module,16,142.87,2285.92
+INV0141,27-03-2024,V003,Vendor_3,GBP,2,ITM0046,Unit device part accessory module device accessory,16,258.15,4130.4
+INV0141,27-03-2024,V003,Vendor_3,GBP,3,ITM0010,Widget component assembly unit gadget widget,2,416,832
+INV0141,27-03-2024,V003,Vendor_3,GBP,4,ITM0032,Accessory module device,5,154.86,774.3
+INV0141,27-03-2024,V003,Vendor_3,GBP,5,ITM0040,Device unit assembly,16,397.4,6358.4
+INV0142,13-04-2024,V010,Vendor_10,INR,1,ITM0032,Component module part assembly accessory widget module,4,194.9,779.6
+INV0142,13-04-2024,V010,Vendor_10,INR,2,ITM0021,Module widget gadget unit part part,6,248.28,1489.68
+INV0142,13-04-2024,V010,Vendor_10,INR,3,ITM0009,Device assembly widget device unit,18,288.24,5188.32
+INV0142,13-04-2024,V010,Vendor_10,INR,4,ITM0031,Part assembly module assembly accessory unit module,10,163.64,1636.4
+INV0142,13-04-2024,V010,Vendor_10,INR,5,ITM0002,Widget part module device widget accessory module,4,216.93,867.72
+INV0143,01-07-2024,V014,Vendor_14,GBP,1,ITM0004,Component unit unit accessory,3,435.13,1305.39
+INV0143,01-07-2024,V014,Vendor_14,GBP,2,ITM0008,Gadget assembly widget unit module,17,451.2,7670.4
+INV0143,01-07-2024,V014,Vendor_14,GBP,3,ITM0018,Device unit accessory,13,287.33,3735.29
+INV0143,01-07-2024,V014,Vendor_14,GBP,4,ITM0021,Widget assembly device gadget assembly part device,6,309.34,1856.04
+INV0143,01-07-2024,V014,Vendor_14,GBP,5,ITM0024,Gadget unit accessory widget part gadget,9,28.53,256.77
+INV0144,20-10-2024,V013,Vendor_13,EUR,1,ITM0040,Device unit unit,9,38.3,344.7
+INV0144,20-10-2024,V013,Vendor_13,EUR,2,ITM0034,Module module widget part assembly component,18,160.11,2881.98
+INV0144,20-10-2024,V013,Vendor_13,EUR,3,ITM0027,Component assembly device assembly part unit,17,432.04,7344.68
+INV0144,20-10-2024,V013,Vendor_13,EUR,4,ITM0037,Gadget accessory device assembly accessory assembly,20,427.12,8542.4
+INV0144,20-10-2024,V013,Vendor_13,EUR,5,ITM0028,Device widget gadget assembly component device device,14,208.08,2913.12
+INV0145,02-02-2024,V007,Vendor_7,INR,1,ITM0018,Unit component unit module gadget,7,18.71,130.97
+INV0145,02-02-2024,V007,Vendor_7,INR,2,ITM0020,Assembly accessory module accessory gadget component,1,132.91,132.91
+INV0145,02-02-2024,V007,Vendor_7,INR,3,ITM0018,Gadget part accessory assembly widget part widget,20,152.5,3050
+INV0145,02-02-2024,V007,Vendor_7,INR,4,ITM0005,Accessory device part module part part,8,60.41,483.28
+INV0145,02-02-2024,V007,Vendor_7,INR,5,ITM0048,Accessory assembly part accessory accessory component part,8,301.91,2415.28
+INV0146,09-06-2024,V011,Vendor_11,INR,1,ITM0048,Accessory gadget widget gadget,9,222.54,2002.86
+INV0146,09-06-2024,V011,Vendor_11,INR,2,ITM0017,Widget assembly device gadget assembly assembly component,9,440.32,3962.88
+INV0146,09-06-2024,V011,Vendor_11,INR,3,ITM0010,Assembly module component unit accessory,2,421.53,843.06
+INV0146,09-06-2024,V011,Vendor_11,INR,4,ITM0043,Device part component,18,195.42,3517.56
+INV0146,09-06-2024,V011,Vendor_11,INR,5,ITM0041,Accessory device assembly component module,1,455.35,455.35
+INV0147,20-07-2024,V009,Vendor_9,GBP,1,ITM0006,Component part gadget module,11,440.34,4843.74
+INV0147,20-07-2024,V009,Vendor_9,GBP,2,ITM0050,Part component widget part assembly device,11,360.11,3961.21
+INV0147,20-07-2024,V009,Vendor_9,GBP,3,ITM0007,Device assembly module unit,18,370.2,6663.6
+INV0147,20-07-2024,V009,Vendor_9,GBP,4,ITM0030,Device unit gadget,15,396.55,5948.25
+INV0147,20-07-2024,V009,Vendor_9,GBP,5,ITM0009,Module unit component,3,59.86,179.58
+INV0148,07-05-2024,V017,Vendor_17,EUR,1,ITM0039,Part component assembly device component device,11,400.77,4408.47
+INV0148,07-05-2024,V017,Vendor_17,EUR,2,ITM0013,Module gadget part,19,116.12,2206.28
+INV0148,07-05-2024,V017,Vendor_17,EUR,3,ITM0002,Unit unit accessory accessory gadget device gadget,13,310.91,4041.83
+INV0148,07-05-2024,V017,Vendor_17,EUR,4,ITM0039,Gadget accessory gadget unit widget,17,220.4,3746.8
+INV0148,07-05-2024,V017,Vendor_17,EUR,5,ITM0030,Gadget device gadget part part component,16,194.13,3106.08
+INV0149,08-08-2024,V007,Vendor_7,EUR,1,ITM0019,Module module gadget component,9,121.57,1094.13
+INV0149,08-08-2024,V007,Vendor_7,EUR,2,ITM0029,Module device assembly widget,5,436.36,2181.8
+INV0149,08-08-2024,V007,Vendor_7,EUR,3,ITM0045,Device device device device component widget,2,30.8,61.6
+INV0149,08-08-2024,V007,Vendor_7,EUR,4,ITM0016,Accessory accessory accessory accessory unit device,2,7.65,15.3
+INV0149,08-08-2024,V007,Vendor_7,EUR,5,ITM0033,Module accessory device gadget accessory widget gadget,6,254.35,1526.1
+INV0150,22-06-2024,V015,Vendor_15,EUR,1,ITM0006,Device module component component accessory,16,436.48,6983.68
+INV0150,22-06-2024,V015,Vendor_15,EUR,2,ITM0018,Accessory component part unit device,9,260.9,2348.1
+INV0150,22-06-2024,V015,Vendor_15,EUR,3,ITM0028,Component accessory device gadget,15,31.34,470.1
+INV0150,22-06-2024,V015,Vendor_15,EUR,4,ITM0010,Component widget component,15,221.03,3315.45
+INV0150,22-06-2024,V015,Vendor_15,EUR,5,ITM0032,Module accessory unit,15,249.03,3735.45
+INV0151,16-03-2024,V004,Vendor_4,GBP,1,ITM0006,Part gadget gadget assembly,9,283.81,2554.29
+INV0151,16-03-2024,V004,Vendor_4,GBP,2,ITM0043,Gadget accessory widget device gadget accessory component,16,340.07,5441.12
+INV0151,16-03-2024,V004,Vendor_4,GBP,3,ITM0022,Component accessory gadget,12,297.22,3566.64
+INV0151,16-03-2024,V004,Vendor_4,GBP,4,ITM0007,Gadget widget part unit assembly,9,299.13,2692.17
+INV0151,16-03-2024,V004,Vendor_4,GBP,5,ITM0001,Accessory unit accessory component device,19,69.01,1311.19
+INV0152,25-01-2024,V010,Vendor_10,GBP,1,ITM0004,Assembly unit widget,9,93.12,838.08
+INV0152,25-01-2024,V010,Vendor_10,GBP,2,ITM0050,Widget part gadget part component device,5,64.7,323.5
+INV0152,25-01-2024,V010,Vendor_10,GBP,3,ITM0032,Device accessory accessory unit module widget,12,258.76,3105.12
+INV0152,25-01-2024,V010,Vendor_10,GBP,4,ITM0032,Part assembly unit module device part,20,97.25,1945
+INV0152,25-01-2024,V010,Vendor_10,GBP,5,ITM0041,Widget assembly accessory device unit device,16,266,4256
+INV0153,27-11-2024,V017,Vendor_17,USD,1,ITM0019,Module accessory assembly gadget gadget accessory,8,263.93,2111.44
+INV0153,27-11-2024,V017,Vendor_17,USD,2,ITM0019,Widget widget widget widget module widget unit,19,407.35,7739.65
+INV0153,27-11-2024,V017,Vendor_17,USD,3,ITM0023,Unit device widget device assembly,6,422.24,2533.44
+INV0153,27-11-2024,V017,Vendor_17,USD,4,ITM0003,Module device component,15,379.89,5698.35
+INV0153,27-11-2024,V017,Vendor_17,USD,5,ITM0029,Part module accessory part gadget widget accessory,9,436.45,3928.05
+INV0154,24-02-2024,V014,Vendor_14,USD,1,ITM0001,Gadget gadget assembly device part accessory,20,364.33,7286.6
+INV0154,24-02-2024,V014,Vendor_14,USD,2,ITM0020,Part unit device accessory device part widget,5,11.87,59.35
+INV0154,24-02-2024,V014,Vendor_14,USD,3,ITM0008,Device gadget widget,16,326.07,5217.12
+INV0154,24-02-2024,V014,Vendor_14,USD,4,ITM0042,Module unit part gadget,10,386.01,3860.1
+INV0154,24-02-2024,V014,Vendor_14,USD,5,ITM0010,Module gadget accessory device assembly assembly,1,430.6,430.6
+INV0155,26-10-2024,V008,Vendor_8,EUR,1,ITM0019,Part module module widget part module module,16,369.85,5917.6
+INV0155,26-10-2024,V008,Vendor_8,EUR,2,ITM0039,Accessory widget module assembly device accessory accessory,16,119.79,1916.64
+INV0155,26-10-2024,V008,Vendor_8,EUR,3,ITM0004,Widget unit assembly component unit accessory gadget,20,469.79,9395.8
+INV0155,26-10-2024,V008,Vendor_8,EUR,4,ITM0023,Device widget component gadget module component,8,295.89,2367.12
+INV0155,26-10-2024,V008,Vendor_8,EUR,5,ITM0044,Accessory part device assembly part,13,480.1,6241.3
+INV0156,10-12-2024,V012,Vendor_12,INR,1,ITM0011,Gadget device widget assembly gadget gadget assembly,14,471.81,6605.34
+INV0156,10-12-2024,V012,Vendor_12,INR,2,ITM0032,Component unit accessory module component,6,91.48,548.88
+INV0156,10-12-2024,V012,Vendor_12,INR,3,ITM0033,Part module gadget,8,64.74,517.92
+INV0156,10-12-2024,V012,Vendor_12,INR,4,ITM0015,Component module module widget part component,5,427.44,2137.2
+INV0156,10-12-2024,V012,Vendor_12,INR,5,ITM0033,Device device accessory module assembly part widget,4,391.92,1567.68
+INV0157,08-11-2024,V004,Vendor_4,USD,1,ITM0033,Gadget gadget gadget,12,82.73,992.76
+INV0157,08-11-2024,V004,Vendor_4,USD,2,ITM0019,Device assembly part gadget module part,4,425.05,1700.2
+INV0157,08-11-2024,V004,Vendor_4,USD,3,ITM0029,Device widget part assembly component gadget,9,189.36,1704.24
+INV0157,08-11-2024,V004,Vendor_4,USD,4,ITM0049,Module unit gadget device module component,14,209.64,2934.96
+INV0157,08-11-2024,V004,Vendor_4,USD,5,ITM0027,Accessory assembly device accessory module device,17,472.1,8025.7
+INV0158,13-02-2024,V011,Vendor_11,GBP,1,ITM0026,Module module widget accessory,5,451.74,2258.7
+INV0158,13-02-2024,V011,Vendor_11,GBP,2,ITM0004,Accessory module part device part device component,12,8.91,106.92
+INV0158,13-02-2024,V011,Vendor_11,GBP,3,ITM0018,Unit gadget module unit part unit unit,15,350.25,5253.75
+INV0158,13-02-2024,V011,Vendor_11,GBP,4,ITM0042,Device part widget assembly module device,5,262.63,1313.15
+INV0158,13-02-2024,V011,Vendor_11,GBP,5,ITM0035,Gadget assembly component module unit,1,18.81,18.81
+INV0159,03-10-2024,V019,Vendor_19,GBP,1,ITM0016,Device accessory widget widget module,17,180.46,3067.82
+INV0159,03-10-2024,V019,Vendor_19,GBP,2,ITM0004,Assembly unit widget,11,491.56,5407.16
+INV0159,03-10-2024,V019,Vendor_19,GBP,3,ITM0048,Unit accessory unit assembly unit module component,19,337.85,6419.15
+INV0159,03-10-2024,V019,Vendor_19,GBP,4,ITM0046,Assembly component component unit part module,4,77.54,310.16
+INV0159,03-10-2024,V019,Vendor_19,GBP,5,ITM0028,Widget widget part assembly assembly module,17,204.36,3474.12
+INV0160,13-10-2024,V017,Vendor_17,INR,1,ITM0017,Assembly module module accessory assembly accessory part,5,255.36,1276.8
+INV0160,13-10-2024,V017,Vendor_17,INR,2,ITM0032,Gadget device part gadget gadget assembly,6,472.31,2833.86
+INV0160,13-10-2024,V017,Vendor_17,INR,3,ITM0024,Unit module gadget,19,148.35,2818.65
+INV0160,13-10-2024,V017,Vendor_17,INR,4,ITM0034,Gadget component module component,1,396.65,396.65
+INV0160,13-10-2024,V017,Vendor_17,INR,5,ITM0010,Module accessory component component gadget device widget,18,177.58,3196.44
+INV0161,23-01-2024,V014,Vendor_14,INR,1,ITM0037,Unit accessory part assembly device,20,70.74,1414.8
+INV0161,23-01-2024,V014,Vendor_14,INR,2,ITM0009,Unit device device gadget device widget unit,20,207.77,4155.4
+INV0161,23-01-2024,V014,Vendor_14,INR,3,ITM0015,Module widget device module component widget,6,355.07,2130.42
+INV0161,23-01-2024,V014,Vendor_14,INR,4,ITM0037,Unit gadget unit gadget unit,19,380.02,7220.38
+INV0161,23-01-2024,V014,Vendor_14,INR,5,ITM0037,Gadget assembly accessory gadget accessory gadget widget,7,126.42,884.94
+INV0162,27-12-2024,V019,Vendor_19,INR,1,ITM0006,Unit module widget part widget module module,17,162.1,2755.7
+INV0162,27-12-2024,V019,Vendor_19,INR,2,ITM0017,Gadget widget gadget,5,95.42,477.1
+INV0162,27-12-2024,V019,Vendor_19,INR,3,ITM0050,Gadget accessory device,2,309.17,618.34
+INV0162,27-12-2024,V019,Vendor_19,INR,4,ITM0021,Widget widget module component,14,447.04,6258.56
+INV0162,27-12-2024,V019,Vendor_19,INR,5,ITM0017,Accessory accessory widget component unit component,17,377.43,6416.31
+INV0163,16-07-2024,V004,Vendor_4,GBP,1,ITM0004,Assembly module assembly module component,1,138.23,138.23
+INV0163,16-07-2024,V004,Vendor_4,GBP,2,ITM0038,Component assembly part,10,286.28,2862.8
+INV0163,16-07-2024,V004,Vendor_4,GBP,3,ITM0029,Part assembly part,5,189.79,948.95
+INV0163,16-07-2024,V004,Vendor_4,GBP,4,ITM0011,Assembly module accessory assembly,1,407.26,407.26
+INV0163,16-07-2024,V004,Vendor_4,GBP,5,ITM0040,Unit gadget widget accessory component,9,420.55,3784.95
+INV0164,13-07-2024,V012,Vendor_12,EUR,1,ITM0038,Component gadget assembly widget widget device part,18,499.42,8989.56
+INV0164,13-07-2024,V012,Vendor_12,EUR,2,ITM0028,Unit accessory component device,11,319.41,3513.51
+INV0164,13-07-2024,V012,Vendor_12,EUR,3,ITM0049,Component unit component gadget accessory component,5,324.99,1624.95
+INV0164,13-07-2024,V012,Vendor_12,EUR,4,ITM0001,Assembly accessory device module accessory device device,18,45.17,813.06
+INV0164,13-07-2024,V012,Vendor_12,EUR,5,ITM0042,Assembly accessory part,15,337.76,5066.4
+INV0165,29-06-2024,V013,Vendor_13,GBP,1,ITM0025,Part part accessory gadget,12,468.44,5621.28
+INV0165,29-06-2024,V013,Vendor_13,GBP,2,ITM0029,Gadget widget component,12,99.8,1197.6
+INV0165,29-06-2024,V013,Vendor_13,GBP,3,ITM0040,Part gadget accessory accessory widget,16,452.73,7243.68
+INV0165,29-06-2024,V013,Vendor_13,GBP,4,ITM0046,Gadget gadget part module part unit assembly,18,100.92,1816.56
+INV0165,29-06-2024,V013,Vendor_13,GBP,5,ITM0048,Device unit gadget unit device gadget accessory,8,441.1,3528.8
+INV0166,20-05-2024,V007,Vendor_7,USD,1,ITM0045,Unit device part widget module device unit,11,219.11,2410.21
+INV0166,20-05-2024,V007,Vendor_7,USD,2,ITM0027,Gadget assembly assembly assembly widget,8,28.25,226
+INV0166,20-05-2024,V007,Vendor_7,USD,3,ITM0027,Assembly widget gadget widget unit widget device,14,479.1,6707.4
+INV0166,20-05-2024,V007,Vendor_7,USD,4,ITM0016,Gadget component unit widget,16,218.81,3500.96
+INV0166,20-05-2024,V007,Vendor_7,USD,5,ITM0002,Part accessory part component assembly accessory part,11,262.24,2884.64
+INV0167,01-05-2024,V003,Vendor_3,INR,1,ITM0049,Unit unit widget,2,458.77,917.54
+INV0167,01-05-2024,V003,Vendor_3,INR,2,ITM0025,Accessory device part widget part,2,154.23,308.46
+INV0167,01-05-2024,V003,Vendor_3,INR,3,ITM0041,Widget device unit component module widget,14,120.39,1685.46
+INV0167,01-05-2024,V003,Vendor_3,INR,4,ITM0039,Widget module part part unit module accessory,1,229.77,229.77
+INV0167,01-05-2024,V003,Vendor_3,INR,5,ITM0022,Gadget widget unit widget part gadget unit,17,131.86,2241.62
+INV0168,03-08-2024,V016,Vendor_16,INR,1,ITM0012,Gadget widget gadget unit,17,480.07,8161.19
+INV0168,03-08-2024,V016,Vendor_16,INR,2,ITM0049,Component part device gadget component,11,149.08,1639.88
+INV0168,03-08-2024,V016,Vendor_16,INR,3,ITM0001,Unit device widget assembly part part module,7,488.37,3418.59
+INV0168,03-08-2024,V016,Vendor_16,INR,4,ITM0041,Part module device device,15,301.88,4528.2
+INV0168,03-08-2024,V016,Vendor_16,INR,5,ITM0022,Unit module component component widget part accessory,16,113.61,1817.76
+INV0169,02-01-2024,V008,Vendor_8,EUR,1,ITM0030,Gadget assembly device part part module module,1,184.59,184.59
+INV0169,02-01-2024,V008,Vendor_8,EUR,2,ITM0005,Widget gadget component gadget unit,12,26.73,320.76
+INV0169,02-01-2024,V008,Vendor_8,EUR,3,ITM0002,Gadget gadget part device,11,424.53,4669.83
+INV0169,02-01-2024,V008,Vendor_8,EUR,4,ITM0016,Gadget gadget component widget,5,192.57,962.85
+INV0169,02-01-2024,V008,Vendor_8,EUR,5,ITM0008,Accessory component component part unit,17,488.67,8307.39
+INV0170,15-11-2024,V014,Vendor_14,USD,1,ITM0008,Part gadget gadget assembly,12,162.39,1948.68
+INV0170,15-11-2024,V014,Vendor_14,USD,2,ITM0028,Accessory device unit part,10,395.85,3958.5
+INV0170,15-11-2024,V014,Vendor_14,USD,3,ITM0021,Widget part part part,19,443.49,8426.31
+INV0170,15-11-2024,V014,Vendor_14,USD,4,ITM0014,Part part unit,6,256.76,1540.56
+INV0170,15-11-2024,V014,Vendor_14,USD,5,ITM0049,Module assembly gadget device assembly assembly accessory,16,137.83,2205.28
+INV0171,24-07-2024,V019,Vendor_19,USD,1,ITM0014,Accessory assembly component gadget,14,444.91,6228.74
+INV0171,24-07-2024,V019,Vendor_19,USD,2,ITM0037,Accessory module assembly gadget,3,151.05,453.15
+INV0171,24-07-2024,V019,Vendor_19,USD,3,ITM0034,Component widget assembly module assembly,14,207.43,2904.02
+INV0171,24-07-2024,V019,Vendor_19,USD,4,ITM0032,Component widget module component widget,3,150.79,452.37
+INV0171,24-07-2024,V019,Vendor_19,USD,5,ITM0033,Assembly widget component component gadget module assembly,11,102.34,1125.74
+INV0172,17-06-2024,V009,Vendor_9,GBP,1,ITM0048,Gadget unit gadget part device,18,456.63,8219.34
+INV0172,17-06-2024,V009,Vendor_9,GBP,2,ITM0001,Component module accessory accessory part,1,238.64,238.64
+INV0172,17-06-2024,V009,Vendor_9,GBP,3,ITM0033,Part component device gadget,8,260.33,2082.64
+INV0172,17-06-2024,V009,Vendor_9,GBP,4,ITM0036,Device assembly part component gadget device,14,108.74,1522.36
+INV0172,17-06-2024,V009,Vendor_9,GBP,5,ITM0029,Widget gadget part component device assembly unit,12,173.21,2078.52
+INV0173,02-08-2024,V014,Vendor_14,INR,1,ITM0049,Component unit unit widget gadget accessory accessory,19,316.77,6018.63
+INV0173,02-08-2024,V014,Vendor_14,INR,2,ITM0039,Unit module module accessory widget module assembly,11,286.91,3156.01
+INV0173,02-08-2024,V014,Vendor_14,INR,3,ITM0029,Widget widget assembly widget device,16,18.29,292.64
+INV0173,02-08-2024,V014,Vendor_14,INR,4,ITM0013,Accessory module gadget,10,331.49,3314.9
+INV0173,02-08-2024,V014,Vendor_14,INR,5,ITM0005,Widget assembly gadget part module gadget,4,68.92,275.68
+INV0174,02-08-2024,V016,Vendor_16,USD,1,ITM0025,Gadget gadget module device,16,83.6,1337.6
+INV0174,02-08-2024,V016,Vendor_16,USD,2,ITM0037,Unit assembly device component widget,5,225.64,1128.2
+INV0174,02-08-2024,V016,Vendor_16,USD,3,ITM0026,Part assembly accessory part assembly unit device,10,324.92,3249.2
+INV0174,02-08-2024,V016,Vendor_16,USD,4,ITM0030,Device device component unit part,6,210.45,1262.7
+INV0174,02-08-2024,V016,Vendor_16,USD,5,ITM0012,Device assembly accessory gadget unit module accessory,8,443.34,3546.72
+INV0175,21-03-2024,V009,Vendor_9,GBP,1,ITM0043,Device device gadget,16,208.58,3337.28
+INV0175,21-03-2024,V009,Vendor_9,GBP,2,ITM0049,Gadget module device assembly part module gadget,7,255.5,1788.5
+INV0175,21-03-2024,V009,Vendor_9,GBP,3,ITM0030,Widget device device,13,175.11,2276.43
+INV0175,21-03-2024,V009,Vendor_9,GBP,4,ITM0026,Module widget gadget accessory,11,336.8,3704.8
+INV0175,21-03-2024,V009,Vendor_9,GBP,5,ITM0030,Assembly widget unit device module assembly,9,421.57,3794.13
+INV0176,28-03-2024,V001,Vendor_1,USD,1,ITM0012,Gadget device gadget device widget,9,80.98,728.82
+INV0176,28-03-2024,V001,Vendor_1,USD,2,ITM0023,Gadget widget device gadget,2,419.07,838.14
+INV0176,28-03-2024,V001,Vendor_1,USD,3,ITM0034,Module component widget,1,29.09,29.09
+INV0176,28-03-2024,V001,Vendor_1,USD,4,ITM0025,Accessory module component widget,14,18.83,263.62
+INV0176,28-03-2024,V001,Vendor_1,USD,5,ITM0001,Part device widget accessory widget,6,363.39,2180.34
+INV0177,23-01-2024,V014,Vendor_14,USD,1,ITM0021,Unit gadget gadget assembly accessory,4,120.04,480.16
+INV0177,23-01-2024,V014,Vendor_14,USD,2,ITM0007,Component widget unit widget gadget,8,37.68,301.44
+INV0177,23-01-2024,V014,Vendor_14,USD,3,ITM0018,Module widget gadget component unit accessory widget,18,396.67,7140.06
+INV0177,23-01-2024,V014,Vendor_14,USD,4,ITM0037,Component widget component unit,13,340.56,4427.28
+INV0177,23-01-2024,V014,Vendor_14,USD,5,ITM0050,Component unit part component,16,38.42,614.72
+INV0178,10-01-2024,V020,Vendor_20,INR,1,ITM0025,Unit component unit accessory component unit accessory,10,122.02,1220.2
+INV0178,10-01-2024,V020,Vendor_20,INR,2,ITM0028,Unit widget module component,5,191,955
+INV0178,10-01-2024,V020,Vendor_20,INR,3,ITM0042,Component device accessory,15,370.93,5563.95
+INV0178,10-01-2024,V020,Vendor_20,INR,4,ITM0022,Component unit device assembly,14,325.78,4560.92
+INV0178,10-01-2024,V020,Vendor_20,INR,5,ITM0019,Component device module,7,271.96,1903.72
+INV0179,06-12-2024,V008,Vendor_8,EUR,1,ITM0039,Assembly gadget unit widget assembly accessory,2,319.01,638.02
+INV0179,06-12-2024,V008,Vendor_8,EUR,2,ITM0010,Gadget gadget assembly part,7,121.97,853.79
+INV0179,06-12-2024,V008,Vendor_8,EUR,3,ITM0006,Device component device component gadget component,10,290.33,2903.3
+INV0179,06-12-2024,V008,Vendor_8,EUR,4,ITM0041,Component part widget accessory,13,191.97,2495.61
+INV0179,06-12-2024,V008,Vendor_8,EUR,5,ITM0031,Module unit module gadget accessory assembly,13,216.56,2815.28
+INV0180,12-02-2024,V010,Vendor_10,EUR,1,ITM0036,Component assembly assembly module,20,243.02,4860.4
+INV0180,12-02-2024,V010,Vendor_10,EUR,2,ITM0022,Device gadget accessory widget,17,366.53,6231.01
+INV0180,12-02-2024,V010,Vendor_10,EUR,3,ITM0024,Module module module device module component,19,40.26,764.94
+INV0180,12-02-2024,V010,Vendor_10,EUR,4,ITM0003,Module unit gadget,14,478.76,6702.64
+INV0180,12-02-2024,V010,Vendor_10,EUR,5,ITM0050,Assembly assembly device device unit,14,369.15,5168.1
+INV0181,04-05-2024,V016,Vendor_16,USD,1,ITM0024,Device unit component,15,472.41,7086.15
+INV0181,04-05-2024,V016,Vendor_16,USD,2,ITM0010,Component unit unit gadget gadget,3,323.98,971.94
+INV0181,04-05-2024,V016,Vendor_16,USD,3,ITM0025,Device accessory widget accessory part gadget,14,130.17,1822.38
+INV0181,04-05-2024,V016,Vendor_16,USD,4,ITM0020,Accessory unit module component module part device,3,59.09,177.27
+INV0181,04-05-2024,V016,Vendor_16,USD,5,ITM0037,Part component gadget device device,1,493.58,493.58
+INV0182,08-09-2024,V001,Vendor_1,USD,1,ITM0005,Assembly unit device gadget module device,7,245.8,1720.6
+INV0182,08-09-2024,V001,Vendor_1,USD,2,ITM0033,Assembly part gadget,2,376.21,752.42
+INV0182,08-09-2024,V001,Vendor_1,USD,3,ITM0049,Component accessory module unit,20,59.05,1181
+INV0182,08-09-2024,V001,Vendor_1,USD,4,ITM0041,Widget widget gadget widget,1,294.89,294.89
+INV0182,08-09-2024,V001,Vendor_1,USD,5,ITM0031,Device widget widget device widget unit,2,52.94,105.88
+INV0183,24-09-2024,V001,Vendor_1,INR,1,ITM0039,Accessory device accessory assembly module module module,11,499.73,5497.03
+INV0183,24-09-2024,V001,Vendor_1,INR,2,ITM0016,Unit module widget module component,4,6.53,26.12
+INV0183,24-09-2024,V001,Vendor_1,INR,3,ITM0045,Device part gadget unit part component,8,187.37,1498.96
+INV0183,24-09-2024,V001,Vendor_1,INR,4,ITM0040,Assembly unit widget unit accessory component,12,437.35,5248.2
+INV0183,24-09-2024,V001,Vendor_1,INR,5,ITM0048,Device component assembly device part,12,216.82,2601.84
+INV0184,31-08-2024,V004,Vendor_4,INR,1,ITM0019,Gadget gadget assembly unit part assembly gadget,3,154.17,462.51
+INV0184,31-08-2024,V004,Vendor_4,INR,2,ITM0044,Accessory assembly accessory accessory assembly assembly component,6,377.86,2267.16
+INV0184,31-08-2024,V004,Vendor_4,INR,3,ITM0043,Widget accessory widget,11,451.81,4969.91
+INV0184,31-08-2024,V004,Vendor_4,INR,4,ITM0050,Gadget component assembly accessory gadget,5,461.75,2308.75
+INV0184,31-08-2024,V004,Vendor_4,INR,5,ITM0041,Widget device part accessory device unit,11,191.62,2107.82
+INV0185,14-07-2024,V018,Vendor_18,INR,1,ITM0015,Component component gadget module,19,468.92,8909.48
+INV0185,14-07-2024,V018,Vendor_18,INR,2,ITM0048,Unit gadget component,13,290.57,3777.41
+INV0185,14-07-2024,V018,Vendor_18,INR,3,ITM0001,Widget assembly part accessory component,12,399.77,4797.24
+INV0185,14-07-2024,V018,Vendor_18,INR,4,ITM0009,Unit unit widget widget part component part,10,419.42,4194.2
+INV0185,14-07-2024,V018,Vendor_18,INR,5,ITM0032,Gadget component device part part widget,11,157.9,1736.9
+INV0186,18-12-2024,V004,Vendor_4,GBP,1,ITM0046,Assembly part assembly device module accessory component,7,424.79,2973.53
+INV0186,18-12-2024,V004,Vendor_4,GBP,2,ITM0015,Accessory device part,13,153.06,1989.78
+INV0186,18-12-2024,V004,Vendor_4,GBP,3,ITM0043,Accessory assembly module device,12,380.07,4560.84
+INV0186,18-12-2024,V004,Vendor_4,GBP,4,ITM0026,Assembly component device,7,352.05,2464.35
+INV0186,18-12-2024,V004,Vendor_4,GBP,5,ITM0036,Widget component part part widget accessory,10,231.48,2314.8
+INV0187,24-03-2024,V019,Vendor_19,EUR,1,ITM0029,Component gadget gadget device device widget,19,55.46,1053.74
+INV0187,24-03-2024,V019,Vendor_19,EUR,2,ITM0010,Accessory module part accessory widget accessory,6,472.81,2836.86
+INV0187,24-03-2024,V019,Vendor_19,EUR,3,ITM0008,Unit unit accessory unit module widget component,16,154.83,2477.28
+INV0187,24-03-2024,V019,Vendor_19,EUR,4,ITM0039,Unit module device part,3,389.98,1169.94
+INV0187,24-03-2024,V019,Vendor_19,EUR,5,ITM0042,Component unit module gadget widget assembly,17,116.34,1977.78
+INV0188,27-10-2024,V019,Vendor_19,INR,1,ITM0018,Part gadget assembly,14,152.69,2137.66
+INV0188,27-10-2024,V019,Vendor_19,INR,2,ITM0009,Component device part,18,96.52,1737.36
+INV0188,27-10-2024,V019,Vendor_19,INR,3,ITM0045,Module part part,17,246.84,4196.28
+INV0188,27-10-2024,V019,Vendor_19,INR,4,ITM0034,Assembly part unit device gadget unit gadget,20,349.13,6982.6
+INV0188,27-10-2024,V019,Vendor_19,INR,5,ITM0001,Assembly component widget unit unit widget component,2,46.88,93.76
+INV0189,04-03-2024,V017,Vendor_17,GBP,1,ITM0024,Gadget accessory unit component widget accessory accessory,10,331.28,3312.8
+INV0189,04-03-2024,V017,Vendor_17,GBP,2,ITM0029,Unit device assembly accessory,12,305.06,3660.72
+INV0189,04-03-2024,V017,Vendor_17,GBP,3,ITM0033,Device unit widget widget,5,153.36,766.8
+INV0189,04-03-2024,V017,Vendor_17,GBP,4,ITM0014,Unit gadget module gadget,20,213.9,4278
+INV0189,04-03-2024,V017,Vendor_17,GBP,5,ITM0036,Component unit gadget assembly accessory,14,470.4,6585.6
+INV0190,14-03-2024,V018,Vendor_18,EUR,1,ITM0005,Accessory device gadget module unit,17,304.45,5175.65
+INV0190,14-03-2024,V018,Vendor_18,EUR,2,ITM0027,Component part module accessory,8,43.37,346.96
+INV0190,14-03-2024,V018,Vendor_18,EUR,3,ITM0008,Widget assembly widget unit module module component,8,140.46,1123.68
+INV0190,14-03-2024,V018,Vendor_18,EUR,4,ITM0007,Accessory component accessory part gadget assembly,10,296.47,2964.7
+INV0190,14-03-2024,V018,Vendor_18,EUR,5,ITM0032,Assembly device part,18,139.17,2505.06
+INV0191,20-02-2024,V002,Vendor_2,EUR,1,ITM0021,Gadget part device part assembly part,13,241.05,3133.65
+INV0191,20-02-2024,V002,Vendor_2,EUR,2,ITM0009,Widget assembly gadget gadget module,9,31.17,280.53
+INV0191,20-02-2024,V002,Vendor_2,EUR,3,ITM0047,Device component unit device gadget,12,400.24,4802.88
+INV0191,20-02-2024,V002,Vendor_2,EUR,4,ITM0033,Component module accessory part part,10,319.64,3196.4
+INV0191,20-02-2024,V002,Vendor_2,EUR,5,ITM0006,Module component widget widget device,3,86.73,260.19
+INV0192,30-01-2024,V003,Vendor_3,GBP,1,ITM0036,Part widget accessory device accessory gadget,16,259.93,4158.88
+INV0192,30-01-2024,V003,Vendor_3,GBP,2,ITM0044,Device module unit accessory device device device,12,125.89,1510.68
+INV0192,30-01-2024,V003,Vendor_3,GBP,3,ITM0048,Device widget assembly gadget accessory device accessory,6,42.19,253.14
+INV0192,30-01-2024,V003,Vendor_3,GBP,4,ITM0009,Module widget assembly gadget accessory module device,18,426.13,7670.34
+INV0192,30-01-2024,V003,Vendor_3,GBP,5,ITM0008,Component component gadget device unit,7,461.91,3233.37
+INV0193,25-11-2024,V017,Vendor_17,USD,1,ITM0030,Part widget widget assembly component widget module,6,204.02,1224.12
+INV0193,25-11-2024,V017,Vendor_17,USD,2,ITM0001,Module gadget assembly,5,208.31,1041.55
+INV0193,25-11-2024,V017,Vendor_17,USD,3,ITM0032,Gadget unit component,13,190.28,2473.64
+INV0193,25-11-2024,V017,Vendor_17,USD,4,ITM0024,Accessory assembly component accessory unit module,5,180.1,900.5
+INV0193,25-11-2024,V017,Vendor_17,USD,5,ITM0028,Module part gadget,7,146.03,1022.21
+INV0194,09-03-2024,V013,Vendor_13,INR,1,ITM0048,Accessory gadget gadget assembly unit,9,63.8,574.2
+INV0194,09-03-2024,V013,Vendor_13,INR,2,ITM0032,Assembly device gadget device part module device,13,70.05,910.65
+INV0194,09-03-2024,V013,Vendor_13,INR,3,ITM0007,Gadget module widget,8,30.76,246.08
+INV0194,09-03-2024,V013,Vendor_13,INR,4,ITM0022,Accessory device module component assembly device,8,310.72,2485.76
+INV0194,09-03-2024,V013,Vendor_13,INR,5,ITM0047,Gadget component gadget component device unit module,16,354.7,5675.2
+INV0195,22-02-2024,V017,Vendor_17,EUR,1,ITM0013,Unit gadget gadget module component gadget gadget,1,310.15,310.15
+INV0195,22-02-2024,V017,Vendor_17,EUR,2,ITM0006,Module assembly device,8,114.78,918.24
+INV0195,22-02-2024,V017,Vendor_17,EUR,3,ITM0028,Widget module widget widget module accessory,14,127.25,1781.5
+INV0195,22-02-2024,V017,Vendor_17,EUR,4,ITM0004,Widget widget device gadget,16,143.68,2298.88
+INV0195,22-02-2024,V017,Vendor_17,EUR,5,ITM0039,Module component assembly,11,155.66,1712.26
+INV0196,19-02-2024,V001,Vendor_1,EUR,1,ITM0022,Device module part assembly module,9,108.97,980.73
+INV0196,19-02-2024,V001,Vendor_1,EUR,2,ITM0025,Part gadget device,4,25.31,101.24
+INV0196,19-02-2024,V001,Vendor_1,EUR,3,ITM0042,Gadget assembly widget accessory,20,174.73,3494.6
+INV0196,19-02-2024,V001,Vendor_1,EUR,4,ITM0047,Accessory gadget device widget gadget assembly,9,446.34,4017.06
+INV0196,19-02-2024,V001,Vendor_1,EUR,5,ITM0049,Accessory accessory assembly device accessory widget module,17,396.49,6740.33
+INV0197,26-03-2024,V020,Vendor_20,GBP,1,ITM0045,Component accessory widget accessory,7,371.65,2601.55
+INV0197,26-03-2024,V020,Vendor_20,GBP,2,ITM0026,Device part accessory gadget device module,13,203.42,2644.46
+INV0197,26-03-2024,V020,Vendor_20,GBP,3,ITM0018,Gadget gadget gadget device,17,230.44,3917.48
+INV0197,26-03-2024,V020,Vendor_20,GBP,4,ITM0046,Component part component component gadget component assembly,10,24.35,243.5
+INV0197,26-03-2024,V020,Vendor_20,GBP,5,ITM0010,Accessory component part unit component,7,269.62,1887.34
+INV0198,01-01-2024,V012,Vendor_12,GBP,1,ITM0021,Accessory part component,5,207.13,1035.65
+INV0198,01-01-2024,V012,Vendor_12,GBP,2,ITM0040,Component widget part part gadget,9,92.48,832.32
+INV0198,01-01-2024,V012,Vendor_12,GBP,3,ITM0002,Unit part accessory unit device device accessory,9,435.66,3920.94
+INV0198,01-01-2024,V012,Vendor_12,GBP,4,ITM0041,Assembly part gadget component unit part device,5,225.8,1129
+INV0198,01-01-2024,V012,Vendor_12,GBP,5,ITM0047,Module accessory widget gadget gadget part,7,286.98,2008.86
+INV0199,02-04-2024,V010,Vendor_10,USD,1,ITM0020,Part part device gadget,5,40.66,203.3
+INV0199,02-04-2024,V010,Vendor_10,USD,2,ITM0016,Accessory accessory widget assembly device part,20,54.37,1087.4
+INV0199,02-04-2024,V010,Vendor_10,USD,3,ITM0025,Widget widget part,2,70.43,140.86
+INV0199,02-04-2024,V010,Vendor_10,USD,4,ITM0050,Component accessory unit,1,479.02,479.02
+INV0199,02-04-2024,V010,Vendor_10,USD,5,ITM0007,Device module device gadget assembly unit module,6,157.16,942.96
+INV0200,02-09-2024,V005,Vendor_5,EUR,1,ITM0004,Device unit gadget part widget component assembly,14,75.21,1052.94
+INV0200,02-09-2024,V005,Vendor_5,EUR,2,ITM0015,Component module module,10,116.81,1168.1
+INV0200,02-09-2024,V005,Vendor_5,EUR,3,ITM0044,Device device accessory assembly accessory component,10,181.87,1818.7
+INV0200,02-09-2024,V005,Vendor_5,EUR,4,ITM0040,Gadget accessory accessory accessory unit,6,217.17,1303.02
+INV0200,02-09-2024,V005,Vendor_5,EUR,5,ITM0022,Gadget module accessory device unit component part,9,458.54,4126.86
+INV0201,04-12-2024,V012,Vendor_12,GBP,1,ITM0046,Part part accessory,5,163.53,817.65
+INV0201,04-12-2024,V012,Vendor_12,GBP,2,ITM0025,Device part assembly widget unit accessory,9,76.61,689.49
+INV0201,04-12-2024,V012,Vendor_12,GBP,3,ITM0021,Gadget module component module,14,302.86,4240.04
+INV0201,04-12-2024,V012,Vendor_12,GBP,4,ITM0041,Gadget accessory accessory module assembly,18,269.22,4845.96
+INV0201,04-12-2024,V012,Vendor_12,GBP,5,ITM0035,Part module unit module unit device device,3,121.42,364.26
+INV0202,02-01-2024,V007,Vendor_7,USD,1,ITM0024,Assembly gadget widget accessory module part part,5,150.88,754.4
+INV0202,02-01-2024,V007,Vendor_7,USD,2,ITM0010,Accessory accessory component part widget gadget accessory,5,191.84,959.2
+INV0202,02-01-2024,V007,Vendor_7,USD,3,ITM0002,Module device unit widget part part,1,77.71,77.71
+INV0202,02-01-2024,V007,Vendor_7,USD,4,ITM0010,Component widget part,14,79.11,1107.54
+INV0202,02-01-2024,V007,Vendor_7,USD,5,ITM0012,Device device device component module module,1,146.95,146.95
+INV0203,20-03-2024,V002,Vendor_2,USD,1,ITM0039,Assembly widget part device,15,279.31,4189.65
+INV0203,20-03-2024,V002,Vendor_2,USD,2,ITM0017,Assembly device module gadget accessory assembly accessory,5,372.85,1864.25
+INV0203,20-03-2024,V002,Vendor_2,USD,3,ITM0026,Widget module part accessory unit widget device,16,160.03,2560.48
+INV0203,20-03-2024,V002,Vendor_2,USD,4,ITM0042,Part gadget part unit gadget widget,3,184.54,553.62
+INV0203,20-03-2024,V002,Vendor_2,USD,5,ITM0050,Widget component assembly widget unit,10,97.93,979.3
+INV0204,13-04-2024,V002,Vendor_2,EUR,1,ITM0018,Accessory unit unit,16,27.61,441.76
+INV0204,13-04-2024,V002,Vendor_2,EUR,2,ITM0021,Accessory widget module,10,479.58,4795.8
+INV0204,13-04-2024,V002,Vendor_2,EUR,3,ITM0033,Component module module gadget,4,169,676
+INV0204,13-04-2024,V002,Vendor_2,EUR,4,ITM0048,Widget part gadget unit module unit part,10,84.81,848.1
+INV0204,13-04-2024,V002,Vendor_2,EUR,5,ITM0044,Widget unit accessory component gadget device,5,385.57,1927.85
+INV0205,23-03-2024,V017,Vendor_17,GBP,1,ITM0029,Module module part module,13,123.36,1603.68
+INV0205,23-03-2024,V017,Vendor_17,GBP,2,ITM0040,Widget gadget unit assembly part gadget part,18,434.43,7819.74
+INV0205,23-03-2024,V017,Vendor_17,GBP,3,ITM0006,Widget component accessory gadget component module,3,40.21,120.63
+INV0205,23-03-2024,V017,Vendor_17,GBP,4,ITM0046,Component assembly component part unit gadget,4,485.98,1943.92
+INV0205,23-03-2024,V017,Vendor_17,GBP,5,ITM0032,Module component module,20,458.98,9179.6
+INV0206,07-03-2024,V015,Vendor_15,GBP,1,ITM0033,Accessory module device assembly component part device,20,488.83,9776.6
+INV0206,07-03-2024,V015,Vendor_15,GBP,2,ITM0004,Device unit gadget widget,13,83.31,1083.03
+INV0206,07-03-2024,V015,Vendor_15,GBP,3,ITM0026,Component part device,12,235.61,2827.32
+INV0206,07-03-2024,V015,Vendor_15,GBP,4,ITM0042,Accessory assembly widget device accessory accessory device,7,203.75,1426.25
+INV0206,07-03-2024,V015,Vendor_15,GBP,5,ITM0005,Module unit gadget device gadget,15,23.95,359.25
+INV0207,20-03-2024,V016,Vendor_16,EUR,1,ITM0041,Component widget unit module,12,395.83,4749.96
+INV0207,20-03-2024,V016,Vendor_16,EUR,2,ITM0031,Widget part accessory device,9,129.78,1168.02
+INV0207,20-03-2024,V016,Vendor_16,EUR,3,ITM0012,Gadget component widget,15,436.29,6544.35
+INV0207,20-03-2024,V016,Vendor_16,EUR,4,ITM0034,Device component part widget,14,174.3,2440.2
+INV0207,20-03-2024,V016,Vendor_16,EUR,5,ITM0049,Gadget module module assembly device,6,482.97,2897.82
+INV0208,11-08-2024,V012,Vendor_12,INR,1,ITM0001,Part unit widget device unit component accessory,11,12.02,132.22
+INV0208,11-08-2024,V012,Vendor_12,INR,2,ITM0030,Assembly component part device,9,262.74,2364.66
+INV0208,11-08-2024,V012,Vendor_12,INR,3,ITM0001,Accessory part unit unit unit widget,7,212.99,1490.93
+INV0208,11-08-2024,V012,Vendor_12,INR,4,ITM0035,Unit gadget gadget gadget,19,477.78,9077.82
+INV0208,11-08-2024,V012,Vendor_12,INR,5,ITM0024,Widget accessory assembly part device,15,209.96,3149.4
+INV0209,29-06-2024,V012,Vendor_12,INR,1,ITM0034,Gadget gadget module gadget unit,18,220.76,3973.68
+INV0209,29-06-2024,V012,Vendor_12,INR,2,ITM0019,Unit device accessory accessory widget widget,4,49.37,197.48
+INV0209,29-06-2024,V012,Vendor_12,INR,3,ITM0002,Accessory widget device unit assembly unit assembly,2,335.52,671.04
+INV0209,29-06-2024,V012,Vendor_12,INR,4,ITM0027,Component assembly module gadget,16,475.52,7608.32
+INV0209,29-06-2024,V012,Vendor_12,INR,5,ITM0023,Module part device device widget module,8,256.24,2049.92
+INV0210,17-05-2024,V009,Vendor_9,GBP,1,ITM0027,Widget accessory widget widget,12,421.18,5054.16
+INV0210,17-05-2024,V009,Vendor_9,GBP,2,ITM0034,Component gadget unit module unit module unit,13,415.13,5396.69
+INV0210,17-05-2024,V009,Vendor_9,GBP,3,ITM0037,Gadget unit accessory gadget accessory assembly,14,119.33,1670.62
+INV0210,17-05-2024,V009,Vendor_9,GBP,4,ITM0046,Assembly unit part part,9,419.48,3775.32
+INV0210,17-05-2024,V009,Vendor_9,GBP,5,ITM0011,Gadget widget module unit unit,1,310.96,310.96
+INV0211,05-10-2024,V003,Vendor_3,INR,1,ITM0002,Accessory unit device gadget,8,151.98,1215.84
+INV0211,05-10-2024,V003,Vendor_3,INR,2,ITM0035,Device part module component,2,141.11,282.22
+INV0211,05-10-2024,V003,Vendor_3,INR,3,ITM0010,Unit unit widget,15,463.96,6959.4
+INV0211,05-10-2024,V003,Vendor_3,INR,4,ITM0008,Gadget component gadget,3,249.65,748.95
+INV0211,05-10-2024,V003,Vendor_3,INR,5,ITM0024,Module assembly widget widget,3,109.1,327.3
+INV0212,02-08-2024,V013,Vendor_13,GBP,1,ITM0041,Part gadget widget gadget unit unit,2,63.02,126.04
+INV0212,02-08-2024,V013,Vendor_13,GBP,2,ITM0022,Assembly unit assembly gadget device,4,100.46,401.84
+INV0212,02-08-2024,V013,Vendor_13,GBP,3,ITM0002,Widget assembly gadget part gadget gadget component,8,46.3,370.4
+INV0212,02-08-2024,V013,Vendor_13,GBP,4,ITM0045,Component assembly accessory module,18,327.7,5898.6
+INV0212,02-08-2024,V013,Vendor_13,GBP,5,ITM0030,Module accessory accessory component gadget part,9,481.13,4330.17
+INV0213,22-02-2024,V019,Vendor_19,GBP,1,ITM0011,Accessory assembly part module,9,408.87,3679.83
+INV0213,22-02-2024,V019,Vendor_19,GBP,2,ITM0040,Unit module unit,12,449.46,5393.52
+INV0213,22-02-2024,V019,Vendor_19,GBP,3,ITM0005,Gadget widget assembly unit component part,17,179.37,3049.29
+INV0213,22-02-2024,V019,Vendor_19,GBP,4,ITM0002,Gadget component part,12,126.43,1517.16
+INV0213,22-02-2024,V019,Vendor_19,GBP,5,ITM0014,Module part gadget component widget,11,110.82,1219.02
+INV0214,17-10-2024,V011,Vendor_11,EUR,1,ITM0036,Module unit assembly,4,282.67,1130.68
+INV0214,17-10-2024,V011,Vendor_11,EUR,2,ITM0046,Accessory part device unit unit device module,11,103.08,1133.88
+INV0214,17-10-2024,V011,Vendor_11,EUR,3,ITM0004,Assembly accessory module gadget gadget component,13,122.03,1586.39
+INV0214,17-10-2024,V011,Vendor_11,EUR,4,ITM0002,Widget part unit widget assembly,5,421.61,2108.05
+INV0214,17-10-2024,V011,Vendor_11,EUR,5,ITM0026,Accessory accessory widget,1,39.38,39.38
+INV0215,18-02-2024,V014,Vendor_14,GBP,1,ITM0018,Device module unit component unit,13,152.73,1985.49
+INV0215,18-02-2024,V014,Vendor_14,GBP,2,ITM0030,Part accessory gadget module unit widget,2,413.6,827.2
+INV0215,18-02-2024,V014,Vendor_14,GBP,3,ITM0009,Accessory part device,8,89.24,713.92
+INV0215,18-02-2024,V014,Vendor_14,GBP,4,ITM0013,Part assembly widget device widget,2,59.85,119.7
+INV0215,18-02-2024,V014,Vendor_14,GBP,5,ITM0020,Component device part,13,138.61,1801.93
+INV0216,28-03-2024,V005,Vendor_5,INR,1,ITM0008,Component gadget unit part,14,320.27,4483.78
+INV0216,28-03-2024,V005,Vendor_5,INR,2,ITM0043,Assembly component assembly,16,488.29,7812.64
+INV0216,28-03-2024,V005,Vendor_5,INR,3,ITM0021,Component component component widget unit part,7,349.01,2443.07
+INV0216,28-03-2024,V005,Vendor_5,INR,4,ITM0005,Widget widget gadget part gadget widget,7,407.93,2855.51
+INV0216,28-03-2024,V005,Vendor_5,INR,5,ITM0049,Assembly component accessory device unit part widget,5,113.3,566.5
+INV0217,05-07-2024,V013,Vendor_13,INR,1,ITM0040,Gadget module widget module device accessory unit,4,77.91,311.64
+INV0217,05-07-2024,V013,Vendor_13,INR,2,ITM0007,Component accessory gadget,1,240.74,240.74
+INV0217,05-07-2024,V013,Vendor_13,INR,3,ITM0034,Module gadget assembly module gadget module,14,256.42,3589.88
+INV0217,05-07-2024,V013,Vendor_13,INR,4,ITM0004,Component widget unit device module component,13,92.44,1201.72
+INV0217,05-07-2024,V013,Vendor_13,INR,5,ITM0018,Unit assembly widget widget component widget gadget,2,289.74,579.48
+INV0218,02-05-2024,V003,Vendor_3,USD,1,ITM0018,Part device module module,8,368.29,2946.32
+INV0218,02-05-2024,V003,Vendor_3,USD,2,ITM0045,Assembly gadget gadget unit device,10,368.27,3682.7
+INV0218,02-05-2024,V003,Vendor_3,USD,3,ITM0007,Assembly device assembly component,8,89.27,714.16
+INV0218,02-05-2024,V003,Vendor_3,USD,4,ITM0044,Gadget component assembly,1,334.69,334.69
+INV0218,02-05-2024,V003,Vendor_3,USD,5,ITM0028,Widget accessory part gadget device,1,299.03,299.03
+INV0219,30-08-2024,V019,Vendor_19,USD,1,ITM0032,Assembly widget widget device,10,418.5,4185
+INV0219,30-08-2024,V019,Vendor_19,USD,2,ITM0034,Gadget gadget widget component device assembly device,18,132.38,2382.84
+INV0219,30-08-2024,V019,Vendor_19,USD,3,ITM0032,Module widget module device accessory,20,244.76,4895.2
+INV0219,30-08-2024,V019,Vendor_19,USD,4,ITM0018,Device widget accessory part unit gadget assembly,8,290.9,2327.2
+INV0219,30-08-2024,V019,Vendor_19,USD,5,ITM0045,Module device gadget accessory unit accessory,18,450.11,8101.98
+INV0220,18-08-2024,V017,Vendor_17,EUR,1,ITM0017,Part module module accessory component,2,291.86,583.72
+INV0220,18-08-2024,V017,Vendor_17,EUR,2,ITM0045,Part gadget part unit part,12,147.76,1773.12
+INV0220,18-08-2024,V017,Vendor_17,EUR,3,ITM0001,Accessory gadget device assembly component unit,6,155.3,931.8
+INV0220,18-08-2024,V017,Vendor_17,EUR,4,ITM0019,Part widget widget,10,413.61,4136.1
+INV0220,18-08-2024,V017,Vendor_17,EUR,5,ITM0008,Assembly widget module,1,29.7,29.7
+INV0221,11-03-2024,V012,Vendor_12,GBP,1,ITM0033,Gadget widget component accessory gadget unit widget,8,20.91,167.28
+INV0221,11-03-2024,V012,Vendor_12,GBP,2,ITM0023,Part unit module accessory,4,447.05,1788.2
+INV0221,11-03-2024,V012,Vendor_12,GBP,3,ITM0020,Component unit device component unit device gadget,5,211.07,1055.35
+INV0221,11-03-2024,V012,Vendor_12,GBP,4,ITM0013,Component component accessory assembly gadget,14,52.54,735.56
+INV0221,11-03-2024,V012,Vendor_12,GBP,5,ITM0034,Device assembly device module module assembly,14,233.34,3266.76
+INV0222,13-10-2024,V001,Vendor_1,INR,1,ITM0006,Unit component component assembly,5,312.34,1561.7
+INV0222,13-10-2024,V001,Vendor_1,INR,2,ITM0037,Widget part gadget device assembly,17,232.81,3957.77
+INV0222,13-10-2024,V001,Vendor_1,INR,3,ITM0004,Widget part unit,11,299.2,3291.2
+INV0222,13-10-2024,V001,Vendor_1,INR,4,ITM0019,Assembly component widget device device device widget,7,260.55,1823.85
+INV0222,13-10-2024,V001,Vendor_1,INR,5,ITM0036,Gadget accessory unit gadget unit device,1,403.78,403.78
+INV0223,15-11-2024,V007,Vendor_7,USD,1,ITM0005,Gadget part assembly,8,106.13,849.04
+INV0223,15-11-2024,V007,Vendor_7,USD,2,ITM0031,Part module widget,4,153.46,613.84
+INV0223,15-11-2024,V007,Vendor_7,USD,3,ITM0031,Part part assembly part,15,430.36,6455.4
+INV0223,15-11-2024,V007,Vendor_7,USD,4,ITM0040,Module unit gadget,8,89.53,716.24
+INV0223,15-11-2024,V007,Vendor_7,USD,5,ITM0048,Gadget assembly component widget unit module component,13,350.34,4554.42
+INV0224,24-02-2024,V015,Vendor_15,INR,1,ITM0028,Widget assembly unit widget,10,21.87,218.7
+INV0224,24-02-2024,V015,Vendor_15,INR,2,ITM0042,Assembly accessory module gadget part assembly widget,6,182.09,1092.54
+INV0224,24-02-2024,V015,Vendor_15,INR,3,ITM0033,Module device module widget,5,179.17,895.85
+INV0224,24-02-2024,V015,Vendor_15,INR,4,ITM0047,Module device part component device component module,16,191.38,3062.08
+INV0224,24-02-2024,V015,Vendor_15,INR,5,ITM0031,Unit unit accessory device assembly gadget component,19,177.31,3368.89
+INV0225,12-11-2024,V013,Vendor_13,USD,1,ITM0003,Part gadget widget,4,252.22,1008.88
+INV0225,12-11-2024,V013,Vendor_13,USD,2,ITM0044,Component component device accessory part widget,6,365.44,2192.64
+INV0225,12-11-2024,V013,Vendor_13,USD,3,ITM0025,Accessory widget component widget device module,12,305.23,3662.76
+INV0225,12-11-2024,V013,Vendor_13,USD,4,ITM0002,Component device module accessory,19,280.45,5328.55
+INV0225,12-11-2024,V013,Vendor_13,USD,5,ITM0013,Assembly device component device module,17,405.29,6889.93
+INV0226,08-04-2024,V003,Vendor_3,USD,1,ITM0041,Gadget part accessory,12,388.32,4659.84
+INV0226,08-04-2024,V003,Vendor_3,USD,2,ITM0037,Part module device accessory device assembly gadget,7,287.33,2011.31
+INV0226,08-04-2024,V003,Vendor_3,USD,3,ITM0031,Module unit unit gadget widget module module,3,286.73,860.19
+INV0226,08-04-2024,V003,Vendor_3,USD,4,ITM0009,Component gadget component unit component component accessory,9,198.26,1784.34
+INV0226,08-04-2024,V003,Vendor_3,USD,5,ITM0023,Part gadget component,18,289.8,5216.4
+INV0227,22-09-2024,V020,Vendor_20,GBP,1,ITM0026,Widget device widget assembly accessory component widget,11,213.6,2349.6
+INV0227,22-09-2024,V020,Vendor_20,GBP,2,ITM0013,Part widget gadget part component,2,121.63,243.26
+INV0227,22-09-2024,V020,Vendor_20,GBP,3,ITM0005,Accessory device device widget accessory accessory unit,20,465.03,9300.6
+INV0227,22-09-2024,V020,Vendor_20,GBP,4,ITM0036,Accessory component widget widget assembly unit,14,241.41,3379.74
+INV0227,22-09-2024,V020,Vendor_20,GBP,5,ITM0015,Accessory widget part,7,269.42,1885.94
+INV0228,13-07-2024,V001,Vendor_1,INR,1,ITM0004,Device device module module gadget module,20,491.35,9827
+INV0228,13-07-2024,V001,Vendor_1,INR,2,ITM0024,Gadget module widget component unit,8,209.47,1675.76
+INV0228,13-07-2024,V001,Vendor_1,INR,3,ITM0049,Unit accessory widget device part widget gadget,6,144.89,869.34
+INV0228,13-07-2024,V001,Vendor_1,INR,4,ITM0021,Unit accessory accessory gadget module,4,330.01,1320.04
+INV0228,13-07-2024,V001,Vendor_1,INR,5,ITM0005,Accessory gadget device part accessory,8,224.55,1796.4
+INV0229,03-06-2024,V012,Vendor_12,GBP,1,ITM0042,Assembly component device assembly,2,176.58,353.16
+INV0229,03-06-2024,V012,Vendor_12,GBP,2,ITM0027,Assembly widget accessory part assembly component assembly,4,189.33,757.32
+INV0229,03-06-2024,V012,Vendor_12,GBP,3,ITM0010,Accessory device unit,15,476.76,7151.4
+INV0229,03-06-2024,V012,Vendor_12,GBP,4,ITM0002,Part component unit component accessory widget,20,195.05,3901
+INV0229,03-06-2024,V012,Vendor_12,GBP,5,ITM0002,Module widget gadget gadget module widget,10,20.5,205
+INV0230,27-06-2024,V001,Vendor_1,GBP,1,ITM0017,Gadget widget device unit part part accessory,2,404.66,809.32
+INV0230,27-06-2024,V001,Vendor_1,GBP,2,ITM0036,Accessory accessory component accessory assembly module,19,385.66,7327.54
+INV0230,27-06-2024,V001,Vendor_1,GBP,3,ITM0017,Accessory assembly accessory component,1,143.95,143.95
+INV0230,27-06-2024,V001,Vendor_1,GBP,4,ITM0044,Widget component assembly module module,20,140.76,2815.2
+INV0230,27-06-2024,V001,Vendor_1,GBP,5,ITM0018,Part part unit gadget unit,11,418.82,4607.02
+INV0231,01-04-2024,V015,Vendor_15,INR,1,ITM0002,Widget widget module unit unit module,19,469.72,8924.68
+INV0231,01-04-2024,V015,Vendor_15,INR,2,ITM0018,Assembly accessory module component part component assembly,8,317.02,2536.16
+INV0231,01-04-2024,V015,Vendor_15,INR,3,ITM0010,Unit component unit gadget assembly module component,18,360.09,6481.62
+INV0231,01-04-2024,V015,Vendor_15,INR,4,ITM0004,Accessory widget part part assembly,2,302.29,604.58
+INV0231,01-04-2024,V015,Vendor_15,INR,5,ITM0023,Widget module assembly,8,106,848
+INV0232,19-10-2024,V012,Vendor_12,INR,1,ITM0005,Part gadget component part module module,12,237.99,2855.88
+INV0232,19-10-2024,V012,Vendor_12,INR,2,ITM0019,Widget module component gadget unit widget gadget,11,257.84,2836.24
+INV0232,19-10-2024,V012,Vendor_12,INR,3,ITM0050,Part device accessory module unit unit gadget,3,477.81,1433.43
+INV0232,19-10-2024,V012,Vendor_12,INR,4,ITM0015,Assembly unit assembly module device part assembly,2,305.52,611.04
+INV0232,19-10-2024,V012,Vendor_12,INR,5,ITM0043,Assembly component gadget unit accessory component part,12,119.29,1431.48
+INV0233,10-06-2024,V004,Vendor_4,EUR,1,ITM0029,Module module assembly accessory unit unit,15,394.22,5913.3
+INV0233,10-06-2024,V004,Vendor_4,EUR,2,ITM0015,Part accessory accessory component accessory device unit,20,133.84,2676.8
+INV0233,10-06-2024,V004,Vendor_4,EUR,3,ITM0019,Component widget module accessory unit,7,450.44,3153.08
+INV0233,10-06-2024,V004,Vendor_4,EUR,4,ITM0030,Gadget module device,16,372.71,5963.36
+INV0233,10-06-2024,V004,Vendor_4,EUR,5,ITM0009,Part widget gadget,3,70.53,211.59
+INV0234,28-09-2024,V013,Vendor_13,INR,1,ITM0023,Module unit device gadget,11,297.78,3275.58
+INV0234,28-09-2024,V013,Vendor_13,INR,2,ITM0040,Accessory widget device,12,475.21,5702.52
+INV0234,28-09-2024,V013,Vendor_13,INR,3,ITM0027,Device module device device device device,19,458.59,8713.21
+INV0234,28-09-2024,V013,Vendor_13,INR,4,ITM0033,Gadget widget unit,15,192.79,2891.85
+INV0234,28-09-2024,V013,Vendor_13,INR,5,ITM0029,Assembly unit accessory widget,10,249.18,2491.8
+INV0235,25-01-2024,V019,Vendor_19,INR,1,ITM0019,Module device accessory widget accessory,7,218.12,1526.84
+INV0235,25-01-2024,V019,Vendor_19,INR,2,ITM0018,Part component module gadget component assembly component,6,147.8,886.8
+INV0235,25-01-2024,V019,Vendor_19,INR,3,ITM0017,Device accessory unit gadget gadget part device,1,301.2,301.2
+INV0235,25-01-2024,V019,Vendor_19,INR,4,ITM0003,Assembly gadget assembly part module component accessory,14,367.38,5143.32
+INV0235,25-01-2024,V019,Vendor_19,INR,5,ITM0034,Part component widget device,4,224.98,899.92
+INV0236,09-08-2024,V016,Vendor_16,GBP,1,ITM0006,Accessory device gadget module,3,373.42,1120.26
+INV0236,09-08-2024,V016,Vendor_16,GBP,2,ITM0015,Component assembly component,17,337.68,5740.56
+INV0236,09-08-2024,V016,Vendor_16,GBP,3,ITM0005,Accessory widget widget device assembly,7,421.51,2950.57
+INV0236,09-08-2024,V016,Vendor_16,GBP,4,ITM0043,Accessory unit component,19,191.22,3633.18
+INV0236,09-08-2024,V016,Vendor_16,GBP,5,ITM0015,Component gadget part device,10,70.24,702.4
+INV0237,21-11-2024,V003,Vendor_3,EUR,1,ITM0001,Widget unit gadget gadget module component,13,317.36,4125.68
+INV0237,21-11-2024,V003,Vendor_3,EUR,2,ITM0016,Assembly unit gadget component component,10,335.65,3356.5
+INV0237,21-11-2024,V003,Vendor_3,EUR,3,ITM0032,Unit assembly component gadget accessory accessory,10,212.7,2127
+INV0237,21-11-2024,V003,Vendor_3,EUR,4,ITM0029,Component module gadget accessory unit,12,350,4200
+INV0237,21-11-2024,V003,Vendor_3,EUR,5,ITM0046,Device assembly part assembly,14,345.17,4832.38
+INV0238,15-01-2024,V010,Vendor_10,GBP,1,ITM0033,Accessory part widget device,9,339.12,3052.08
+INV0238,15-01-2024,V010,Vendor_10,GBP,2,ITM0027,Part module component widget assembly gadget,2,157.71,315.42
+INV0238,15-01-2024,V010,Vendor_10,GBP,3,ITM0027,Unit gadget gadget unit,20,307.32,6146.4
+INV0238,15-01-2024,V010,Vendor_10,GBP,4,ITM0009,Assembly accessory widget module part component module,18,36.42,655.56
+INV0238,15-01-2024,V010,Vendor_10,GBP,5,ITM0004,Gadget assembly accessory part module device component,6,455.77,2734.62
+INV0239,18-06-2024,V014,Vendor_14,EUR,1,ITM0036,Accessory widget widget accessory,4,253.24,1012.96
+INV0239,18-06-2024,V014,Vendor_14,EUR,2,ITM0032,Gadget component component,8,21.72,173.76
+INV0239,18-06-2024,V014,Vendor_14,EUR,3,ITM0048,Part module module,9,431.68,3885.12
+INV0239,18-06-2024,V014,Vendor_14,EUR,4,ITM0005,Assembly device device,1,12.3,12.3
+INV0239,18-06-2024,V014,Vendor_14,EUR,5,ITM0035,Accessory widget unit module part part part,14,258.62,3620.68
+INV0240,12-01-2024,V010,Vendor_10,GBP,1,ITM0030,Widget accessory unit module,14,51.07,714.98
+INV0240,12-01-2024,V010,Vendor_10,GBP,2,ITM0027,Component component device assembly module accessory device,12,382.54,4590.48
+INV0240,12-01-2024,V010,Vendor_10,GBP,3,ITM0046,Assembly unit widget,8,226.31,1810.48
+INV0240,12-01-2024,V010,Vendor_10,GBP,4,ITM0031,Widget component gadget unit widget unit gadget,16,298.74,4779.84
+INV0240,12-01-2024,V010,Vendor_10,GBP,5,ITM0006,Module part assembly part,8,34.17,273.36
+INV0241,09-09-2024,V009,Vendor_9,INR,1,ITM0020,Part widget device unit part,9,346.75,3120.75
+INV0241,09-09-2024,V009,Vendor_9,INR,2,ITM0049,Part assembly component unit component device assembly,3,461.01,1383.03
+INV0241,09-09-2024,V009,Vendor_9,INR,3,ITM0028,Module device gadget,4,87.27,349.08
+INV0241,09-09-2024,V009,Vendor_9,INR,4,ITM0029,Widget module gadget,17,246.16,4184.72
+INV0241,09-09-2024,V009,Vendor_9,INR,5,ITM0048,Module widget gadget accessory device part component,11,309.47,3404.17
+INV0242,09-07-2024,V019,Vendor_19,EUR,1,ITM0010,Assembly gadget unit device assembly,9,238.69,2148.21
+INV0242,09-07-2024,V019,Vendor_19,EUR,2,ITM0014,Accessory device part gadget assembly,16,9.86,157.76
+INV0242,09-07-2024,V019,Vendor_19,EUR,3,ITM0027,Gadget widget accessory component,7,103.64,725.48
+INV0242,09-07-2024,V019,Vendor_19,EUR,4,ITM0007,Assembly widget unit unit widget unit part,12,316.27,3795.24
+INV0242,09-07-2024,V019,Vendor_19,EUR,5,ITM0013,Component accessory module device module,13,467.48,6077.24
+INV0243,14-10-2024,V018,Vendor_18,EUR,1,ITM0005,Gadget device component component widget part unit,13,168.43,2189.59
+INV0243,14-10-2024,V018,Vendor_18,EUR,2,ITM0050,Unit accessory device unit accessory gadget widget,8,494.6,3956.8
+INV0243,14-10-2024,V018,Vendor_18,EUR,3,ITM0006,Gadget gadget part component accessory widget assembly,15,215.58,3233.7
+INV0243,14-10-2024,V018,Vendor_18,EUR,4,ITM0031,Component device component module device,16,180.72,2891.52
+INV0243,14-10-2024,V018,Vendor_18,EUR,5,ITM0034,Assembly part part accessory accessory,9,357.12,3214.08
+INV0244,11-08-2024,V018,Vendor_18,INR,1,ITM0032,Device unit module module widget,12,428.41,5140.92
+INV0244,11-08-2024,V018,Vendor_18,INR,2,ITM0050,Device gadget unit accessory accessory,13,190.23,2472.99
+INV0244,11-08-2024,V018,Vendor_18,INR,3,ITM0048,Gadget module gadget,19,158.64,3014.16
+INV0244,11-08-2024,V018,Vendor_18,INR,4,ITM0007,Accessory assembly widget component unit,16,202.16,3234.56
+INV0244,11-08-2024,V018,Vendor_18,INR,5,ITM0045,Component widget unit widget device,16,498.63,7978.08
+INV0245,19-11-2024,V015,Vendor_15,INR,1,ITM0012,Device unit assembly widget module unit,5,354.29,1771.45
+INV0245,19-11-2024,V015,Vendor_15,INR,2,ITM0012,Widget part gadget module,2,160.55,321.1
+INV0245,19-11-2024,V015,Vendor_15,INR,3,ITM0035,Accessory gadget unit widget part,11,449.38,4943.18
+INV0245,19-11-2024,V015,Vendor_15,INR,4,ITM0011,Device module widget unit module device widget,7,413.4,2893.8
+INV0245,19-11-2024,V015,Vendor_15,INR,5,ITM0033,Device widget module component,7,345.91,2421.37
+INV0246,28-07-2024,V006,Vendor_6,USD,1,ITM0020,Unit gadget assembly part widget,15,48.64,729.6
+INV0246,28-07-2024,V006,Vendor_6,USD,2,ITM0006,Device gadget unit accessory,6,395.42,2372.52
+INV0246,28-07-2024,V006,Vendor_6,USD,3,ITM0014,Assembly part accessory component device,7,374.97,2624.79
+INV0246,28-07-2024,V006,Vendor_6,USD,4,ITM0048,Component module component component,19,161.19,3062.61
+INV0246,28-07-2024,V006,Vendor_6,USD,5,ITM0015,Component gadget accessory component,15,135.95,2039.25
+INV0247,07-09-2024,V012,Vendor_12,GBP,1,ITM0023,Assembly unit part widget part module assembly,7,496.91,3478.37
+INV0247,07-09-2024,V012,Vendor_12,GBP,2,ITM0028,Unit device component module accessory,18,415.78,7484.04
+INV0247,07-09-2024,V012,Vendor_12,GBP,3,ITM0018,Assembly gadget gadget,9,20.57,185.13
+INV0247,07-09-2024,V012,Vendor_12,GBP,4,ITM0008,Unit gadget gadget unit module module unit,2,164.57,329.14
+INV0247,07-09-2024,V012,Vendor_12,GBP,5,ITM0007,Part widget module module unit,4,97.62,390.48
+INV0248,02-07-2024,V010,Vendor_10,EUR,1,ITM0030,Gadget widget part assembly unit module module,8,130.02,1040.16
+INV0248,02-07-2024,V010,Vendor_10,EUR,2,ITM0024,Module device component accessory part device accessory,17,58.39,992.63
+INV0248,02-07-2024,V010,Vendor_10,EUR,3,ITM0028,Accessory module widget assembly accessory,20,482.79,9655.8
+INV0248,02-07-2024,V010,Vendor_10,EUR,4,ITM0034,Accessory unit gadget unit,2,485.31,970.62
+INV0248,02-07-2024,V010,Vendor_10,EUR,5,ITM0020,Part assembly gadget widget,5,104.2,521
+INV0249,29-03-2024,V010,Vendor_10,GBP,1,ITM0006,Component gadget widget component,18,423.61,7624.98
+INV0249,29-03-2024,V010,Vendor_10,GBP,2,ITM0024,Assembly module assembly,13,350.9,4561.7
+INV0249,29-03-2024,V010,Vendor_10,GBP,3,ITM0031,Part device device widget gadget device,5,202.94,1014.7
+INV0249,29-03-2024,V010,Vendor_10,GBP,4,ITM0021,Part device module module widget,16,336.59,5385.44
+INV0249,29-03-2024,V010,Vendor_10,GBP,5,ITM0038,Gadget unit device,12,184.33,2211.96
+INV0250,13-09-2024,V001,Vendor_1,INR,1,ITM0005,Gadget gadget gadget module,11,195.11,2146.21
+INV0250,13-09-2024,V001,Vendor_1,INR,2,ITM0012,Gadget component device assembly component accessory,6,85.95,515.7
+INV0250,13-09-2024,V001,Vendor_1,INR,3,ITM0044,Part assembly widget device widget part part,1,84.64,84.64
+INV0250,13-09-2024,V001,Vendor_1,INR,4,ITM0009,Assembly device widget unit device module widget,14,133.03,1862.42
+INV0250,13-09-2024,V001,Vendor_1,INR,5,ITM0041,Unit part assembly,12,391.6,4699.2
+INV0251,30-12-2024,V011,Vendor_11,GBP,1,ITM0008,Accessory assembly module device,5,8.44,42.2
+INV0251,30-12-2024,V011,Vendor_11,GBP,2,ITM0046,Component assembly unit part module assembly widget,16,232.82,3725.12
+INV0251,30-12-2024,V011,Vendor_11,GBP,3,ITM0004,Device component module component part assembly gadget,12,211.44,2537.28
+INV0251,30-12-2024,V011,Vendor_11,GBP,4,ITM0029,Component widget gadget device assembly,13,128.07,1664.91
+INV0251,30-12-2024,V011,Vendor_11,GBP,5,ITM0006,Widget device unit module component accessory device,8,459.79,3678.32
+INV0252,25-09-2024,V019,Vendor_19,INR,1,ITM0003,Component widget unit,4,194.05,776.2
+INV0252,25-09-2024,V019,Vendor_19,INR,2,ITM0047,Module unit component,13,16.08,209.04
+INV0252,25-09-2024,V019,Vendor_19,INR,3,ITM0048,Device device widget accessory accessory,7,287.59,2013.13
+INV0252,25-09-2024,V019,Vendor_19,INR,4,ITM0020,Assembly part component part module assembly device,14,141.02,1974.28
+INV0252,25-09-2024,V019,Vendor_19,INR,5,ITM0045,Component device unit accessory,10,139.98,1399.8
+INV0253,27-07-2024,V007,Vendor_7,USD,1,ITM0027,Component assembly part unit,4,114.56,458.24
+INV0253,27-07-2024,V007,Vendor_7,USD,2,ITM0002,Gadget unit device unit assembly,14,319.21,4468.94
+INV0253,27-07-2024,V007,Vendor_7,USD,3,ITM0022,Module accessory widget module module module assembly,16,109.27,1748.32
+INV0253,27-07-2024,V007,Vendor_7,USD,4,ITM0045,Device component widget part,3,317.54,952.62
+INV0253,27-07-2024,V007,Vendor_7,USD,5,ITM0036,Widget device assembly component device,15,338.88,5083.2
+INV0254,16-01-2024,V005,Vendor_5,EUR,1,ITM0040,Unit module device device component,16,494.89,7918.24
+INV0254,16-01-2024,V005,Vendor_5,EUR,2,ITM0025,Gadget unit part widget gadget accessory unit,6,433.12,2598.72
+INV0254,16-01-2024,V005,Vendor_5,EUR,3,ITM0050,Assembly module gadget accessory component device,4,333.8,1335.2
+INV0254,16-01-2024,V005,Vendor_5,EUR,4,ITM0044,Assembly assembly component module device,10,413.94,4139.4
+INV0254,16-01-2024,V005,Vendor_5,EUR,5,ITM0029,Accessory gadget component assembly,11,382.65,4209.15
+INV0255,01-12-2024,V006,Vendor_6,USD,1,ITM0025,Unit accessory module unit unit gadget unit,3,301.79,905.37
+INV0255,01-12-2024,V006,Vendor_6,USD,2,ITM0047,Accessory component component unit assembly widget,12,16.25,195
+INV0255,01-12-2024,V006,Vendor_6,USD,3,ITM0039,Assembly part part gadget module part,6,238.72,1432.32
+INV0255,01-12-2024,V006,Vendor_6,USD,4,ITM0046,Component component accessory gadget,15,232.3,3484.5
+INV0255,01-12-2024,V006,Vendor_6,USD,5,ITM0044,Module component gadget assembly unit part part,6,126.21,757.26
+INV0256,05-02-2024,V001,Vendor_1,USD,1,ITM0044,Part accessory part widget module component,18,64.89,1168.02
+INV0256,05-02-2024,V001,Vendor_1,USD,2,ITM0050,Unit assembly widget assembly device component module,2,184.87,369.74
+INV0256,05-02-2024,V001,Vendor_1,USD,3,ITM0046,Unit module part widget part device unit,4,362.39,1449.56
+INV0256,05-02-2024,V001,Vendor_1,USD,4,ITM0024,Unit gadget component assembly component component,3,231.83,695.49
+INV0256,05-02-2024,V001,Vendor_1,USD,5,ITM0046,Device device module device component assembly,9,286.27,2576.43
+INV0257,31-10-2024,V002,Vendor_2,EUR,1,ITM0010,Component gadget module module component accessory gadget,10,240.27,2402.7
+INV0257,31-10-2024,V002,Vendor_2,EUR,2,ITM0029,Gadget part gadget unit part,9,320.2,2881.8
+INV0257,31-10-2024,V002,Vendor_2,EUR,3,ITM0002,Unit gadget widget module,17,374,6358
+INV0257,31-10-2024,V002,Vendor_2,EUR,4,ITM0034,Assembly accessory accessory unit unit assembly,17,190.31,3235.27
+INV0257,31-10-2024,V002,Vendor_2,EUR,5,ITM0032,Part assembly assembly module,3,174.47,523.41
+INV0258,07-06-2024,V007,Vendor_7,EUR,1,ITM0010,Unit device gadget gadget assembly,19,456.79,8679.01
+INV0258,07-06-2024,V007,Vendor_7,EUR,2,ITM0001,Accessory device module widget unit accessory assembly,9,278.88,2509.92
+INV0258,07-06-2024,V007,Vendor_7,EUR,3,ITM0035,Part accessory widget unit component component device,8,118.03,944.24
+INV0258,07-06-2024,V007,Vendor_7,EUR,4,ITM0046,Gadget accessory component component device device,3,453.54,1360.62
+INV0258,07-06-2024,V007,Vendor_7,EUR,5,ITM0009,Component gadget component device assembly widget part,2,162.83,325.66
+INV0259,20-11-2024,V003,Vendor_3,EUR,1,ITM0031,Module assembly widget,19,111.42,2116.98
+INV0259,20-11-2024,V003,Vendor_3,EUR,2,ITM0032,Unit unit part gadget part,7,296.52,2075.64
+INV0259,20-11-2024,V003,Vendor_3,EUR,3,ITM0041,Device accessory component module component unit component,16,259.53,4152.48
+INV0259,20-11-2024,V003,Vendor_3,EUR,4,ITM0042,Component assembly module device assembly,15,60.18,902.7
+INV0259,20-11-2024,V003,Vendor_3,EUR,5,ITM0049,Assembly component accessory assembly,6,93.5,561
+INV0260,09-08-2024,V010,Vendor_10,USD,1,ITM0029,Unit assembly gadget part device,7,157.06,1099.42
+INV0260,09-08-2024,V010,Vendor_10,USD,2,ITM0020,Device assembly device accessory gadget,5,165.26,826.3
+INV0260,09-08-2024,V010,Vendor_10,USD,3,ITM0013,Part part unit gadget accessory accessory,20,395.43,7908.6
+INV0260,09-08-2024,V010,Vendor_10,USD,4,ITM0050,Component component accessory part module,10,170.19,1701.9
+INV0260,09-08-2024,V010,Vendor_10,USD,5,ITM0023,Assembly module module module device,13,32.38,420.94
+INV0261,28-07-2024,V012,Vendor_12,EUR,1,ITM0030,Widget device gadget device component,12,16.72,200.64
+INV0261,28-07-2024,V012,Vendor_12,EUR,2,ITM0028,Component unit gadget gadget assembly part,4,41.84,167.36
+INV0261,28-07-2024,V012,Vendor_12,EUR,3,ITM0011,Device accessory unit accessory accessory,13,345.46,4490.98
+INV0261,28-07-2024,V012,Vendor_12,EUR,4,ITM0046,Component accessory unit widget widget module,18,187.88,3381.84
+INV0261,28-07-2024,V012,Vendor_12,EUR,5,ITM0019,Assembly part widget,14,413.03,5782.42
+INV0262,18-03-2024,V019,Vendor_19,GBP,1,ITM0037,Unit module component assembly,9,280.55,2524.95
+INV0262,18-03-2024,V019,Vendor_19,GBP,2,ITM0019,Gadget device part,11,478.81,5266.91
+INV0262,18-03-2024,V019,Vendor_19,GBP,3,ITM0024,Device gadget component component module gadget,9,131.4,1182.6
+INV0262,18-03-2024,V019,Vendor_19,GBP,4,ITM0048,Gadget unit module,16,400.06,6400.96
+INV0262,18-03-2024,V019,Vendor_19,GBP,5,ITM0034,Accessory assembly widget,14,497.85,6969.9
+INV0263,15-09-2024,V011,Vendor_11,INR,1,ITM0019,Module widget widget widget unit gadget gadget,17,423.92,7206.64
+INV0263,15-09-2024,V011,Vendor_11,INR,2,ITM0006,Accessory unit accessory device device module component,15,445.23,6678.45
+INV0263,15-09-2024,V011,Vendor_11,INR,3,ITM0048,Unit widget unit module,17,391.65,6658.05
+INV0263,15-09-2024,V011,Vendor_11,INR,4,ITM0048,Accessory module component unit module widget,11,216.44,2380.84
+INV0263,15-09-2024,V011,Vendor_11,INR,5,ITM0017,Unit device assembly unit,7,386.11,2702.77
+INV0264,21-10-2024,V012,Vendor_12,EUR,1,ITM0013,Gadget gadget widget unit,2,390.83,781.66
+INV0264,21-10-2024,V012,Vendor_12,EUR,2,ITM0035,Accessory component component component gadget,10,85.83,858.3
+INV0264,21-10-2024,V012,Vendor_12,EUR,3,ITM0018,Accessory gadget module gadget,15,65.94,989.1
+INV0264,21-10-2024,V012,Vendor_12,EUR,4,ITM0025,Module device device,13,29.36,381.68
+INV0264,21-10-2024,V012,Vendor_12,EUR,5,ITM0029,Gadget device unit gadget accessory assembly,19,363.64,6909.16
+INV0265,03-03-2024,V006,Vendor_6,EUR,1,ITM0008,Device module accessory module gadget widget,17,183.13,3113.21
+INV0265,03-03-2024,V006,Vendor_6,EUR,2,ITM0017,Gadget assembly widget part module part module,10,419.08,4190.8
+INV0265,03-03-2024,V006,Vendor_6,EUR,3,ITM0028,Component device unit part part,1,475.9,475.9
+INV0265,03-03-2024,V006,Vendor_6,EUR,4,ITM0018,Widget part gadget widget assembly,5,349.06,1745.3
+INV0265,03-03-2024,V006,Vendor_6,EUR,5,ITM0049,Widget part part,10,188.99,1889.9
+INV0266,31-07-2024,V006,Vendor_6,INR,1,ITM0012,Accessory accessory device part,6,185.71,1114.26
+INV0266,31-07-2024,V006,Vendor_6,INR,2,ITM0008,Widget gadget module module,9,312.85,2815.65
+INV0266,31-07-2024,V006,Vendor_6,INR,3,ITM0002,Component part widget,5,457.22,2286.1
+INV0266,31-07-2024,V006,Vendor_6,INR,4,ITM0003,Module unit assembly gadget widget accessory widget,3,60.64,181.92
+INV0266,31-07-2024,V006,Vendor_6,INR,5,ITM0031,Accessory part assembly gadget unit unit,10,240.74,2407.4
+INV0267,11-05-2024,V005,Vendor_5,GBP,1,ITM0043,Module unit device assembly device part gadget,8,259.79,2078.32
+INV0267,11-05-2024,V005,Vendor_5,GBP,2,ITM0010,Unit device device component,20,57.09,1141.8
+INV0267,11-05-2024,V005,Vendor_5,GBP,3,ITM0015,Gadget unit component accessory device,17,260.87,4434.79
+INV0267,11-05-2024,V005,Vendor_5,GBP,4,ITM0018,Component module gadget device,2,375.23,750.46
+INV0267,11-05-2024,V005,Vendor_5,GBP,5,ITM0025,Part accessory widget,2,418.51,837.02
+INV0268,01-05-2024,V006,Vendor_6,INR,1,ITM0021,Unit assembly module,19,205.8,3910.2
+INV0268,01-05-2024,V006,Vendor_6,INR,2,ITM0014,Unit assembly gadget component device accessory,11,498.36,5481.96
+INV0268,01-05-2024,V006,Vendor_6,INR,3,ITM0012,Module part device assembly widget,11,382.82,4211.02
+INV0268,01-05-2024,V006,Vendor_6,INR,4,ITM0017,Part module widget,18,67.48,1214.64
+INV0268,01-05-2024,V006,Vendor_6,INR,5,ITM0015,Part gadget device gadget module assembly,18,492.23,8860.14
+INV0269,12-02-2024,V017,Vendor_17,EUR,1,ITM0026,Gadget part gadget widget device module unit,5,283.63,1418.15
+INV0269,12-02-2024,V017,Vendor_17,EUR,2,ITM0034,Widget assembly assembly device accessory gadget gadget,6,319.28,1915.68
+INV0269,12-02-2024,V017,Vendor_17,EUR,3,ITM0040,Part device gadget accessory,20,214.89,4297.8
+INV0269,12-02-2024,V017,Vendor_17,EUR,4,ITM0013,Widget accessory module module assembly,14,447.4,6263.6
+INV0269,12-02-2024,V017,Vendor_17,EUR,5,ITM0030,Gadget accessory widget component unit,10,108.33,1083.3
+INV0270,09-11-2024,V020,Vendor_20,USD,1,ITM0004,Gadget assembly gadget accessory accessory accessory,13,394.22,5124.86
+INV0270,09-11-2024,V020,Vendor_20,USD,2,ITM0042,Module gadget part widget accessory component,13,66.12,859.56
+INV0270,09-11-2024,V020,Vendor_20,USD,3,ITM0048,Accessory gadget module device device widget gadget,10,264.5,2645
+INV0270,09-11-2024,V020,Vendor_20,USD,4,ITM0050,Assembly unit component gadget device assembly widget,11,438.24,4820.64
+INV0270,09-11-2024,V020,Vendor_20,USD,5,ITM0003,Part component unit module gadget device,16,380.44,6087.04
+INV0271,25-04-2024,V017,Vendor_17,USD,1,ITM0006,Accessory part component part assembly device module,2,320.84,641.68
+INV0271,25-04-2024,V017,Vendor_17,USD,2,ITM0050,Part device accessory unit component,9,491.63,4424.67
+INV0271,25-04-2024,V017,Vendor_17,USD,3,ITM0006,Widget part component,16,114.59,1833.44
+INV0271,25-04-2024,V017,Vendor_17,USD,4,ITM0028,Widget part device unit part,13,305.28,3968.64
+INV0271,25-04-2024,V017,Vendor_17,USD,5,ITM0043,Widget widget part unit widget widget,8,183.55,1468.4
+INV0272,10-12-2024,V020,Vendor_20,INR,1,ITM0026,Module part part,19,432.39,8215.41
+INV0272,10-12-2024,V020,Vendor_20,INR,2,ITM0003,Part unit device device widget unit,1,317.11,317.11
+INV0272,10-12-2024,V020,Vendor_20,INR,3,ITM0022,Component module widget,15,425.47,6382.05
+INV0272,10-12-2024,V020,Vendor_20,INR,4,ITM0017,Part module accessory component assembly,2,165.63,331.26
+INV0272,10-12-2024,V020,Vendor_20,INR,5,ITM0045,Device gadget unit part unit,13,377.89,4912.57
+INV0273,29-03-2024,V016,Vendor_16,USD,1,ITM0022,Unit device part component part,4,457.51,1830.04
+INV0273,29-03-2024,V016,Vendor_16,USD,2,ITM0006,Component assembly gadget module component device,12,171.82,2061.84
+INV0273,29-03-2024,V016,Vendor_16,USD,3,ITM0029,Device accessory component gadget unit,17,351.61,5977.37
+INV0273,29-03-2024,V016,Vendor_16,USD,4,ITM0036,Device assembly module device gadget,3,357.27,1071.81
+INV0273,29-03-2024,V016,Vendor_16,USD,5,ITM0043,Part gadget module module gadget module,10,308.64,3086.4
+INV0274,12-02-2024,V011,Vendor_11,EUR,1,ITM0029,Component gadget accessory,1,249.77,249.77
+INV0274,12-02-2024,V011,Vendor_11,EUR,2,ITM0045,Component component unit gadget,1,151.91,151.91
+INV0274,12-02-2024,V011,Vendor_11,EUR,3,ITM0002,Assembly module unit accessory gadget gadget assembly,13,315.49,4101.37
+INV0274,12-02-2024,V011,Vendor_11,EUR,4,ITM0025,Device accessory part component module,8,163.48,1307.84
+INV0274,12-02-2024,V011,Vendor_11,EUR,5,ITM0023,Accessory gadget part,8,398.8,3190.4
+INV0275,23-10-2024,V005,Vendor_5,USD,1,ITM0033,Assembly widget part component module device,18,411.43,7405.74
+INV0275,23-10-2024,V005,Vendor_5,USD,2,ITM0015,Component part assembly module unit widget,6,15.95,95.7
+INV0275,23-10-2024,V005,Vendor_5,USD,3,ITM0029,Unit accessory assembly device widget module accessory,9,287.03,2583.27
+INV0275,23-10-2024,V005,Vendor_5,USD,4,ITM0047,Device assembly device,5,493.17,2465.85
+INV0275,23-10-2024,V005,Vendor_5,USD,5,ITM0014,Component device component component part assembly,14,76.4,1069.6
+INV0276,03-10-2024,V019,Vendor_19,GBP,1,ITM0001,Widget device unit device widget widget module,6,367.62,2205.72
+INV0276,03-10-2024,V019,Vendor_19,GBP,2,ITM0016,Device accessory part widget accessory device component,4,473.34,1893.36
+INV0276,03-10-2024,V019,Vendor_19,GBP,3,ITM0037,Part module assembly part gadget component,6,355.1,2130.6
+INV0276,03-10-2024,V019,Vendor_19,GBP,4,ITM0017,Widget component gadget module unit widget,15,377.15,5657.25
+INV0276,03-10-2024,V019,Vendor_19,GBP,5,ITM0034,Widget unit accessory widget module,6,5.86,35.16
+INV0277,27-09-2024,V001,Vendor_1,USD,1,ITM0021,Component part unit module widget gadget,20,251.61,5032.2
+INV0277,27-09-2024,V001,Vendor_1,USD,2,ITM0035,Accessory widget device gadget,12,289.12,3469.44
+INV0277,27-09-2024,V001,Vendor_1,USD,3,ITM0029,Assembly part assembly unit,18,444.68,8004.24
+INV0277,27-09-2024,V001,Vendor_1,USD,4,ITM0008,Accessory widget device unit gadget,4,251.34,1005.36
+INV0277,27-09-2024,V001,Vendor_1,USD,5,ITM0039,Accessory accessory accessory accessory,18,416.73,7501.14
+INV0278,17-08-2024,V004,Vendor_4,USD,1,ITM0022,Module component part gadget,13,25.59,332.67
+INV0278,17-08-2024,V004,Vendor_4,USD,2,ITM0004,Part accessory device part widget assembly,11,456.37,5020.07
+INV0278,17-08-2024,V004,Vendor_4,USD,3,ITM0037,Device assembly device unit component gadget device,10,472.4,4724
+INV0278,17-08-2024,V004,Vendor_4,USD,4,ITM0028,Module widget widget widget unit unit,10,251.32,2513.2
+INV0278,17-08-2024,V004,Vendor_4,USD,5,ITM0050,Device device assembly widget accessory,10,446.59,4465.9
+INV0279,19-10-2024,V018,Vendor_18,EUR,1,ITM0042,Device assembly widget component gadget,18,30.96,557.28
+INV0279,19-10-2024,V018,Vendor_18,EUR,2,ITM0044,Device assembly gadget module device accessory,4,231.33,925.32
+INV0279,19-10-2024,V018,Vendor_18,EUR,3,ITM0012,Device widget gadget gadget,20,12.72,254.4
+INV0279,19-10-2024,V018,Vendor_18,EUR,4,ITM0025,Accessory gadget component accessory,11,492.28,5415.08
+INV0279,19-10-2024,V018,Vendor_18,EUR,5,ITM0025,Module part widget gadget,8,312.77,2502.16
+INV0280,12-05-2024,V014,Vendor_14,GBP,1,ITM0014,Module widget part module part,7,409.28,2864.96
+INV0280,12-05-2024,V014,Vendor_14,GBP,2,ITM0032,Unit unit module device assembly,8,39.91,319.28
+INV0280,12-05-2024,V014,Vendor_14,GBP,3,ITM0008,Gadget part widget,18,167.05,3006.9
+INV0280,12-05-2024,V014,Vendor_14,GBP,4,ITM0048,Accessory device device component component,19,134.44,2554.36
+INV0280,12-05-2024,V014,Vendor_14,GBP,5,ITM0049,Module part gadget,3,279.6,838.8
+INV0281,11-09-2024,V007,Vendor_7,EUR,1,ITM0034,Assembly widget component,13,96.32,1252.16
+INV0281,11-09-2024,V007,Vendor_7,EUR,2,ITM0049,Component unit module,5,223.8,1119
+INV0281,11-09-2024,V007,Vendor_7,EUR,3,ITM0050,Unit assembly accessory,7,363.83,2546.81
+INV0281,11-09-2024,V007,Vendor_7,EUR,4,ITM0003,Widget gadget part component gadget assembly accessory,2,198.7,397.4
+INV0281,11-09-2024,V007,Vendor_7,EUR,5,ITM0010,Assembly component unit module device,1,436.31,436.31
+INV0282,05-02-2024,V008,Vendor_8,GBP,1,ITM0036,Gadget accessory widget device,14,261.43,3660.02
+INV0282,05-02-2024,V008,Vendor_8,GBP,2,ITM0002,Device device component widget accessory device widget,1,283.54,283.54
+INV0282,05-02-2024,V008,Vendor_8,GBP,3,ITM0025,Gadget component unit unit widget unit accessory,19,324.17,6159.23
+INV0282,05-02-2024,V008,Vendor_8,GBP,4,ITM0019,Module accessory component assembly component accessory unit,16,460.12,7361.92
+INV0282,05-02-2024,V008,Vendor_8,GBP,5,ITM0010,Assembly module gadget unit gadget accessory,9,441.56,3974.04
+INV0283,07-07-2024,V001,Vendor_1,INR,1,ITM0020,Widget module part part,13,66.89,869.57
+INV0283,07-07-2024,V001,Vendor_1,INR,2,ITM0041,Gadget module part assembly assembly,13,234.44,3047.72
+INV0283,07-07-2024,V001,Vendor_1,INR,3,ITM0022,Unit gadget assembly component device,19,101.33,1925.27
+INV0283,07-07-2024,V001,Vendor_1,INR,4,ITM0047,Module assembly part part module component module,16,58.78,940.48
+INV0283,07-07-2024,V001,Vendor_1,INR,5,ITM0042,Component part device unit widget gadget,18,445.51,8019.18
+INV0284,03-12-2024,V013,Vendor_13,INR,1,ITM0012,Widget gadget unit gadget accessory device,5,322.41,1612.05
+INV0284,03-12-2024,V013,Vendor_13,INR,2,ITM0037,Gadget component component device,16,161.53,2584.48
+INV0284,03-12-2024,V013,Vendor_13,INR,3,ITM0049,Assembly unit widget widget widget widget accessory,2,169.1,338.2
+INV0284,03-12-2024,V013,Vendor_13,INR,4,ITM0006,Accessory module device accessory component,3,184.66,553.98
+INV0284,03-12-2024,V013,Vendor_13,INR,5,ITM0021,Accessory assembly module gadget component part gadget,5,85.81,429.05
+INV0285,01-03-2024,V018,Vendor_18,INR,1,ITM0011,Assembly assembly accessory device accessory accessory unit,5,455.05,2275.25
+INV0285,01-03-2024,V018,Vendor_18,INR,2,ITM0007,Gadget module module,6,384.73,2308.38
+INV0285,01-03-2024,V018,Vendor_18,INR,3,ITM0038,Accessory unit gadget accessory accessory,19,175.2,3328.8
+INV0285,01-03-2024,V018,Vendor_18,INR,4,ITM0022,Part widget gadget,10,340.3,3403
+INV0285,01-03-2024,V018,Vendor_18,INR,5,ITM0010,Accessory part device,11,149.71,1646.81
+INV0286,12-02-2024,V012,Vendor_12,INR,1,ITM0002,Accessory module gadget part gadget component assembly,1,247.36,247.36
+INV0286,12-02-2024,V012,Vendor_12,INR,2,ITM0011,Unit device component,14,172.07,2408.98
+INV0286,12-02-2024,V012,Vendor_12,INR,3,ITM0018,Unit component widget part accessory widget,19,14.51,275.69
+INV0286,12-02-2024,V012,Vendor_12,INR,4,ITM0025,Accessory module widget device,13,171.14,2224.82
+INV0286,12-02-2024,V012,Vendor_12,INR,5,ITM0033,Module module accessory device assembly assembly,9,46.24,416.16
+INV0287,18-08-2024,V003,Vendor_3,GBP,1,ITM0033,Widget gadget device,8,41.84,334.72
+INV0287,18-08-2024,V003,Vendor_3,GBP,2,ITM0024,Gadget part part,3,9.77,29.31
+INV0287,18-08-2024,V003,Vendor_3,GBP,3,ITM0001,Part unit gadget unit part,15,317.35,4760.25
+INV0287,18-08-2024,V003,Vendor_3,GBP,4,ITM0022,Unit widget gadget,3,96.86,290.58
+INV0287,18-08-2024,V003,Vendor_3,GBP,5,ITM0046,Widget part component,2,359.9,719.8
+INV0288,17-07-2024,V011,Vendor_11,EUR,1,ITM0031,Device assembly device assembly,19,433.18,8230.42
+INV0288,17-07-2024,V011,Vendor_11,EUR,2,ITM0004,Gadget widget gadget gadget gadget assembly,7,351.48,2460.36
+INV0288,17-07-2024,V011,Vendor_11,EUR,3,ITM0045,Gadget part device,8,85.4,683.2
+INV0288,17-07-2024,V011,Vendor_11,EUR,4,ITM0041,Component module unit gadget component module component,1,329.15,329.15
+INV0288,17-07-2024,V011,Vendor_11,EUR,5,ITM0044,Component gadget widget assembly accessory,2,311.82,623.64
+INV0289,08-08-2024,V003,Vendor_3,INR,1,ITM0001,Component device accessory,20,340.71,6814.2
+INV0289,08-08-2024,V003,Vendor_3,INR,2,ITM0005,Component part assembly device assembly assembly device,11,275.23,3027.53
+INV0289,08-08-2024,V003,Vendor_3,INR,3,ITM0048,Component gadget device module,15,165.56,2483.4
+INV0289,08-08-2024,V003,Vendor_3,INR,4,ITM0026,Part assembly gadget device module accessory,5,395.19,1975.95
+INV0289,08-08-2024,V003,Vendor_3,INR,5,ITM0025,Module widget part unit,6,79.76,478.56
+INV0290,04-04-2024,V007,Vendor_7,USD,1,ITM0002,Assembly component gadget assembly gadget part,18,142.45,2564.1
+INV0290,04-04-2024,V007,Vendor_7,USD,2,ITM0013,Unit assembly module part assembly unit,12,480.91,5770.92
+INV0290,04-04-2024,V007,Vendor_7,USD,3,ITM0005,Device unit gadget assembly assembly,7,211.09,1477.63
+INV0290,04-04-2024,V007,Vendor_7,USD,4,ITM0001,Unit module component unit unit,20,69.07,1381.4
+INV0290,04-04-2024,V007,Vendor_7,USD,5,ITM0019,Device part part module accessory,3,13.77,41.31
+INV0291,08-07-2024,V014,Vendor_14,EUR,1,ITM0014,Device accessory accessory unit accessory,16,394.47,6311.52
+INV0291,08-07-2024,V014,Vendor_14,EUR,2,ITM0036,Unit component gadget gadget component,19,485.71,9228.49
+INV0291,08-07-2024,V014,Vendor_14,EUR,3,ITM0015,Unit part component unit accessory component part,13,376.35,4892.55
+INV0291,08-07-2024,V014,Vendor_14,EUR,4,ITM0040,Widget assembly unit accessory accessory,9,38.13,343.17
+INV0291,08-07-2024,V014,Vendor_14,EUR,5,ITM0025,Part component gadget part,2,239.5,479
+INV0292,24-04-2024,V001,Vendor_1,GBP,1,ITM0023,Assembly gadget component component accessory unit assembly,7,479.07,3353.49
+INV0292,24-04-2024,V001,Vendor_1,GBP,2,ITM0039,Gadget device device gadget part component part,14,351.82,4925.48
+INV0292,24-04-2024,V001,Vendor_1,GBP,3,ITM0001,Component gadget widget unit device,3,187.47,562.41
+INV0292,24-04-2024,V001,Vendor_1,GBP,4,ITM0050,Assembly module gadget module,11,58.33,641.63
+INV0292,24-04-2024,V001,Vendor_1,GBP,5,ITM0018,Component device assembly gadget gadget accessory,4,30.95,123.8
+INV0293,16-06-2024,V018,Vendor_18,INR,1,ITM0024,Component device assembly unit,11,200.79,2208.69
+INV0293,16-06-2024,V018,Vendor_18,INR,2,ITM0021,Part widget component unit unit part widget,5,250.85,1254.25
+INV0293,16-06-2024,V018,Vendor_18,INR,3,ITM0005,Gadget assembly accessory component,12,486.3,5835.6
+INV0293,16-06-2024,V018,Vendor_18,INR,4,ITM0022,Module device assembly,18,35.76,643.68
+INV0293,16-06-2024,V018,Vendor_18,INR,5,ITM0027,Device assembly widget gadget gadget device,9,117.56,1058.04
+INV0294,29-01-2024,V018,Vendor_18,USD,1,ITM0004,Assembly widget device accessory,5,252.79,1263.95
+INV0294,29-01-2024,V018,Vendor_18,USD,2,ITM0021,Device device widget device assembly device,14,277.27,3881.78
+INV0294,29-01-2024,V018,Vendor_18,USD,3,ITM0003,Unit gadget unit widget,3,292.88,878.64
+INV0294,29-01-2024,V018,Vendor_18,USD,4,ITM0024,Accessory gadget gadget assembly accessory device component,18,190.28,3425.04
+INV0294,29-01-2024,V018,Vendor_18,USD,5,ITM0025,Part device component gadget,9,199.35,1794.15
+INV0295,29-11-2024,V010,Vendor_10,INR,1,ITM0002,Unit unit assembly module gadget widget,4,372.69,1490.76
+INV0295,29-11-2024,V010,Vendor_10,INR,2,ITM0014,Device device component device,7,443.89,3107.23
+INV0295,29-11-2024,V010,Vendor_10,INR,3,ITM0020,Assembly unit component accessory part,7,257.99,1805.93
+INV0295,29-11-2024,V010,Vendor_10,INR,4,ITM0020,Gadget gadget module,16,473.66,7578.56
+INV0295,29-11-2024,V010,Vendor_10,INR,5,ITM0025,Assembly module device accessory assembly,20,146.24,2924.8
+INV0296,07-12-2024,V008,Vendor_8,USD,1,ITM0040,Part part unit,1,473.66,473.66
+INV0296,07-12-2024,V008,Vendor_8,USD,2,ITM0001,Assembly device accessory widget module,7,485.62,3399.34
+INV0296,07-12-2024,V008,Vendor_8,USD,3,ITM0048,Widget module widget device accessory,10,75.21,752.1
+INV0296,07-12-2024,V008,Vendor_8,USD,4,ITM0030,Gadget unit accessory part,16,91.42,1462.72
+INV0296,07-12-2024,V008,Vendor_8,USD,5,ITM0008,Device assembly part,18,140.2,2523.6
+INV0297,12-01-2024,V019,Vendor_19,INR,1,ITM0005,Gadget module module widget,14,416.07,5824.98
+INV0297,12-01-2024,V019,Vendor_19,INR,2,ITM0027,Accessory unit widget widget,9,356.4,3207.6
+INV0297,12-01-2024,V019,Vendor_19,INR,3,ITM0047,Gadget component device accessory gadget device,1,497.94,497.94
+INV0297,12-01-2024,V019,Vendor_19,INR,4,ITM0003,Part module accessory assembly component part widget,12,48.77,585.24
+INV0297,12-01-2024,V019,Vendor_19,INR,5,ITM0024,Part assembly module accessory device assembly,11,368.92,4058.12
+INV0298,26-06-2024,V014,Vendor_14,EUR,1,ITM0038,Module accessory device gadget device accessory,18,206.87,3723.66
+INV0298,26-06-2024,V014,Vendor_14,EUR,2,ITM0028,Unit part component,12,324.5,3894
+INV0298,26-06-2024,V014,Vendor_14,EUR,3,ITM0029,Part gadget widget assembly part unit unit,18,318.19,5727.42
+INV0298,26-06-2024,V014,Vendor_14,EUR,4,ITM0048,Part unit accessory part,13,45.46,590.98
+INV0298,26-06-2024,V014,Vendor_14,EUR,5,ITM0027,Accessory assembly assembly,19,7,133
+INV0299,08-10-2024,V006,Vendor_6,EUR,1,ITM0044,Assembly component part module accessory,17,330.16,5612.72
+INV0299,08-10-2024,V006,Vendor_6,EUR,2,ITM0026,Unit device device accessory,8,322.03,2576.24
+INV0299,08-10-2024,V006,Vendor_6,EUR,3,ITM0030,Part accessory gadget widget,17,400.97,6816.49
+INV0299,08-10-2024,V006,Vendor_6,EUR,4,ITM0032,Accessory device component device,10,413.49,4134.9
+INV0299,08-10-2024,V006,Vendor_6,EUR,5,ITM0035,Accessory gadget widget,10,64.93,649.3
+INV0300,05-04-2024,V003,Vendor_3,USD,1,ITM0017,Accessory module module module device component,13,190.58,2477.54
+INV0300,05-04-2024,V003,Vendor_3,USD,2,ITM0020,Unit accessory unit unit device accessory,16,163.22,2611.52
+INV0300,05-04-2024,V003,Vendor_3,USD,3,ITM0002,Device part module assembly widget,19,312.01,5928.19
+INV0300,05-04-2024,V003,Vendor_3,USD,4,ITM0023,Accessory module accessory device widget component,3,46.07,138.21
+INV0300,05-04-2024,V003,Vendor_3,USD,5,ITM0047,Assembly device component,16,22,352
